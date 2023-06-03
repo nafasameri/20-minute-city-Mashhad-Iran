@@ -1,0 +1,33 @@
+مشهد: https://www.openstreetmap.org/relation/5725142	  
+	  
+لینک ها	  
+منطقه 1: https://www.openstreetmap.org/relation/5710706
+منطقه 2: https://www.openstreetmap.org/relation/5725072
+منطقه 3: https://www.openstreetmap.org/relation/5714586
+منطقه 4: https://www.openstreetmap.org/relation/5725071
+منطقه 5: https://www.openstreetmap.org/relation/5711407
+منطقه 6: https://www.openstreetmap.org/relation/5711567
+منطقه 7: https://www.openstreetmap.org/relation/5724225
+منطقه 8: https://www.openstreetmap.org/relation/5714602
+منطقه 9: https://www.openstreetmap.org/relation/5722613
+منطقه 10: https://www.openstreetmap.org/relation/5714616
+منطقه 11: https://www.openstreetmap.org/relation/5711010
+منطقه 12: https://www.openstreetmap.org/relation/5724306 و https://www.openstreetmap.org/relation/5724306
+منطقه سامن: https://www.openstreetmap.org/relation/5712345
+
+
+
+مختصات
+منطقه 1: #map= (59.57495 36.30636)
+منطقه 2: #map= (59.58500 36.33726)
+منطقه 3: #map= (59.63748 36.31805)
+منطقه 4: #map= (59.65819 36.30334)
+منطقه 5: #map= (59.65108 36.28557)
+منطقه 6: #map= (59.64570 36.26917)
+منطقه 7: #map= (59.61066 36.25175)
+منطقه 8: #map= (59.58666 36.27936)
+منطقه 9: #map= (59.50599 36.30347)
+منطقه 10: #map= (59.51925 36.35962)
+منطقه 11: #map= (59.50920 36.33687)
+منطقه 12: #map= (59.46735 36.37493) و #map= (59.48622 36.45910)
+منطقه سامن: #map= (59.62104 36.28948)

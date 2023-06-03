@@ -1,0 +1,407 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<osm version="0.6" generator="CGImap 0.8.8 (197569 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<relation id="5725142" visible="true" version="36" changeset="122411150" timestamp="2022-06-15T10:34:27Z" user="Priya1904" uid="12429716">
+<member type="way" ref="632502941" role="outer"/>
+<member type="way" ref="632502943" role="outer"/>
+<member type="way" ref="632502939" role="outer"/>
+<member type="way" ref="384988473" role="outer"/>
+<member type="way" ref="632502940" role="outer"/>
+<member type="way" ref="384136089" role="outer"/>
+<member type="way" ref="384710228" role="outer"/>
+<member type="way" ref="636207692" role="outer"/>
+<member type="way" ref="636207693" role="outer"/>
+<member type="way" ref="636207694" role="outer"/>
+<member type="way" ref="636207695" role="outer"/>
+<member type="way" ref="636207700" role="outer"/>
+<member type="way" ref="636207701" role="outer"/>
+<member type="way" ref="441867953" role="outer"/>
+<member type="way" ref="384802058" role="outer"/>
+<member type="way" ref="648229035" role="outer"/>
+<member type="way" ref="636260113" role="outer"/>
+<member type="way" ref="636260110" role="outer"/>
+<member type="way" ref="441867948" role="outer"/>
+<member type="way" ref="384136811" role="outer"/>
+<member type="way" ref="631852292" role="outer"/>
+<member type="way" ref="632176921" role="outer"/>
+<member type="way" ref="632176922" role="outer"/>
+<member type="way" ref="632176923" role="outer"/>
+<member type="way" ref="384845091" role="outer"/>
+<member type="way" ref="632176926" role="outer"/>
+<member type="way" ref="631852290" role="outer"/>
+<member type="way" ref="632176929" role="outer"/>
+<member type="way" ref="631852263" role="outer"/>
+<member type="way" ref="441867949" role="outer"/>
+<member type="way" ref="632502956" role="outer"/>
+<member type="way" ref="632502954" role="outer"/>
+<member type="way" ref="387705764" role="outer"/>
+<member type="way" ref="441867950" role="outer"/>
+<member type="way" ref="384133658" role="outer"/>
+<member type="way" ref="633612834" role="outer"/>
+<member type="way" ref="384845148" role="outer"/>
+<member type="way" ref="634113725" role="outer"/>
+<member type="way" ref="633840266" role="outer"/>
+<member type="way" ref="634113724" role="outer"/>
+<member type="way" ref="383817404" role="outer"/>
+<member type="way" ref="441867947" role="outer"/>
+<member type="way" ref="383841594" role="outer"/>
+<member type="way" ref="688485573" role="outer"/>
+<member type="way" ref="632226373" role="outer"/>
+<member type="way" ref="632226369" role="outer"/>
+<member type="way" ref="383841597" role="outer"/>
+<member type="way" ref="688485571" role="outer"/>
+<member type="way" ref="634170137" role="outer"/>
+<member type="way" ref="635265704" role="outer"/>
+<member type="way" ref="441867951" role="outer"/>
+<member type="way" ref="635265707" role="outer"/>
+<member type="way" ref="635265711" role="outer"/>
+<member type="way" ref="384797079" role="outer"/>
+<member type="way" ref="635265713" role="outer"/>
+<member type="way" ref="635265715" role="outer"/>
+<member type="way" ref="635265738" role="outer"/>
+<member type="way" ref="441867952" role="outer"/>
+<member type="way" ref="635265750" role="outer"/>
+<member type="way" ref="648229034" role="outer"/>
+<member type="way" ref="648229029" role="outer"/>
+<member type="way" ref="418894923" role="outer"/>
+<member type="way" ref="636260101" role="outer"/>
+<member type="way" ref="648229032" role="outer"/>
+<member type="way" ref="636260104" role="outer"/>
+<member type="way" ref="648229033" role="outer"/>
+<member type="way" ref="441867954" role="outer"/>
+<member type="node" ref="26038568" role="admin_centre"/>
+<member type="relation" ref="5710706" role="subarea"/>
+<member type="relation" ref="5725072" role="subarea"/>
+<member type="relation" ref="5714586" role="subarea"/>
+<member type="relation" ref="5725071" role="subarea"/>
+<member type="relation" ref="5711407" role="subarea"/>
+<member type="relation" ref="5711567" role="subarea"/>
+<member type="relation" ref="5724225" role="subarea"/>
+<member type="relation" ref="5714602" role="subarea"/>
+<member type="relation" ref="5722613" role="subarea"/>
+<member type="relation" ref="5714616" role="subarea"/>
+<member type="relation" ref="5711010" role="subarea"/>
+<member type="relation" ref="5724306" role="subarea"/>
+<member type="relation" ref="5712345" role="subarea"/>
+<tag k="admin_level" v="7"/>
+<tag k="boundary" v="administrative"/>
+<tag k="name" v="شهر مشهد"/>
+<tag k="name:ar" v="مشهد"/>
+<tag k="name:en" v="Mashhad"/>
+<tag k="name:lt" v="Mešhedas"/>
+<tag k="name:nl" v="Mashhad"/>
+<tag k="name:pt" v="Mashhad"/>
+<tag k="name:zh" v="馬什哈德"/>
+<tag k="name:zh-Hans" v="马什哈德"/>
+<tag k="place" v="city"/>
+<tag k="source" v="Iran's New Boundaries maps (1397-2019) available on amar.org.ir website"/>
+<tag k="type" v="boundary"/>
+<tag k="wikidata" v="Q121157"/>
+<tag k="wikipedia" v="en:Mashhad"/>
+</relation>
+</osm>
+
+
+
+
+<details open="">
+        <summary>81 members</summary>
+        <ul class="list-unstyled">
+          <li class="way">
+  Way <a title="" href="/way/632502941"><bdi>ناحیه منفصل قرقی</bdi> (<bdi>632502941</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632502943"><bdi>ناحیه منفصل قرقی</bdi> (<bdi>632502943</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632502939"><bdi>ناحیه منفصل قرقی</bdi> (<bdi>632502939</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/384988473"><bdi>ناحیه منفصل قرقی</bdi> (<bdi>384988473</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632502940"><bdi>ناحیه منفصل قرقی</bdi> (<bdi>632502940</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/384136089">384136089</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/384710228">384710228</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/636207692">636207692</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/636207693">636207693</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/636207694">636207694</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/636207695">636207695</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/636207700">636207700</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/636207701">636207701</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/441867953">441867953</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/384802058">384802058</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/648229035">648229035</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/636260113">636260113</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/636260110">636260110</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/441867948"><bdi>منطقه ۱۲</bdi> (<bdi>441867948</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/384136811"><bdi>منطقه ۱۰</bdi> (<bdi>384136811</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/631852292"><bdi>منطقه ۲</bdi> (<bdi>631852292</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632176921"><bdi>منطقه ۲</bdi> (<bdi>632176921</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632176922"><bdi>منطقه ۲</bdi> (<bdi>632176922</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632176923"><bdi>منطقه ۲</bdi> (<bdi>632176923</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/384845091"><bdi>منطقه ۲</bdi> (<bdi>384845091</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632176926"><bdi>منطقه ۲</bdi> (<bdi>632176926</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/631852290"><bdi>منطقه ۲</bdi> (<bdi>631852290</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632176929"><bdi>منطقه ۲</bdi> (<bdi>632176929</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/631852263"><bdi>منطقه ۲</bdi> (<bdi>631852263</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/441867949"><bdi>منطقه ۲</bdi> (<bdi>441867949</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632502956"><bdi>منطقه ۳</bdi> (<bdi>632502956</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632502954"><bdi>منطقه ۳</bdi> (<bdi>632502954</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/387705764"><bdi>منطقه ۳</bdi> (<bdi>387705764</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/441867950"><bdi>منطقه ۳</bdi> (<bdi>441867950</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/384133658"><bdi>منطقه ۳</bdi> (<bdi>384133658</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/633612834"><bdi>منطقه ۴</bdi> (<bdi>633612834</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/384845148"><bdi>منطقه ۴</bdi> (<bdi>384845148</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/634113725"><bdi>مرز منطقه ۵ شهرداری مشهد</bdi> (<bdi>634113725</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/633840266"><bdi>مرز منطقه ۵ شهرداری مشهد</bdi> (<bdi>633840266</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/634113724"><bdi>مرز منطقه ۵ شهرداری مشهد</bdi> (<bdi>634113724</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/383817404"><bdi>مرز منطقه ۵ شهرداری مشهد</bdi> (<bdi>383817404</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/441867947"><bdi>مرز منطقه ۵ شهرداری مشهد</bdi> (<bdi>441867947</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/383841594"><bdi>مرز منطقه ۶ شهرداری مشهد</bdi> (<bdi>383841594</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/688485573"><bdi>مرز منطقه ۶ شهرداری مشهد</bdi> (<bdi>688485573</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632226373">632226373</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/632226369"><bdi>منطقه ۶ شهرداری مشهد</bdi> (<bdi>632226369</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/383841597"><bdi>منطقه ۶ شهرداری مشهد</bdi> (<bdi>383841597</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/688485571">688485571</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/634170137"><bdi>مرز منطقه ۶ شهرداری مشهد</bdi> (<bdi>634170137</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/635265704"><bdi>منطقه ۷</bdi> (<bdi>635265704</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/441867951"><bdi>منطقه ۷</bdi> (<bdi>441867951</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/635265707"><bdi>منطقه ۷</bdi> (<bdi>635265707</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/635265711"><bdi>منطقه ۷</bdi> (<bdi>635265711</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/384797079"><bdi>منطقه ۷</bdi> (<bdi>384797079</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/635265713"><bdi>منطقه ۷</bdi> (<bdi>635265713</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/635265715"><bdi>منطقه ۷</bdi> (<bdi>635265715</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/635265738"><bdi>منطقه ۷</bdi> (<bdi>635265738</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/441867952">441867952</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/635265750">635265750</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/648229034"><bdi>ناحیه منفصل توس</bdi> (<bdi>648229034</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/648229029"><bdi>ناحیه منفصل توس</bdi> (<bdi>648229029</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/418894923"><bdi>ناحیه منفصل توس</bdi> (<bdi>418894923</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/636260101"><bdi>ناحیه منفصل توس</bdi> (<bdi>636260101</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/648229032"><bdi>ناحیه منفصل توس</bdi> (<bdi>648229032</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/636260104"><bdi>ناحیه منفصل توس</bdi> (<bdi>636260104</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/648229033"><bdi>ناحیه منفصل توس</bdi> (<bdi>648229033</bdi>)</a> as outer
+</li>
+<li class="way">
+  Way <a title="" href="/way/441867954"><bdi>ناحیه منفصل توس</bdi> (<bdi>441867954</bdi>)</a> as outer
+</li>
+<li class="node">
+  Node <a title="" href="/node/26038568"><bdi>Mashhad</bdi> (<bdi>26038568</bdi>)</a> as admin_centre
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5710706"><bdi>District 1</bdi> (<bdi>5710706</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5725072"><bdi>District 2</bdi> (<bdi>5725072</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5714586"><bdi>District 3</bdi> (<bdi>5714586</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5725071"><bdi>District 4</bdi> (<bdi>5725071</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5711407"><bdi>District 5</bdi> (<bdi>5711407</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5711567"><bdi>District 6</bdi> (<bdi>5711567</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5724225"><bdi>District 7</bdi> (<bdi>5724225</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5714602"><bdi>District 8</bdi> (<bdi>5714602</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5722613"><bdi>District 9</bdi> (<bdi>5722613</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5714616"><bdi>District 10</bdi> (<bdi>5714616</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5711010"><bdi>District 11</bdi> (<bdi>5711010</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5724306"><bdi>District 12</bdi> (<bdi>5724306</bdi>)</a> as subarea
+</li>
+<li class="relation">
+  Relation <a title="" href="/relation/5712345"><bdi>Samen District</bdi> (<bdi>5712345</bdi>)</a> as subarea
+</li>
+
+        </ul>
+      </details>
+	  
+	  
+
+مشهد: https://www.openstreetmap.org/relation/5725142	  
+	  
+لینک ها	  
+منطقه 1: https://www.openstreetmap.org/relation/5710706
+منطقه 2: https://www.openstreetmap.org/relation/5725072
+منطقه 3: https://www.openstreetmap.org/relation/5714586
+منطقه 4: https://www.openstreetmap.org/relation/5725071
+منطقه 5: https://www.openstreetmap.org/relation/5711407
+منطقه 6: https://www.openstreetmap.org/relation/5711567
+منطقه 7: https://www.openstreetmap.org/relation/5724225
+منطقه 8: https://www.openstreetmap.org/relation/5714602
+منطقه 9: https://www.openstreetmap.org/relation/5722613
+منطقه 10: https://www.openstreetmap.org/relation/5714616
+منطقه 11: https://www.openstreetmap.org/relation/5711010
+منطقه 12: https://www.openstreetmap.org/relation/5724306 و https://www.openstreetmap.org/relation/5724306
+منطقه سامن: https://www.openstreetmap.org/relation/5712345
+
+
+
+مختصات
+منطقه 1: #map= (59.57495 36.30636)
+منطقه 2: #map= (59.58500 36.33726)
+منطقه 3: #map= (59.63748 36.31805)
+منطقه 4: #map= (59.65819 36.30334)
+منطقه 5: #map= (59.65108 36.28557)
+منطقه 6: #map= (59.64570 36.26917)
+منطقه 7: #map= (59.61066 36.25175)
+منطقه 8: #map= (59.58666 36.27936)
+منطقه 9: #map= (59.50599 36.30347)
+منطقه 10: #map= (59.51925 36.35962)
+منطقه 11: #map= (59.50920 36.33687)
+منطقه 12: #map= (59.46735 36.37493) و #map= (59.48622 36.45910)
+منطقه سامن: #map= (59.62104 36.28948)
+
+
+
+
+منطقه 1: n=36.3288 e=59.6262 w=59.5204 s=36.2806
+منطقه 2: n=36.4464 e=59.7787 w=59.3557 s=36.2537
+منطقه 3: n=36.4591 e=59.8566 w=59.4336 s=36.2664
+منطقه 4: n=36.3342 e=59.7203 w=59.6146 s=36.2860
+منطقه 5: n=36.3163 e=59.7182 w=59.6125 s=36.2681
+منطقه 6: n=36.3086 e=59.7763 w=59.5648 s=36.2121
+منطقه 7: n=36.3306 e=59.8491 w=59.4261 s=36.1376
+منطقه 8: n=36.2991 e=59.6226 w=59.5169 s=36.2509
+منطقه 9: n=36.3556 e=59.6055 w=59.3940 s=36.2592
+منطقه 10: n=36.4205 e=59.6146 w=59.4031 s=36.3241
+منطقه 11: n=36.3572 e=59.5571 w=59.4514 s=36.3090
+منطقه 12: 
+منطقه سامن: 

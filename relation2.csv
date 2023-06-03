@@ -1,0 +1,2 @@
+,geometry,bbox_north,bbox_south,bbox_east,bbox_west,place_id,osm_type,osm_id,lat,lon,display_name,class,type,importance
+0,"LINESTRING (-109.7076117 32.8240866, -109.705767 32.8240745, -109.699444 32.824058, -109.699367 32.824058, -109.697142 32.823829, -109.6914704 32.8238714, -109.6907797 32.8238286)",32.8240866,32.8238286,-109.6907797,-109.7076117,109503782,way,16846962,32.824058,-109.699367,"East Relation Street, Safford, Graham County, Arizona, 85548, United States",highway,residential,0.20000999999999994

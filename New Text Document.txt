@@ -1,0 +1,78 @@
+SELECT ?osmid ?adminlvl ?wd ?wdLabel {
+  # find relation with a wikidata tag
+  ?osmid osmt:wikidata ?wd ;
+         osmt:admin_level ?adminlvl .
+
+  # add user's or english label to the found wikidata
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  
+  # the ?wd variable must also be matching this subquery
+  # it finds wd tags that appear more than once
+  { SELECT ?wd { 
+    ?osmid osmt:wikidata ?wd ;
+           osmt:admin_level ?adminlvl .
+    }
+    GROUP BY ?wd
+    HAVING (COUNT(*) > 1)
+  }
+  
+  SERVICE wikibase:box {
+    ?osmid osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+
+} LIMIT 10
+
+
+
+
+
+
+### Recursive subareas of a boundary relation
+### Displays a table of subareas of Indiana, their subareas, and so on recursively. osmm:has is one of the few uses of property paths within pure OpenStreetMap data.
+
+
+SELECT ?subarea ?adminLevel ?name WHERE {
+  # Query OpenStreetMap for members of the Indiana boundary relation, their members, and so on
+  osmrel:5725142 osmm:has+ ?subarea.
+  
+  # The subarea must have the role “subarea” in some relation (not necessarily the Indiana relation, but potentially an intermediate relation)
+  ?area ?subarea "subarea".
+  
+  # Get the subarea’s name and administrative level
+  ?subarea osmt:name ?name;
+           osmt:admin_level ?adminLevel.
+}
+ORDER BY ?adminLevel ?name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT * WHERE {
+  # Query OpenStreetMap for members of the Indiana boundary relation, their members, and so on
+  osmrel:5725142 osmm:has+ ?subarea.
+  
+  # The subarea must have the role “subarea” in some relation (not necessarily the Indiana relation, but potentially an intermediate relation)
+  ?area ?subarea "subarea".
+  
+  # Get the subarea’s name and administrative level
+  ?subarea osmt:name ?name_subarea.  
+  ?area osmt:name ?name_area.
+
+  ?subarea osmm:loc ?coordinates_subarea.
+  ?area osmm:loc ?coordinates_area.
+}
+ORDER BY ?name_area ?name_subarea

@@ -1,0 +1,260 @@
+# Parks in mashhad
+SELECT * WHERE {
+  ?pitch osmt:leisure "park".
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+
+# bus_stop in mashhad
+SELECT * WHERE {
+  ?pitch osmt:highway "bus_stop";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+
+# restaurant in mashhad
+SELECT * WHERE {
+  ?pitch osmt:amenity "restaurant";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# Sidewalk that runs typically along residential road. Use in combination with highway=footway or highway=path
+SELECT * WHERE { 
+  ?pitch osmt:footway "sidewalk";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# Specifies that the highways has sidewalks on both sides, on one side or no sidewalk at all
+SELECT * WHERE {
+  ?pitch osmt:sidewalk "both";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# Crosswalk that connects two sidewalks on the opposite side of the road. Often recognized by painted markings on the road, road sign or traffic lights. Use in combination with highway=footway or highway=path. Useful information is presence of tactile_paving=*, wheelchair=* suitability and kerb=* represented as a node on the crosswalk way.
+SELECT * WHERE {
+  ?pitch osmt:footway "crossing";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# A short section of the roadway where there is a deep dip in the middle to prevent passage by some traffic.
+SELECT * WHERE {
+  ?pitch osmt:barrier "bus_trap";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# A structure which provides people a passage through or over a boundary via steps, ladders or narrow gaps.
+SELECT * WHERE {
+  ?pitch osmt:barrier "stile";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# A turnstile, a passage on foot designed to allow one person at a time to pass
+SELECT * WHERE {
+  ?pitch osmt:barrier "turnstile";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# Used on ways with oneway=yes that have a cycling lane going the opposite direction of normal traffic flow (a "contraflow" lane). Used together with oneway:bicycle=no.
+SELECT * WHERE {
+  ?pitch osmt:cycleway "opposite_lane";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# Route of a metro service
+SELECT * WHERE {
+  ?pitch osmt:route "subway";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# Shops
+SELECT * WHERE {
+  VALUES ?shops { "alcohol" "bakery" "beverages" "brewing_supplies" "butcher" "cheese" "chocolate" "coffee" "confectionery" "convenience" "deli" "dairy" "farm" "frozen_food" "greengrocer" "health_food" "ice_cream" "pasta" "pastry" "seafood" "spices" "tea" "wine" "water" "department_store" "general" "mall" "supermarket" "wholesale" "baby_goods" "bag" "boutique" "clothes" "fabric" "fashion" "fashion_accessories" "jewelry"	"leather" "sewing" "shoes" "tailor" "watches" "wool" "charity" "second_hand" "variety_store" "beauty" "chemist" "cosmetics" "erotic" "hairdresser" "hairdresser_supply" "hearing_aids" "herbalist" "medical_supply" "nutrition_supplements" "optician" "perfumery" "tattoo" "agrarian" "appliance" "bathroom_furnishing" "doityourself" "electrical" "energy" "fireplace" "florist" "garden_centre" "garden_furniture" "gas" "glaziery" "groundskeeping" "hardware" "houseware" "locksmith" "paint" "pottery" "security" "trade" "windows" "antiques" "bed" "candles" "carpet" "curtain" "doors" "flooring" "furniture" "household_linen" "interior_decoration" "kitchen" "lighting" "tiles" "window_blind" "computer" "electronics" "hifi" "mobile_phone" "radiotechnics" "telecommunication" "vacuum_cleaner" "atv" "bicycle" "boat" "car" "car_repair" "car_parts" "caravan" "fuel" "fishing" "golf" "hunting" "jetski" "military_surplus" "motorcycle" "outdoor" "scuba_diving" "ski" "snowmobile" "sports" "swimming_pool" "trailer" "tyres" "art" "camera" "collector" "craft" "frame" "games" "model" "music" "musical_instrument" "photo" "trophy" "video" "video_games" "anime" "books" "gift" "lottery" "newsagent" "stationery" "ticket" "bookmaker" "cannabis" "copyshop" "dry_cleaning" "e-cigarette" "funeral_directors" "insurance" "laundry" "money_lender" "outpost" "party" "pawnbroker" "pest_control" "pet" "pet_grooming" "pyrotechnics" "religion" "storage_rental" "tobacco" "toys" "travel_agency" "weapons" "vacant" "user defined" }
+  ?pitch osmt:shop ?shops
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# Community centers
+SELECT * WHERE {
+  ?community_centre osmt:amenity "community_centre";
+  
+  SERVICE wikibase:box {
+    ?community_centre osmm:loc ?coordinates.
+    
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# Healthcare
+SELECT * WHERE {
+  VALUES ?Healthcare { "baby_hatch" "clinic" "dentist" "doctors" "hospital" "nursing_home" "pharmacy" "social_facility" "veterinary" }
+  ?pitch osmt:amenity ?Healthcare;
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# streets parking
+SELECT * WHERE {
+  ?pitch osmt:amenity "parking";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+# streets living_street
+SELECT * WHERE {
+  ?pitch osmt:highway "living_street";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# streets bicycle_road
+SELECT * WHERE {
+  ?pitch osmt:bicycle_road "yes";
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
+
+
+# School
+SELECT * WHERE {
+  VALUES ?school { "kindergarten" "language_school" "driving_school" "college" "school" "university" }
+  ?pitch osmt:amenity ?school;
+  
+  SERVICE wikibase:box {
+    ?pitch osmm:loc ?coordinates.
+    
+    # Southwest longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerSouthWest "Point(59.4392 35.6307)"^^geo:wktLiteral.
+    # Northeast longitude and latitude of the Mashhad area
+    bd:serviceParam wikibase:cornerNorthEast "Point(59.6872 36.4034)"^^geo:wktLiteral.
+  }
+}
