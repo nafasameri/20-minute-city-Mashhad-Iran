@@ -1,0 +1,103 @@
+,type,id,lat,lon,tags
+0,node,892274583,36.3772588,59.4325606,"{'amenity': 'school', 'name': 'دبیرستان نصر', 'name:en': 'Nasr High School'}"
+1,node,1434015469,36.341074,59.4903056,"{'amenity': 'college', 'building': 'yes', 'name': 'دانشگاه علمی کاربردی زندان'}"
+2,node,2183190617,36.3413947,59.4409161,"{'amenity': 'restaurant', 'name': 'رستوران گل سرخ هتل ثامن', 'name:en': 'Rose'}"
+3,node,2341194466,36.3418351,59.4799521,{'amenity': 'toilets'}
+4,node,2990670289,36.3642727,59.4905487,"{'addr:housenumber': 'میثاق 31', 'addr:street': 'بلوار میثاق', 'amenity': 'pharmacy', 'name': 'داروخانه رضوانی', 'name:en': 'Rezvani Drag store'}"
+5,node,3598757408,36.3578914,59.483707,{'amenity': 'car_wash'}
+6,node,3809203626,36.357857,59.483038,{'amenity': 'taxi'}
+7,node,3815945759,36.356788,59.4858009,"{'amenity': 'restaurant', 'name': 'غذای زارع'}"
+8,node,3816023357,36.3565197,59.4854994,"{'amenity': 'car_wash', 'name': 'کارواش آزاده', 'wheelchair': 'yes'}"
+9,node,4081025196,36.3580725,59.4849592,{'amenity': 'fountain'}
+10,node,4107313798,36.3582621,59.4843182,{'amenity': 'drinking_water'}
+11,node,4108451000,36.3601067,59.4763271,"{'addr:street': 'بوستان', 'amenity': 'school', 'name': 'مدرسه راهنمایی دخترانه نیایش'}"
+12,node,4109057394,36.3616675,59.4688238,"{'addr:street': 'بوستان', 'amenity': 'doctors', 'name': 'مطب دکتر گلکار و مرکز بهداشت'}"
+13,node,4109094089,36.3504034,59.4737602,"{'amenity': 'veterinary', 'name': 'غ'}"
+14,node,4109355590,36.3614658,59.4716189,"{'amenity': 'atm', 'opening_hours': '24/7'}"
+15,node,4109806991,36.3647709,59.4667559,{'amenity': 'atm'}
+16,node,4169185680,36.3587141,59.4844536,"{'amenity': 'fountain', 'layer': '1'}"
+17,node,4192578294,36.3543024,59.4882686,{'amenity': 'waste_basket'}
+18,node,4192644394,36.3553256,59.4878002,"{'amenity': 'recycling', 'recycling_type': 'container'}"
+19,node,4192653898,36.3562927,59.4861312,{'amenity': 'waste_basket'}
+20,node,4192666891,36.3560474,59.4866499,"{'amenity': 'bench', 'material': 'metal', 'seats': '4'}"
+21,node,4195078679,36.3583151,59.4840234,{'amenity': 'recycling'}
+22,node,4195078680,36.3584366,59.4839416,{'amenity': 'recycling'}
+23,node,4201764491,36.3759716,59.4724001,"{'addr:street': 'بولوار الهیه', 'amenity': 'dentist', 'email': 'hafezdentalclinic@gmail.com', 'internet_access': 'wlan', 'name': 'درمانگاه دندانپزشکی حافظ شرق', 'name:en': 'Hafez E Sharq dental clinic', 'opening_hours': 'Mo-Su 08:40-13:00', 'phone': '+98 51 3531 0898'}"
+24,node,4279889992,36.3582374,59.4841086,"{'amenity': 'bench', 'backrest': 'yes', 'colour': 'white', 'material': 'metal', 'seats': '3'}"
+25,node,4279890192,36.3583118,59.4840947,"{'amenity': 'bench', 'backrest': 'yes', 'colour': 'white', 'material': 'metal', 'seats': '3'}"
+26,node,4279890193,36.3582736,59.4841453,"{'amenity': 'bench', 'backrest': 'yes', 'colour': 'white', 'material': 'metal', 'seats': '3'}"
+27,node,4279922189,36.3582883,59.4839683,"{'amenity': 'bench', 'backrest': 'yes', 'colour': 'white', 'material': 'metal', 'seats': '3'}"
+28,node,4305792885,36.3609871,59.471868,{'amenity': 'police'}
+29,node,4305792886,36.3609137,59.4720075,"{'amenity': 'atm', 'name': 'خودپرداز بانک'}"
+30,node,4305792887,36.3609561,59.4729443,"{'amenity': 'pharmacy', 'name': 'داروخانه'}"
+31,node,4305805664,36.3608162,59.4839563,{'amenity': 'car_wash'}
+32,node,4305805665,36.3572561,59.488678,"{'amenity': 'pharmacy', 'name': 'داروخانه شبانه روزی دکتر مهرافشان'}"
+33,node,4315501500,36.3416672,59.4875416,"{'addr:street': 'بولوار آموزگار', 'amenity': 'internet_cafe', 'contact:mobile': '+989152269238', 'contact:phone': '+985138942630', 'email': 'amouzegar.netcafe@gmail.com', 'name': 'کافی نت آموزگار'}"
+34,node,4322634770,36.3607097,59.4724446,"{'amenity': 'toilets', 'name': 'سرویس بهداشتی', 'unisex': 'yes'}"
+35,node,4381123893,36.3516814,59.4911796,"{'amenity': 'atm', 'name': 'خودپرداز اقتصاد نوین'}"
+36,node,4419262995,36.3596467,59.47863,"{'amenity': 'police', 'name': 'پلیس+۱۰'}"
+37,node,4422402293,36.3418896,59.4740763,"{'amenity': 'school', 'name': 'دبستان پسرانه توحید'}"
+38,node,4536994090,36.3411318,59.4697855,"{'addr:street': 'فارغ التحصیل ۱۰', 'amenity': 'restaurant', 'name': 'مرکز آموزشی و رفاهی فرهنگیان، خانه معلم', 'phone': '+98 51 3501 0055'}"
+39,node,4540095881,36.3438076,59.4679293,"{'amenity': 'place_of_worship', 'name': 'مسجد ام الایمه فاطمه الزهرا (س)', 'name:en': 'Fatima Mosque', 'religion': 'muslim'}"
+40,node,4550917051,36.3645589,59.4661397,"{'addr:street': 'سجادیه ۸', 'amenity': 'atm', 'name': 'خودپرداز'}"
+41,node,4579242990,36.3645054,59.478322,{'amenity': 'clinic'}
+42,node,4598473354,36.3571297,59.488436,"{'amenity': 'restaurant', 'name': 'رستوران آقاجون'}"
+43,node,4690336101,36.3712424,59.4810103,"{'amenity': 'atm', 'operator': 'ATM Sepah Bank'}"
+44,node,4690336496,36.3750226,59.4793101,"{'amenity': 'atm', 'opening_hours': '24/7', 'operator': 'ATM Tejarat Bank'}"
+45,node,4712886789,36.3740365,59.4771141,"{'amenity': 'townhall', 'name': 'شهرداری منطقه ۱۲', 'name:en': 'Municipality District 12', 'office': 'government'}"
+46,node,4737895621,36.345085,59.476921,{'amenity': 'atm'}
+47,node,4739530717,36.3499799,59.4502582,"{'amenity': 'restaurant', 'name': 'رستوران ارشاد', 'name:en': 'Ershad Restaurant'}"
+48,node,4782443223,36.3761628,59.4723113,"{'amenity': 'atm', 'opening_hours': 'Mo-Su 09:00-22:00', 'operator': 'Hekmat Bank ATM'}"
+49,node,4782453221,36.3761867,59.4723388,"{'addr:street': 'الهیه ۲۵', 'amenity': 'dentist', 'email': 'hafezdentalclinic@gmail.com', 'internet_access': 'wlan', 'name': 'درمانگاه دندانپزشکی حافظ شرق', 'name:en': 'Hafez E Sharq dental clinic', 'opening_hours': 'Sa-Th 09:00-13:00', 'phone': '+98 51 3531 0898'}"
+50,node,4791565122,36.3649742,59.47317,"{'addr:street': 'بزرگراه میثاق،شهرک غرب،بلوار مجیدیه، مجیدیه ۱۷.۱ پلاک ۱۲ ساختمان پاژ', 'amenity': 'restaurant', 'name': 'آشپزخانه و کترینگ پاژ', 'phone': '+98 51 3513 1852'}"
+51,node,4859614422,36.3573909,59.4888301,"{'amenity': 'bank', 'name': 'بانک ملت', 'name:en': 'Bank Mellat'}"
+52,node,4917746594,36.3643118,59.4905734,"{'addr:street': 'میثاق ۳۱', 'amenity': 'clinic', 'name': 'درمانگاه شبانه روزی نسیم سلامت'}"
+53,node,4918074769,36.3473937,59.4809255,"{'amenity': 'toilets', 'drinking_water': 'yes', 'fee': 'no', 'indoor': 'no', 'wheelchair': 'yes'}"
+54,node,4965322323,36.3611247,59.4430926,"{'amenity': 'parking', 'name': 'پارکینگ شهید پرتویی', 'name:en': 'Partoei Parking'}"
+55,node,5183135722,36.3800879,59.4862245,"{'amenity': 'restaurant', 'delivery': 'yes', 'name': 'رستوران مادرجون', 'name:en': 'Madar Joon Restaurant', 'outdoor_seating': 'no', 'smoking': 'no', 'takeaway': 'yes'}"
+56,node,5183135744,36.377891,59.4898466,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد در حال ساخت', 'religion': 'muslim'}"
+57,node,5218109623,36.3727493,59.4875617,"{'amenity': 'toilets', 'operator': 'روبروی دانشگاه سما ، مسجد'}"
+58,node,5268385496,36.3420873,59.4654533,"{'amenity': 'school', 'name': 'پیش دبستانی و دبستان دخترانه سما ۸', 'name:en': 'Sama 8 school complex'}"
+59,node,5311743248,36.3745158,59.4758951,{'amenity': 'pharmacy'}
+60,node,5313843029,36.3583306,59.4829285,"{'amenity': 'pharmacy', 'name': 'داروخانه دکترطیرانی', 'name:en': 'Dr.Tayarani Pharmacy'}"
+61,node,5313843030,36.3579435,59.4791484,"{'amenity': 'fast_food', 'cuisine': 'sandwich', 'name': 'فلافل'}"
+62,node,5313843033,36.3528136,59.4793666,"{'amenity': 'cafe', 'name': 'کافی شاپ'}"
+63,node,5313843034,36.3576739,59.4901222,"{'amenity': 'fast_food', 'name': 'فست فود ماندگار', 'name:en': 'Mandegar Fast food'}"
+64,node,5315179577,36.3579072,59.4792013,"{'amenity': 'place_of_worship', 'name': 'مسجد موسی ابن جعفر', 'religion': 'muslim'}"
+65,node,5315179580,36.3576178,59.4842202,"{'amenity': 'atm', 'operator': 'عابر بانک ایرانیان'}"
+66,node,5315179586,36.3578241,59.4896409,"{'amenity': 'atm', 'operator': 'عابر بانک پارسیان'}"
+67,node,5315179587,36.3572333,59.4892923,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه پارسیان'}"
+68,node,5315179597,36.3544797,59.4863432,"{'amenity': 'driving_school', 'name': 'آموزشگاه رانندگی معراج'}"
+69,node,5315179598,36.3544019,59.482808,"{'amenity': 'place_of_worship', 'name': 'مسجد علی ابن موسی الرضا', 'religion': 'muslim'}"
+70,node,5323226099,36.3650563,59.4819098,"{'addr:city': 'کارواش', 'amenity': 'car_wash', 'building': 'yes'}"
+71,node,5352127445,36.3571353,59.4890922,"{'amenity': 'internet_cafe', 'name': 'کافی نت'}"
+72,node,5352131963,36.3541628,59.4878415,"{'amenity': 'restaurant', 'name': 'رستوران نارنجی'}"
+73,node,5608852676,36.3616933,59.4689138,"{'addr:city': 'مشهد', 'addr:street': 'بوستان', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}"
+74,node,5608858425,36.3621588,59.4748801,"{'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy'}"
+75,node,5608858426,36.3618572,59.475341,"{'addr:city': 'مشهد', 'addr:street': 'بولوار مجیدیه', 'amenity': 'doctors', 'healthcare': 'doctor', 'opening_hours': '24/7'}"
+76,node,5779839463,36.3557173,59.435936,"{'addr:street': 'Shandiz Road-Samen Aeme 7', 'amenity': 'restaurant', 'name': 'رستوران \u200cتی\u200cرکس', 'name:en': 'T-Rex Restaurant', 'phone': '+98 51 3559 3305'}"
+77,node,5817730598,36.3445867,59.4676124,"{'amenity': 'toilets', 'name': 'سرویس های بهداشتی'}"
+78,node,5817730600,36.3444608,59.465409,"{'amenity': 'place_of_worship', 'name': 'نمازخانه', 'name:en': 'Praying Room', 'religion': 'muslim'}"
+79,node,5817730823,36.3445606,59.4652767,"{'amenity': 'toilets', 'name': 'سرویس های بهداشتی'}"
+80,node,5950841162,36.3636717,59.4654267,"{'amenity': 'atm', 'cash_in': 'yes', 'drive_through': 'no'}"
+81,node,5961356978,36.3540642,59.4878453,"{'amenity': 'cafe', 'name': 'کافی شاپ طعمی نو'}"
+82,node,5999176885,36.3652531,59.4206726,"{'addr:street': 'مشهد - شاندیز', 'amenity': 'college', 'name': 'دانشگاه', 'name:en': 'Shandiz university', 'name:fa': 'موسسه آموزش عالی شاندیز', 'website': 'http://www.shandiz.ac.ir'}"
+83,node,6209798885,36.3720056,59.4599477,{'amenity': 'atm'}
+84,node,6484973697,36.3656691,59.460297,"{'amenity': 'toilets', 'opening_hours': 'Su, Fr 00:00-24:00', 'operator': 'toilet (WashStand)'}"
+85,node,6497397970,36.3802449,59.470208,"{'amenity': 'place_of_worship', 'name': 'نمازخانه صادقیه', 'religion': 'muslim'}"
+86,node,6498313938,36.3794039,59.4691545,{'amenity': 'fast_food'}
+87,node,6777083286,36.3740981,59.4765643,"{'addr:street': 'میدان ولیعصر', 'amenity': 'clinic', 'name': 'درمانگاه الهیه', 'name:en': 'Clinic'}"
+88,node,7112511035,36.369386,59.4647053,"{'amenity': 'cafe', 'name': 'هفت تیر کافی شاپ', 'name:en': 'Haft Teer Coffee Shop'}"
+89,node,7904367221,36.3437989,59.4538906,"{'amenity': 'clinic', 'name': 'پایگاه سلامت شهری پژوهش'}"
+90,node,7996764082,36.3570188,59.4335652,"{'amenity': 'restaurant', 'name': 'تالار تیراژه'}"
+91,node,7996797585,36.3608397,59.4275848,"{'amenity': 'restaurant', 'name': 'تالار یلدا'}"
+92,node,7996797594,36.3605697,59.4275761,"{'amenity': 'restaurant', 'name': 'تالار ایرن'}"
+93,node,7996797595,36.357237,59.4330779,"{'amenity': 'restaurant', 'name': 'تالار قصر مرسده'}"
+94,node,8081635126,36.3409526,59.4561197,"{'amenity': 'place_of_worship', 'name': 'مسجد امام حسین', 'religion': 'muslim'}"
+95,node,8112463404,36.345433,59.4755519,"{'amenity': 'fire_station', 'name': 'ایستگاه ۳۱ آتش نشانی'}"
+96,node,8398182405,36.3503823,59.4627473,"{'access': 'yes', 'amenity': 'toilets', 'unisex': 'yes'}"
+97,node,8786442877,36.3429095,59.4784543,{'amenity': 'clinic'}
+98,node,9124112968,36.3605034,59.4223999,"{'amenity': 'courthouse', 'name': 'دادگستری طرقبه شاندیز'}"
+99,node,9443839501,36.3807036,59.4711991,"{'amenity': 'atm', 'cash_in': 'yes', 'currency:rial': 'yes', 'operator': 'خودپرداز بانک شهر'}"
+100,node,9443839502,36.3806913,59.4711812,"{'amenity': 'atm', 'cash_in': 'yes', 'currency:rial': 'yes', 'operator': 'خودپرداز بانک پاسارگاد'}"
+101,node,10006745092,36.3773784,59.4714406,"{'amenity': 'restaurant', 'name': 'کترینگ شاهان'}"

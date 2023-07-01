@@ -1,0 +1,18 @@
+,type,id,lat,lon,tags
+0,node,2010637214,36.3337883,59.5886876,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'religion': 'muslim'}"
+1,node,2559090259,36.3335996,59.5832278,"{'amenity': 'fuel', 'brand': 'Independent', 'name': 'جایگاه اختصاصی ۱۶۵'}"
+2,node,5018148402,36.3364335,59.5817025,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد محسن ابن علی (علیه\u200cالسلام)', 'religion': 'muslim'}"
+3,node,5323257595,36.3373702,59.589715,"{'amenity': 'restaurant', 'name': 'رستوران خسروی'}"
+4,node,5350476627,36.3380316,59.5905092,"{'addr:city': 'mashhad', 'amenity': 'car_wash'}"
+5,node,5350536173,36.3379361,59.5866098,"{'amenity': 'restaurant', 'name': 'کباب مخصوص عبداالهی'}"
+6,node,5350574182,36.3376532,59.5864794,"{'amenity': 'atm', 'operator': 'خود پرداز بانک رفاه کارگران'}"
+7,node,5350586087,36.3376946,59.5883676,"{'amenity': 'fast_food', 'name': 'ساندویچ سن استین'}"
+8,node,5350586091,36.3376838,59.5881905,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر اکملی'}"
+9,node,5350594151,36.337682,59.5876954,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'کلینیک زنان و زایمان'}"
+10,node,5350594936,36.3376737,59.5879012,"{'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'palliative', 'name': 'مرکز درمان اعتیاد پردیسان'}"
+11,node,5350594937,36.3376746,59.5878529,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه شبانه روزی گوهر سلامت'}"
+12,node,5350603447,36.3373706,59.5882778,{'amenity': 'car_wash'}
+13,node,5350604568,36.3373616,59.5879128,"{'amenity': 'fast_food', 'name': 'پیتزا یک ، دو ، سه'}"
+14,node,5350606870,36.3373641,59.5878848,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'کلینیک درمان اعتیاد مهر افروزان'}"
+15,node,5350606874,36.3373854,59.5876649,"{'amenity': 'atm', 'name': 'خود پرداز', 'operator': 'خود پرداز بانک وسسه ملل'}"
+16,node,8827817091,36.3383672,59.5844419,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک ملی شعبه خیام شمالی'}"

@@ -1,0 +1,7 @@
+,type,id,lat,lon,tags
+0,node,4234435089,36.3168443,59.6089261,{'amenity': 'atm'}
+1,node,4461872090,36.3173641,59.6081119,"{'addr:housenumber': '05137331732', 'addr:street': 'عبدالمطلب', 'amenity': 'clinic', 'description': 'کلینیک کامیابی - درمان اعتیاد', 'name': 'کلینیک درمان اعتیاد کامیابی (دکتر اکرمی نژاد)', 'name:en': 'کلینیک درمان اعتیاد کامیابی', 'opening_hours': 'Mo-Th, Sa, Su 15:30-20:30', 'phone': '+98 51 3733 1732'}"
+2,node,4811377621,36.3206451,59.6146177,"{'addr:street': 'مطهری ۵۱', 'amenity': 'fast_food', 'cuisine': 'sandwich;hotdog;burger'}"
+3,node,5218103422,36.3204375,59.6157016,"{'amenity': 'toilets', 'operator': 'پارک مطهری'}"
+4,node,8646374917,36.3193871,59.6056174,"{'addr:city': 'مشهد', 'addr:housenumber': '09153234923', 'addr:street': 'عبدالمطلب ۵', 'amenity': 'studio', 'name': 'آتلیه بادکنک سفید', 'name:en': 'white studio', 'studio': 'video', 'website': 'https://www.instagram.com/whitestudiooo/'}"
+5,node,9085885117,36.3201088,59.604239,"{'amenity': 'nursing_home', 'name': 'پرستاری سفید  بالان', 'name:en': 'Sefid Balaan'}"

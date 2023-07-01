@@ -1,0 +1,8 @@
+,type,id,lat,lon,tags
+0,node,2900622531,36.2965511,59.624817,"{'amenity': 'restaurant', 'name': 'رستوران لاله مشهد', 'smoking': 'no'}"
+1,node,2900622532,36.2964129,59.6256142,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد حضرت زهرا', 'religion': 'muslim'}"
+2,node,4893585921,36.2939685,59.619652,"{'amenity': 'police', 'name': 'کلانتری استانه پرست محله نوغان خ طبرسی', 'name:en': 'kalantary astana parast'}"
+3,node,4985578521,36.2942517,59.6223106,{'amenity': 'atm'}
+4,node,5031012021,36.2929299,59.6211768,"{'addr:street': 'روگذر طبرسی', 'amenity': 'restaurant', 'name': 'رستوران طبرسی', 'name:ar': 'مطعم طبرسي 7', 'name:en': 'Tepresi restaurant 7'}"
+5,node,5058251337,36.2973528,59.6270716,{'amenity': 'toilets'}
+6,node,8083893359,36.2983622,59.6193944,"{'amenity': 'police', 'name': 'کلانتری آستانه پرست'}"

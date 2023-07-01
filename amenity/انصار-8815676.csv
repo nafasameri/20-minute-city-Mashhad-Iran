@@ -1,0 +1,5 @@
+,type,id,lat,lon,tags
+0,node,5695447968,36.2689853,59.6955019,"{'addr:city': 'مشهد', 'amenity': 'fuel', 'fuel:Benzin': 'yes', 'fuel:cng': 'yes', 'fuel:gasoil': 'yes', 'name': 'پمپ بنزین'}"
+1,node,6879765368,36.2618992,59.6891718,{'amenity': 'school'}
+2,node,9284581800,36.2687639,59.6956615,"{'amenity': 'vending_machine', 'currency:IRR': 'yes', 'payment:cash': 'yes', 'payment:credit_cards': 'yes', 'vending': 'fuel'}"
+3,node,9284581801,36.2692293,59.6953078,"{'access': 'yes', 'amenity': 'toilets', 'unisex': 'yes'}"

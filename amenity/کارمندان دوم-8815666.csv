@@ -1,0 +1,9 @@
+,type,id,lat,lon,tags
+0,node,5311797300,36.2648244,59.656545,"{'amenity': 'restaurant', 'name': 'رستوران'}"
+1,node,5324237220,36.262928,59.6526058,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد موسی ابن جعفر', 'religion': 'muslim'}"
+2,node,5324240539,36.2657071,59.6555178,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد ابالفضل', 'name:en': 'Abolfazl Mosque', 'religion': 'muslim'}"
+3,node,7005678182,36.2635134,59.638845,"{'amenity': 'internet_cafe', 'contact:instagram': 'https://www.instagram.com/cafenetmehran/', 'name': 'کافی نت مهران', 'source': 'map.ir'}"
+4,node,8115506869,36.2635597,59.6499451,"{'amenity': 'fire_station', 'name': 'ایستگاه ۱۶ آتش نشانی'}"
+5,node,8123975524,36.2739934,59.6552132,"{'amenity': 'place_of_worship', 'name': 'مسجد حجت', 'religion': 'muslim'}"
+6,node,8128311396,36.2717717,59.6394474,"{'amenity': 'place_of_worship', 'name': 'مسجد بقیه الله', 'religion': 'muslim'}"
+7,node,8786437947,36.2609325,59.6417579,{'amenity': 'clinic'}

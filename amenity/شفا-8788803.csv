@@ -1,0 +1,5 @@
+,type,id,lat,lon,tags
+0,node,706667936,36.3237508,59.6223038,"{'amenity': 'bank', 'atm': 'no', 'branch': 'خواجه ربیع', 'brand': 'بانک مسکن', 'brand:en': 'Bank Maskan', 'brand:wikidata': 'Q4855942', 'brand:wikipedia': 'en:Bank Maskan', 'name': 'بانک مسکن', 'name:en': 'Bank Maskan'}"
+1,node,2559089247,36.3217441,59.6205129,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'سمرقند', 'brand': 'بانک تجارت', 'brand:wikidata': 'Q7695198', 'brand:wikipedia': 'en:Tejarat Bank', 'name': 'بانک تجارت', 'name:en': 'Tejarat Bank'}"
+2,node,4811377621,36.3206451,59.6146177,"{'addr:street': 'مطهری ۵۱', 'amenity': 'fast_food', 'cuisine': 'sandwich;hotdog;burger'}"
+3,node,5218103422,36.3204375,59.6157016,"{'amenity': 'toilets', 'operator': 'پارک مطهری'}"

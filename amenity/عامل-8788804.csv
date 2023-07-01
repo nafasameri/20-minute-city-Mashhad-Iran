@@ -1,0 +1,71 @@
+,type,id,lat,lon,tags
+0,node,344463542,36.301873,59.5932674,"{'amenity': 'bank', 'name': 'بانک مسکن', 'name:en': 'Maskan', 'operator': 'Maskan Bank'}"
+1,node,344463563,36.3013282,59.5920795,"{'amenity': 'bank', 'bci': '8555', 'branch': 'تختی', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran', 'operator': 'Melli Bank'}"
+2,node,344463748,36.3014541,59.5924248,"{'amenity': 'bank', 'branch': 'سعدآباد', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran'}"
+3,node,667330140,36.306391,59.6025039,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۱', 'name:en': 'FireStation No. 1'}"
+4,node,668994185,36.3064856,59.5951381,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'مطهری', 'brand': 'بانک تجارت', 'brand:wikidata': 'Q7695198', 'brand:wikipedia': 'en:Tejarat Bank', 'name': 'بانک تجارت'}"
+5,node,668994186,36.306759,59.5957142,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر رحمانی', 'name:en': 'Dr. Rahmani Drugstore'}"
+6,node,670899554,36.2985737,59.5914949,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'پل خاکی', 'brand': 'بانک ملت', 'brand:en': 'Bank Mellat', 'brand:wikidata': 'Q4855944', 'brand:wikipedia': 'en:Bank Mellat', 'name': 'بانک ملت', 'name:en': 'Bank Mellat'}"
+7,node,1183473358,36.2989029,59.5972923,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد صاحب الزمان', 'name:en': 'Saheb-al-Zaman Mosque', 'religion': 'muslim'}"
+8,node,2614629930,36.3014005,59.6059662,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': '۱۲ امامی\u200cها', 'name:ar': '12 الأئمة', 'name:en': '12 emamiha', 'religion': 'muslim'}"
+9,node,2615131100,36.3003445,59.5997795,{'amenity': 'school'}
+10,node,2615131101,36.3006093,59.6013969,"{'amenity': 'place_of_worship', 'name': 'مسجد سجادیه', 'name:en': 'sajjadiye', 'religion': 'muslim'}"
+11,node,2615131102,36.3001386,59.6039725,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'religion': 'muslim'}"
+12,node,3179633986,36.3183832,59.5909502,{'amenity': 'fuel'}
+13,node,3260501755,36.3018616,59.5938623,"{'amenity': 'school', 'name': 'مرکز آموزشی خصوصی کم توانان ذهنی روان پویا'}"
+14,node,3294177314,36.3030517,59.608635,"{'amenity': 'bank', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran'}"
+15,node,3316899445,36.3003344,59.6073202,"{'amenity': 'bank', 'atm': 'yes', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran'}"
+16,node,3316924185,36.2985855,59.6047829,{'amenity': 'bank'}
+17,node,3491786100,36.29869,59.6056301,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'میدان شهدا', 'brand': 'بانک شهر', 'brand:en': 'Shahr Bank', 'brand:wikidata': 'Q5941033', 'brand:wikipedia': 'fa:بانک شهر', 'name': 'بانک شهر', 'name:en': 'Shahr Bank', 'opening_hours': '07:30-13:30', 'operator': 'شهرداری مشهد', 'wheelchair': 'yes'}"
+18,node,3946843858,36.2985811,59.6058316,"{'amenity': 'restaurant', 'cuisine': 'coffee_shop', 'name:ar': 'كوفي شوب'}"
+19,node,3954624162,36.3055516,59.5980641,"{'amenity': 'bank', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran'}"
+20,node,3954767982,36.305633,59.5968131,"{'amenity': 'library', 'description': 'تاسیس ۱۳۵۰', 'name': 'کتابخانه عمومی علامه طباطبایی'}"
+21,node,3956315398,36.3045022,59.5973616,"{'amenity': 'telephone', 'name': 'تلفن کارتی'}"
+22,node,3956315399,36.3047106,59.5969533,"{'amenity': 'taxi', 'name': 'ایستگاه تاکسی بیسیم ۱۸۳۰', 'phone': '+98 51 1830'}"
+23,node,3956330430,36.3034719,59.599247,"{'amenity': 'bank', 'brand': 'بانک تجارت', 'brand:wikidata': 'Q7695198', 'brand:wikipedia': 'en:Tejarat Bank', 'name': 'بانک تجارت'}"
+24,node,4047527995,36.311572,59.58921,"{'amenity': 'arts_centre', 'name': 'فرهنگسرا انتظار'}"
+25,node,4234435089,36.3168443,59.6089261,{'amenity': 'atm'}
+26,node,4317959696,36.3056285,59.5899526,{'amenity': 'bench'}
+27,node,4331153961,36.3025068,59.5960886,"{'amenity': 'place_of_worship', 'name': 'مسجد مسلم ابن عقیل', 'religion': 'muslim'}"
+28,node,4416332552,36.3024686,59.600791,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد حیدری ها', 'religion': 'muslim'}"
+29,node,4438186492,36.2993612,59.5865658,"{'addr:housenumber': '05138446045', 'addr:street': 'سناباد۳۲', 'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'مطب کتر فریده انصاری'}"
+30,node,4461872090,36.3173641,59.6081119,"{'addr:housenumber': '05137331732', 'addr:street': 'عبدالمطلب', 'amenity': 'clinic', 'description': 'کلینیک کامیابی - درمان اعتیاد', 'name': 'کلینیک درمان اعتیاد کامیابی (دکتر اکرمی نژاد)', 'name:en': 'کلینیک درمان اعتیاد کامیابی', 'opening_hours': 'Mo-Th, Sa, Su 15:30-20:30', 'phone': '+98 51 3733 1732'}"
+31,node,4712953067,36.3001728,59.6038204,"{'amenity': 'toilets', 'fee': 'no', 'level': '0'}"
+32,node,4712962542,36.3001085,59.6040045,"{'access': 'yes', 'amenity': 'toilets', 'fee': 'no', 'level': '0'}"
+33,node,4813657104,36.3010168,59.6082381,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'مرکزی مشهد', 'brand': 'بانک انصار', 'brand:wikidata': 'Q5862675', 'brand:wikipedia': 'fa:بانک انصار', 'name': 'بانک انصار', 'name:en': 'Ansar bank', 'operator': 'Ansar Bank'}"
+34,node,5017495156,36.3167238,59.5864297,{'amenity': 'taxi'}
+35,node,5017545178,36.3158323,59.5864135,"{'amenity': 'toilets', 'designation': 'توالت و سرویس بهداشتی ابوطالب', 'source': 'WC'}"
+36,node,5258218048,36.2991095,59.5862395,"{'amenity': 'school', 'name': 'دبیرستان شهید مدنی'}"
+37,node,5258218049,36.3022648,59.5866785,"{'amenity': 'school', 'name': 'دبیرستان نوربخش'}"
+38,node,5262333102,36.2994297,59.5897613,{'amenity': 'cafe'}
+39,node,5262333103,36.2997012,59.58872,{'amenity': 'cafe'}
+40,node,5262333104,36.2996573,59.5888936,{'amenity': 'fast_food'}
+41,node,5262333149,36.2986119,59.5906063,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'حسینیه حضرت فاطمه', 'name:en': 'Hazrat-e Fateme', 'religion': 'muslim'}"
+42,node,5304362794,36.2987504,59.5862329,"{'amenity': 'library', 'name': 'کتابخانه وکیل'}"
+43,node,5306944004,36.3028079,59.5862714,"{'amenity': 'school', 'name': 'دبستان دیانت'}"
+44,node,5306944199,36.3034867,59.5877127,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد امام حسن عسگری', 'name:ar': 'مسجد الإمام الحسن العسكري', 'name:en': 'Imam Hasan Mosque', 'religion': 'muslim'}"
+45,node,5306944283,36.301869,59.5902314,"{'amenity': 'fast_food', 'name': 'فست فود آویشن'}"
+46,node,5308847054,36.3004635,59.5928242,"{'amenity': 'restaurant', 'name': 'رستورن'}"
+47,node,5308847110,36.2988285,59.5917105,"{'amenity': 'events_venue', 'name': 'تالار کسری'}"
+48,node,5331636989,36.3030311,59.5983876,"{'addr:city': 'مشهد', 'addr:country': 'IR', 'addr:street': 'نبش سنائی ٢١', 'amenity': 'restaurant', 'description': 'با رزرو قبلي وفقط جهت مجالس', 'name': 'مجموعه غذایی و پذیرایی شیدائی', 'phone': '+985137277325 ; +985137277472'}"
+49,node,5667821877,36.2993118,59.6054569,"{'amenity': 'waste_disposal', 'name': 'کمپوست مشهد', 'name:en': 'Mashhad Compost', 'waste': 'organic'}"
+50,node,5738671131,36.3112725,59.5989669,{'amenity': 'waste_disposal'}
+51,node,6066370685,36.3195541,59.5894034,"{'amenity': 'cafe', 'name': 'کافه دارک', 'name:en': 'Dark coffee', 'source:name': 'map.ir'}"
+52,node,6073655988,36.311052,59.599315,"{'amenity': 'clinic', 'name:en': 'khale'}"
+53,node,6073700085,36.3110517,59.5993296,"{'amenity': 'atm', 'operator': 'sader'}"
+54,node,6073777290,36.3184312,59.5876721,"{'amenity': 'cafe', 'cuisine': 'coffee_shop', 'name': 'کافی شاپ', 'name:en': 'Coffee shop', 'name:fr': 'Café McKambo'}"
+55,node,6331751686,36.2981792,59.5901738,"{'amenity': 'nursing_home', 'name': 'خانه علی'}"
+56,node,6677691885,36.3110307,59.6012107,"{'addr:street': 'بین مطهری شمالی ۱۱ و ۱۳', 'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد امام علی ع', 'religion': 'muslim'}"
+57,node,7164784085,36.3173734,59.5870402,"{'amenity': 'bank', 'name': 'بانک مسکن'}"
+58,node,8104181897,36.319557,59.5860937,"{'amenity': 'school', 'name': 'دبیرستان دخترانه فرهنگ'}"
+59,node,8104268480,36.318481,59.5929336,"{'amenity': 'place_of_worship', 'name': 'مسجد توحید', 'religion': 'muslim'}"
+60,node,8121067797,36.3111058,59.6013536,"{'addr:city': 'مشهد', 'addr:housenumber': '287', 'addr:postcode': '9193715687', 'addr:street': 'بین مطهری شمالی ۱۱ و ۱۳', 'amenity': 'doctors', 'description': 'حجامت تخصصی بانوانمشاوره و درمان بیماری های زنان با طب سنتیآزمایش پاپ اسمیرمعاینه پرده بکارت و صدور گواهی سلامتگذاشتن و برداشتن آی یو دی iudتعیین جنسیت جنیندرمان ناباروریبا بهترین قیمت ها و بالاترین کیفیت', 'email': 'safadelavar@gmail.com', 'fax': '+98 51 3724 9327', 'healthcare': 'doctor', 'healthcare:speciality': 'traditional_chinese_medicine;general;clinic', 'image': 'https://doctor-yab.ir/img/dr_slide/mahdavikhah_3.jpg', 'name': 'مطب مامایی صفا دلاور', 'operator': 'صفا دلاور', 'operator:type': 'public', 'phone': '+98 51 3724 9327', 'website': 'https://www.aparat.com/search/%D8%B5%D9%81%D8%A7%20%D8%AF%D9%84%D8%A7%D9%88%D8%B1'}"
+61,node,8646374917,36.3193871,59.6056174,"{'addr:city': 'مشهد', 'addr:housenumber': '09153234923', 'addr:street': 'عبدالمطلب ۵', 'amenity': 'studio', 'name': 'آتلیه بادکنک سفید', 'name:en': 'white studio', 'studio': 'video', 'website': 'https://www.instagram.com/whitestudiooo/'}"
+62,node,8851020403,36.3161208,59.6077261,"{'amenity': 'bank', 'name': 'بانک ملی شعبه مطهری شمالی', 'name:en': 'Melli Bank - North Motahari branch'}"
+63,node,8851028445,36.3108883,59.6005862,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک صادرات شعبه مطهری شمالی', 'name:en': 'Sadearat Bank - is a North Motahari branch'}"
+64,node,9886615917,36.2983377,59.6054784,{'amenity': 'toilets'}
+65,node,9886615918,36.2984009,59.6054681,{'amenity': 'toilets'}
+66,node,9886615919,36.2991557,59.6080938,"{'amenity': 'toilets', 'name': 'هاشمی نژاد'}"
+67,node,9954818441,36.2986497,59.5889259,"{'amenity': 'nursing_home', 'name': 'خانه صادق'}"
+68,node,9998909649,36.3016006,59.58905,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مهدیه امام خامنه ای', 'religion': 'muslim'}"
+69,node,10682574359,36.3132526,59.596298,"{'amenity': 'school', 'name': 'دبستان شهید ناصر صفری'}"

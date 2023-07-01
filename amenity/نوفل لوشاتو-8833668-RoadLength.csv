@@ -1,0 +1,17 @@
+highway,count,length
+cycleway,3,4850.116
+footway,132,8484.356
+path,1,63.333
+pedestrian,14,5073.411
+primary,52,17917.861
+primary_link,14,488.475
+residential,490,76268.051
+secondary,7,5120.328
+service,72,12874.339
+steps,18,261.592
+tertiary,55,17945.535
+tertiary_link,8,123.403
+track,30,13243.896
+trunk,54,9639.262
+trunk_link,22,4679.77
+unclassified,32,13593.519

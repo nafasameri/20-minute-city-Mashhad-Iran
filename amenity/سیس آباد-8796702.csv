@@ -1,0 +1,15 @@
+,type,id,lat,lon,tags
+0,node,2184577437,36.3404078,59.6549535,{'amenity': 'fuel'}
+1,node,3824186357,36.3245494,59.6423028,"{'amenity': 'internet_cafe', 'internet_access:fee': '2400', 'name': 'کافی نت جامع'}"
+2,node,3824186457,36.324966,59.6417561,"{'amenity': 'internet_cafe', 'internet_access': 'کافینت ریحان', 'internet_access:fee': '2400'}"
+3,node,3842463966,36.3245312,59.642447,"{'amenity': 'restaurant', 'cuisine': 'coffee_shop'}"
+4,node,4768157723,36.3316982,59.6506487,"{'amenity': 'atm', 'opening_hours': '24/7'}"
+5,node,4783995423,36.3351453,59.6383797,"{'amenity': 'school', 'name': 'دبیرستان نیمه اول یاوران اسلام'}"
+6,node,4783996521,36.3346945,59.6389815,"{'amenity': 'school', 'name': 'کارودانش پژوهش'}"
+7,node,4851628971,36.3258573,59.6421345,{'amenity': 'police'}
+8,node,5121441734,36.3316788,59.6513253,"{'addr:housenumber': '81', 'addr:street': 'بولوار رسالت', 'amenity': 'community_centre', 'name': 'شهرک امید', 'name:en': 'omid residential town', 'opening_hours': 'Sa-Th 08:00-18:00', 'phone': '+98 51 3242 2021', 'website': 'https://omidcdco.ir/'}"
+9,node,5380851092,36.3385647,59.6551877,"{'addr:city': 'مشهد', 'addr:postcode': '9149161111', 'addr:street': 'رسالت ۹۷', 'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد حضرت ابوالفضلی (علیه السلام)', 'religion': 'muslim', 'service_times': 'موقع های اذان'}"
+10,node,6503236579,36.3259716,59.6493285,{'amenity': 'marketplace'}
+11,node,6711621653,36.333441,59.6542435,"{'addr:city': 'مشهد', 'addr:postcode': '9149164476', 'addr:street': 'رسالت ۸۱', 'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد امیر المومنین (علیه السلام)', 'religion': 'muslim', 'service_times': 'مواقع اذان'}"
+12,node,6712057211,36.3390961,59.6546202,"{'addr:city': 'مشهد', 'addr:postcode': '9149161111', 'addr:street': 'رسالت ۹۷', 'amenity': 'internet_cafe', 'internet_access': 'wlan', 'internet_access:fee': 'yes', 'internet_access:ssid': 'شاتل', 'name': 'کافی نت رسالت', 'opening_hours': '09:00-21:00', 'operator': 'مهدی دادخواه', 'phone': '+985132422546'}"
+13,node,8115493086,36.3279671,59.6451494,"{'amenity': 'fire_station', 'name': 'ایستگاه ۳۷ آتش نشانی'}"

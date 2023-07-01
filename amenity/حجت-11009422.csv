@@ -1,0 +1,6 @@
+,type,id,lat,lon,tags
+0,node,3179633986,36.3183832,59.5909502,{'amenity': 'fuel'}
+1,node,3179634068,36.3250097,59.5946696,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'بولوار ابوطالب', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+2,node,4868551624,36.3260014,59.5961434,{'amenity': 'atm'}
+3,node,7164783885,36.3237642,59.5935572,"{'amenity': 'bank', 'name': 'بانک اقتصاد نوین'}"
+4,node,8104268480,36.318481,59.5929336,"{'amenity': 'place_of_worship', 'name': 'مسجد توحید', 'religion': 'muslim'}"

@@ -1,0 +1,24 @@
+,type,id,lat,lon,tags
+0,node,676994790,36.3679445,59.5089552,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر موسوی', 'name:en': 'Dr.Mousavi Drugstore'}"
+1,node,4147825389,36.3705752,59.5137928,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر وحیدی منش'}"
+2,node,4383006991,36.3719738,59.5136648,"{'addr:street': 'میدان حجاب', 'amenity': 'bank', 'name': 'بانک سپه', 'name:en': 'Sepah Bank', 'opening_hours': 'Sa-Th 07:30-13:00'}"
+3,node,4392730498,36.3755366,59.5188614,"{'amenity': 'atm', 'name': 'عابر بانک', 'opening_hours': '24/7'}"
+4,node,4392730499,36.3719529,59.5137018,"{'addr:street': 'میدان حجاب', 'amenity': 'bank', 'name': 'پست بانک', 'name:en': 'Post Bank', 'opening_hours': 'Sa-Th 07:30-13:00'}"
+5,node,4395003296,36.3720454,59.5136732,{'amenity': 'bank'}
+6,node,4395014391,36.3720486,59.5136351,{'amenity': 'bank'}
+7,node,4395074289,36.3720905,59.5135004,{'amenity': 'fast_food'}
+8,node,4395074290,36.3720583,59.51358,"{'amenity': 'bank', 'name': 'بانک سپه', 'name:en': 'Sepah Bank'}"
+9,node,4611395171,36.3651364,59.5190539,"{'addr:city': 'مشهد', 'addr:street': 'نبش حجاب ۳۸', 'amenity': 'bank', 'atm': 'yes', 'drive_through': 'no', 'name': 'خودپرداز بانک سپه'}"
+10,node,4781456521,36.3681439,59.5088112,"{'amenity': 'atm', 'operator': 'Aiandeh Bank ATM'}"
+11,node,5311800705,36.3670382,59.5134973,"{'amenity': 'fast_food', 'name': 'فستفود'}"
+12,node,5329132778,36.371872,59.5138739,"{'amenity': 'police', 'name': 'ایستگاه پلیس'}"
+13,node,5349094754,36.3715731,59.5128955,"{'amenity': 'cafe', 'name': 'آبمیوه فروشی'}"
+14,node,5349109155,36.3713892,59.5126004,"{'amenity': 'fast_food', 'name': 'فست فود'}"
+15,node,5349153976,36.372963,59.5101749,"{'amenity': 'fast_food', 'name': 'فست فود'}"
+16,node,5349164780,36.3726965,59.5099855,"{'amenity': 'fast_food', 'name': 'فست فود'}"
+17,node,5352135529,36.3754456,59.5091676,"{'amenity': 'telephone', 'name': 'کیوسک تلفن'}"
+18,node,5502049962,36.3787079,59.5168909,"{'amenity': 'parking', 'parking': 'surface', 'surface': 'asphalt'}"
+19,node,6484973449,36.3796823,59.5191751,"{'amenity': 'toilets', 'operator': 'سرویس بهداشتی'}"
+20,node,8112505628,36.3783706,59.5118927,"{'amenity': 'fire_station', 'name': 'ایستگاه ۳۵ آتش نشانی'}"
+21,node,10019543717,36.3776499,59.5044883,"{'addr:street': 'عصمتیه ۱', 'amenity': 'fuel', 'name:fa': 'تاسیسات گاز مایع امین غلامی'}"
+22,node,10262418222,36.3719306,59.5128017,"{'addr:city': 'مشهد', 'addr:street': 'میدان شهید قاسمی دانا', 'amenity': 'cafe', 'cuisine': 'international', 'internet_access': 'yes', 'internet_access:fee': 'yes', 'name': 'خدمات آداک  (کافی نت،چاپ دیجیتال،خدمات کامپیوتری)', 'opening_hours': 'Mo-Su 10:00-22:00', 'phone': '+98 91 5006 200', 'source': 'خدمات آداک (کافی نت،چاپ دیجیتال،خدمات کامپیوتری)', 'start_date': '20210101'}"

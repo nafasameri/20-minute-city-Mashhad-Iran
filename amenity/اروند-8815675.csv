@@ -1,0 +1,5 @@
+,type,id,lat,lon,tags
+0,node,264625292,36.2604619,59.6803664,"{'amenity': 'fuel', 'name': 'پمپ بنزین'}"
+1,node,4263353894,36.2624969,59.6769711,"{'amenity': 'pharmacy', 'name': 'داروخانه'}"
+2,node,6879765368,36.2618992,59.6891718,{'amenity': 'school'}
+3,node,8114071920,36.2612715,59.6807507,"{'amenity': 'place_of_worship', 'name': 'مسجد صاحب الزمان', 'religion': 'muslim'}"

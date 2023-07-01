@@ -1,0 +1,15 @@
+,type,id,lat,lon,tags
+0,node,1290359721,36.3401321,59.4625669,{'amenity': 'atm'}
+1,node,1750032602,36.3378077,59.4697011,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'فارغ التحصیلان', 'brand': 'بانک ملت', 'brand:en': 'Bank Mellat', 'brand:wikidata': 'Q4855944', 'brand:wikipedia': 'en:Bank Mellat', 'name': 'بانک ملت', 'name:en': 'Bank Mellat'}"
+2,node,4109094089,36.3504034,59.4737602,"{'amenity': 'veterinary', 'name': 'غ'}"
+3,node,4422402293,36.3418896,59.4740763,"{'amenity': 'school', 'name': 'دبستان پسرانه توحید'}"
+4,node,4536994090,36.3411318,59.4697855,"{'addr:street': 'فارغ التحصیل ۱۰', 'amenity': 'restaurant', 'name': 'مرکز آموزشی و رفاهی فرهنگیان، خانه معلم', 'phone': '+98 51 3501 0055'}"
+5,node,4540095881,36.3438076,59.4679293,"{'amenity': 'place_of_worship', 'name': 'مسجد ام الایمه فاطمه الزهرا (س)', 'name:en': 'Fatima Mosque', 'religion': 'muslim'}"
+6,node,5268385496,36.3420873,59.4654533,"{'amenity': 'school', 'name': 'پیش دبستانی و دبستان دخترانه سما ۸', 'name:en': 'Sama 8 school complex'}"
+7,node,5817730598,36.3445867,59.4676124,"{'amenity': 'toilets', 'name': 'سرویس های بهداشتی'}"
+8,node,5817730600,36.3444608,59.465409,"{'amenity': 'place_of_worship', 'name': 'نمازخانه', 'name:en': 'Praying Room', 'religion': 'muslim'}"
+9,node,5817730823,36.3445606,59.4652767,"{'amenity': 'toilets', 'name': 'سرویس های بهداشتی'}"
+10,node,6909187062,36.3394182,59.4644619,"{'addr:city': 'مشهد', 'addr:street': 'بزرگراه وکیل آباد', 'amenity': 'fast_food', 'cuisine': 'burger;chicken', 'name': 'بريانكده ژوپين'}"
+11,node,7099489285,36.3393541,59.4732751,"{'addr:street': 'دندانپزشکان ۷', 'amenity': 'biergarten', 'name': 'کافه رستوران فیانی', 'name:en': 'Fiyani', 'opening_hours': 'Su-Fr 08:00-00:00'}"
+12,node,8112463404,36.345433,59.4755519,"{'amenity': 'fire_station', 'name': 'ایستگاه ۳۱ آتش نشانی'}"
+13,node,8398182405,36.3503823,59.4627473,"{'access': 'yes', 'amenity': 'toilets', 'unisex': 'yes'}"

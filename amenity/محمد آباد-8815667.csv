@@ -1,0 +1,7 @@
+,type,id,lat,lon,tags
+0,node,667345815,36.2593348,59.626362,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۲۰', 'name:en': 'FireStation No. 20'}"
+1,node,4347367142,36.2667864,59.6321877,"{'amenity': 'arts_centre', 'name': 'فرهنگسرای غدیر', 'name:en': 'Ghadir Cultural Center'}"
+2,node,4804509421,36.2595561,59.6387379,"{'amenity': 'marketplace', 'name': 'بازار شهرک بهشتی', 'name:ar': 'سوبر ماركت بهشتي'}"
+3,node,7005678182,36.2635134,59.638845,"{'amenity': 'internet_cafe', 'contact:instagram': 'https://www.instagram.com/cafenetmehran/', 'name': 'کافی نت مهران', 'source': 'map.ir'}"
+4,node,8115560422,36.2586938,59.6434718,"{'amenity': 'place_of_worship', 'name': 'مسجد جواد ائمه', 'religion': 'muslim'}"
+5,node,8786437947,36.2609325,59.6417579,{'amenity': 'clinic'}

@@ -1,0 +1,10 @@
+,type,id,lat,lon,tags
+0,node,693713106,36.3434762,59.5330402,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجدالرضا', 'name:en': 'Masjed-Ol-Reza Mosque', 'religion': 'muslim'}"
+1,node,4364633390,36.3385769,59.5311566,"{'addr:housenumber': '120', 'addr:postcode': '9187157954', 'addr:street': 'بولوار جلال آل احمد', 'amenity': 'pharmacy', 'name': 'داروخانه دکتر پیشاهنگ', 'name:en': 'Dr. Pishahang drugstore'}"
+2,node,4993487721,36.3420586,59.5239012,"{'addr:housenumber': '287', 'addr:street': 'سید رضی ۵۵', 'amenity': 'fast_food', 'name': 'پیتزا آویژه', 'name:en': 'Avizhe Pizza'}"
+3,node,4993488121,36.3414239,59.5235905,"{'addr:street': 'سید رضی ۵۵', 'amenity': 'fast_food', 'name': 'پیتزا آویژه', 'name:en': 'Avizhe Pizza'}"
+4,node,4993488122,36.3411995,59.5249843,{'amenity': 'restaurant'}
+5,node,4993488123,36.3412396,59.5247827,"{'amenity': 'atm', 'name': 'نانوایی', 'shop': 'bakery'}"
+6,node,4993492121,36.3427266,59.5266758,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد', 'name:en': 'Masjed', 'religion': 'muslim'}"
+7,node,5791836622,36.3385076,59.5315789,"{'amenity': 'restaurant', 'name': 'کباب عارف', 'name:en': 'Aref Kebab'}"
+8,node,5791861080,36.3385209,59.5310645,"{'amenity': 'fast_food', 'name': 'پیتزا و ساندویچ شب رو', 'name:en': 'Shabro Fast Food'}"

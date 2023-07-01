@@ -1,0 +1,18 @@
+,type,id,lat,lon,tags
+0,node,3838950182,36.2817793,59.630043,"{'addr:street': 'گلریز۲', 'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد سجادیه', 'religion': 'muslim'}"
+1,node,3838950665,36.2815302,59.6319212,"{'addr:street': 'سرخس 12 (no,12 sarakhs)', 'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد امام هادی ع', 'religion': 'muslim', 'subdenomination': 'ithna ashari'}"
+2,node,3903707398,36.2801053,59.6295782,"{'addr:street': 'خیابان سرخس', 'amenity': 'bank', 'atm': 'yes', 'branch': 'گلریز', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran'}"
+3,node,3903707399,36.2800813,59.6303489,"{'amenity': 'atm', 'name': 'بانک ملی ایران', 'operator': 'بانک ملی ایران'}"
+4,node,3903707400,36.2801329,59.6301445,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'opening_hours': '24/7'}"
+5,node,3903707401,36.2802323,59.6307182,"{'amenity': 'atm', 'operator': 'بانک صادرات ایران'}"
+6,node,3903707404,36.2806553,59.6304373,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه تخصصی و فوق تخصصی امام زمان عج', 'name:en': 'Imam Zaman Clinic'}"
+7,node,3903707405,36.2792424,59.6345404,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'جلالیه', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran'}"
+8,node,3903707406,36.2792938,59.6353984,"{'amenity': 'bank', 'atm': 'no', 'branch': 'جلالیه', 'brand': 'بانک ملت', 'brand:en': 'Bank Mellat', 'brand:wikidata': 'Q4855944', 'brand:wikipedia': 'en:Bank Mellat', 'name': 'بانک ملت', 'name:en': 'Bank Mellat'}"
+9,node,3903707410,36.2797007,59.632221,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر احراری'}"
+10,node,3936277744,36.2802189,59.6315063,"{'amenity': 'doctors', 'healthcare': 'doctor', 'name': 'مطب دکتر مریم میرپور'}"
+11,node,3936277745,36.2807498,59.6316608,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'حسینیه نقویه', 'religion': 'muslim'}"
+12,node,3936277963,36.286953,59.6295319,"{'amenity': 'ice_cream', 'name': 'هادی بستنی'}"
+13,node,3951602272,36.2799453,59.6309148,"{'addr:street': 'خیابان سرخس', 'amenity': 'fast_food', 'name': 'اغذیه مظفر'}"
+14,node,3994242072,36.2814117,59.6350414,"{'addr:street': 'چمن ۷۶', 'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد امام جعفر صادق (ع)', 'religion': 'muslim'}"
+15,node,4826662746,36.2797819,59.630353,{'amenity': 'restaurant'}
+16,node,8008557754,36.2862482,59.6304676,"{'amenity': 'courthouse', 'name': 'مجتمع قضایی بهشتی'}"

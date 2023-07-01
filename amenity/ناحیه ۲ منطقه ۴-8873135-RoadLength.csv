@@ -1,0 +1,14 @@
+highway,count,length
+footway,79,9044.229
+pedestrian,1,378.853
+primary,11,3856.389
+primary_link,2,98.16
+residential,507,75354.236
+secondary,42,22887.895
+secondary_link,10,1074.499
+service,37,8280.617
+steps,4,56.712
+tertiary,54,14865.025
+trunk,11,5983.148
+trunk_link,18,4021.243
+unclassified,2,203.944

@@ -1,0 +1,3 @@
+,type,id,lat,lon,tags
+0,node,2010647717,36.3250757,59.5983134,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد المهدی', 'religion': 'muslim'}"
+1,node,4868551624,36.3260014,59.5961434,{'amenity': 'atm'}

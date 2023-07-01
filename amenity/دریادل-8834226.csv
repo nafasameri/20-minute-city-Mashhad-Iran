@@ -1,0 +1,9 @@
+,type,id,lat,lon,tags
+0,node,2900622531,36.2965511,59.624817,"{'amenity': 'restaurant', 'name': 'رستوران لاله مشهد', 'smoking': 'no'}"
+1,node,2900622532,36.2964129,59.6256142,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد حضرت زهرا', 'religion': 'muslim'}"
+2,node,3002597657,36.3009896,59.6192149,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'religion': 'muslim'}"
+3,node,3962087200,36.300273,59.6241462,"{'amenity': 'fire_station', 'name': 'آتشنشانی'}"
+4,node,4028882255,36.3009161,59.6187583,"{'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'بیمارستان ام البنین', 'name:en': 'omalbanine'}"
+5,node,5058251337,36.2973528,59.6270716,{'amenity': 'toilets'}
+6,node,6426989385,36.3026557,59.6192085,"{'addr:housenumber': '2', 'addr:street': 'هاشمی نژاد ۲۰/۱, آیت الله کاشانی', 'amenity': 'bank', 'brand': 'بانک آینده', 'brand:en': 'Ayandeh Bank', 'brand:wikidata': 'Q5938144', 'brand:wikipedia': 'en:Ayandeh Bank', 'name': 'بانک آینده', 'name:en': 'Ayandeh Bank', 'operator': 'بانک آینده', 'phone': '+98 51 3228 0445'}"
+7,node,8083893359,36.2983622,59.6193944,"{'amenity': 'police', 'name': 'کلانتری آستانه پرست'}"

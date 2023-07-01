@@ -1,0 +1,16 @@
+,type,id,lat,lon,tags
+0,node,1434015469,36.341074,59.4903056,"{'amenity': 'college', 'building': 'yes', 'name': 'دانشگاه علمی کاربردی زندان'}"
+1,node,1750032589,36.3378852,59.4956763,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه فردوس', 'name:en': 'Ferdows clinic', 'opening_hours': '24/7', 'phone': '+98 511 8686155'}"
+2,node,2341194466,36.3418351,59.4799521,{'amenity': 'toilets'}
+3,node,2376021803,36.3397168,59.4848323,"{'amenity': 'fast_food', 'cuisine': 'burger,_pizza_, sandwich', 'name': 'کامبادن'}"
+4,node,4315501500,36.3416672,59.4875416,"{'addr:street': 'بولوار آموزگار', 'amenity': 'internet_cafe', 'contact:mobile': '+989152269238', 'contact:phone': '+985138942630', 'email': 'amouzegar.netcafe@gmail.com', 'name': 'کافی نت آموزگار'}"
+5,node,4737895621,36.345085,59.476921,{'amenity': 'atm'}
+6,node,5300618822,36.3393544,59.4844319,"{'addr:street': 'معلم ۶۴', 'amenity': 'doctors', 'name': 'دکتر قلی پور', 'name:en': 'Dr. Gholipoor'}"
+7,node,5300619121,36.3383572,59.4859671,"{'addr:street': 'بلوار معلم', 'amenity': 'pharmacy', 'healthcare': 'pharmacy'}"
+8,node,5341201621,36.3380115,59.4865416,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر مولودی', 'name:en': 'Pharmacy'}"
+9,node,5341202721,36.3382028,59.486945,"{'amenity': 'fast_food', 'name': 'پیتزا لیان', 'name:en': 'Fast food'}"
+10,node,8112463404,36.345433,59.4755519,"{'amenity': 'fire_station', 'name': 'ایستگاه ۳۱ آتش نشانی'}"
+11,node,8786442877,36.3429095,59.4784543,{'amenity': 'clinic'}
+12,node,9372097417,36.3398624,59.4862864,"{'amenity': 'fast_food', 'name': 'فست فود شاپو'}"
+13,node,10183185310,36.3386014,59.4842586,"{'amenity': 'cafe', 'name': 'کافی شاپ سیزده'}"
+14,node,10604148845,36.3379263,59.4954318,"{'addr:city': 'مشهد', 'addr:housenumber': '1242', 'addr:street': 'بولوار معلم بین معلم 50 و 52', 'amenity': 'music_school', 'education': 'آموزشگاه موسیقی', 'image': 'https://solalestore.com/wp-content/uploads/2023/02/IMG_2667.jpg', 'name': 'مدرسه سازدهنی سلاله مشهد', 'opening_hours': 'Mo-Su 10:00-20:00', 'operator': 'جواد رحیمی نژاد', 'phone': '+989155129762', 'website': 'https://solalestore.com/'}"

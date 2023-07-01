@@ -1,0 +1,11 @@
+,type,id,lat,lon,tags
+0,node,3733174956,36.3231326,59.6416019,"{'addr:street': 'رسالت ۵۵/۳', 'amenity': 'office', 'name': 'پلیس +۱۰', 'office': 'government'}"
+1,node,3824186357,36.3245494,59.6423028,"{'amenity': 'internet_cafe', 'internet_access:fee': '2400', 'name': 'کافی نت جامع'}"
+2,node,3824186358,36.3212176,59.640833,"{'access': 'yes', 'amenity': 'shower', 'name': 'عدالتیان'}"
+3,node,3824186457,36.324966,59.6417561,"{'amenity': 'internet_cafe', 'internet_access': 'کافینت ریحان', 'internet_access:fee': '2400'}"
+4,node,3824186557,36.3212386,59.6413267,"{'amenity': 'internet_cafe', 'internet_access': 'wired', 'internet_access:fee': '2400', 'name': 'کافی نت قائم'}"
+5,node,3842463966,36.3245312,59.642447,"{'amenity': 'restaurant', 'cuisine': 'coffee_shop'}"
+6,node,4851628971,36.3258573,59.6421345,{'amenity': 'police'}
+7,node,6457214140,36.3180759,59.6438398,"{'amenity': 'place_of_worship', 'religion': 'muslim'}"
+8,node,6503236579,36.3259716,59.6493285,{'amenity': 'marketplace'}
+9,node,8115493086,36.3279671,59.6451494,"{'amenity': 'fire_station', 'name': 'ایستگاه ۳۷ آتش نشانی'}"

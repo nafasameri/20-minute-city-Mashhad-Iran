@@ -1,0 +1,5 @@
+,type,id,lat,lon,tags
+0,node,8040620732,36.3180724,59.681825,"{'amenity': 'place_of_worship', 'name': 'مسجد امام حسن مجتبی', 'religion': 'muslim'}"
+1,node,8040643035,36.3066557,59.6765763,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۴۲'}"
+2,node,8773032701,36.3188597,59.6824068,"{'amenity': 'clinic', 'name': 'مرکز بهداشت برادران رحیمی'}"
+3,node,9420704620,36.3213417,59.69223,"{'amenity': 'internet_cafe', 'internet_access': 'yes', 'name': 'کافی نت آسنا', 'phone': '+989392111554', 'website': 'https://asenacn.ir'}"

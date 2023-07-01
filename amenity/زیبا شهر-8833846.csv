@@ -1,0 +1,9 @@
+,type,id,lat,lon,tags
+0,node,693713106,36.3434762,59.5330402,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجدالرضا', 'name:en': 'Masjed-Ol-Reza Mosque', 'religion': 'muslim'}"
+1,node,4993488133,36.3370342,59.5369945,"{'amenity': 'restaurant', 'name': 'رستوران'}"
+2,node,4993490123,36.3374077,59.5367455,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'حسینیه', 'name:en': 'Hoseyniyeh', 'religion': 'muslim'}"
+3,node,4993490124,36.3367567,59.5372406,"{'amenity': 'fast_food', 'name': 'ساندویچ', 'name:en': 'Sandwich'}"
+4,node,5365580690,36.33656,59.5369056,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد فاطمیه', 'religion': 'muslim'}"
+5,node,5791836622,36.3385076,59.5315789,"{'amenity': 'restaurant', 'name': 'کباب عارف', 'name:en': 'Aref Kebab'}"
+6,node,8112536624,36.3365976,59.5480572,{'amenity': 'school'}
+7,node,8112536625,36.3361442,59.5478249,{'amenity': 'school'}

@@ -1,0 +1,7 @@
+,type,id,lat,lon,tags
+0,node,458253924,36.2716113,59.6333268,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مجتمع فرهنگی مذهبی جامعة الحسین', 'religion': 'muslim'}"
+1,node,1750032595,36.2746793,59.6267454,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد امام حسین', 'name:en': 'Imam Hosein Mosque', 'religion': 'muslim'}"
+2,node,3750930121,36.2725188,59.6334189,"{'amenity': 'bank', 'name': 'بانک ملت', 'name:en': 'Mellat bank'}"
+3,node,4347367142,36.2667864,59.6321877,"{'amenity': 'arts_centre', 'name': 'فرهنگسرای غدیر', 'name:en': 'Ghadir Cultural Center'}"
+4,node,4602048991,36.274581,59.6279584,"{'amenity': 'cafe', 'name:ru': 'машат. нахар ийениммз'}"
+5,node,5392379322,36.272934,59.6323609,"{'amenity': 'bank', 'name': 'تقویت بانک'}"

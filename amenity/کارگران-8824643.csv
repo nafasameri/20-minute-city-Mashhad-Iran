@@ -1,0 +1,7 @@
+,type,id,lat,lon,tags
+0,node,667345815,36.2593348,59.626362,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۲۰', 'name:en': 'FireStation No. 20'}"
+1,node,4347364067,36.2659542,59.6207957,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه', 'name:en': 'Pharmacy'}"
+2,node,5896074285,36.2645493,59.6199339,{'amenity': 'fountain'}
+3,node,6638919285,36.2704069,59.6189135,"{'amenity': 'fast_food', 'name': 'فست فود عربی تاجی', 'name:en': 'Taji Arabic Food'}"
+4,node,8041955433,36.2565398,59.6227142,"{'amenity': 'bank', 'atm': 'yes', 'brand': 'Sepah', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah', 'website': 'www.banksepah.ir'}"
+5,node,8772957731,36.2653963,59.620944,"{'amenity': 'clinic', 'name': 'مرکز بهداشت کارگران'}"

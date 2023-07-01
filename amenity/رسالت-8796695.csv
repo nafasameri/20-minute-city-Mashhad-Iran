@@ -1,0 +1,13 @@
+,type,id,lat,lon,tags
+0,node,667327174,36.3071903,59.6459031,"{'addr:street': 'خیابان طلوع', 'amenity': 'fuel', 'name': 'پمب بنزین', 'operator': 'Indipend. 128'}"
+1,node,731425393,36.3076168,59.646836,"{'amenity': 'bank', 'branch': 'بعثت', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah', 'operator': 'Sepah Bank'}"
+2,node,3612319957,36.3175286,59.6388296,{'amenity': 'police'}
+3,node,4244964889,36.308625,59.6474779,"{'addr:street': 'طبرسی', 'amenity': 'clinic', 'internet_access': 'wlan', 'name': 'درمانگاه و خیریه اصغریه', 'name:en': 'Asghari Hospital and Health Center'}"
+4,node,4784732721,36.3148456,59.6380555,"{'addr:street': 'رسالت ۴۶', 'amenity': 'bank', 'branch': 'رسالت', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran'}"
+5,node,5323444358,36.3125324,59.6386195,"{'amenity': 'internet_cafe', 'name': 'کافی نت مقداد'}"
+6,node,5323444361,36.3158254,59.6388842,"{'amenity': 'restaurant', 'name': 'رستوران میلاد'}"
+7,node,6457214140,36.3180759,59.6438398,"{'amenity': 'place_of_worship', 'religion': 'muslim'}"
+8,node,7271482742,36.3133313,59.6378647,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر عطاران', 'name:en': 'Dr. Attaran drugstore'}"
+9,node,7271482743,36.3151435,59.6381892,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر منبتی', 'name:en': 'Dr. Monabati drugstore', 'opening_hours': '24/7'}"
+10,node,8772957753,36.3157703,59.6417351,"{'amenity': 'clinic', 'name': 'مرکز بهداشت امام رضا'}"
+11,node,10798685565,36.3114401,59.6398482,"{'amenity': 'cafe', 'name': 'قهوه مرتضی'}"

@@ -1,0 +1,22 @@
+,type,id,lat,lon,tags
+0,node,4201764491,36.3759716,59.4724001,"{'addr:street': 'بولوار الهیه', 'amenity': 'dentist', 'email': 'hafezdentalclinic@gmail.com', 'internet_access': 'wlan', 'name': 'درمانگاه دندانپزشکی حافظ شرق', 'name:en': 'Hafez E Sharq dental clinic', 'opening_hours': 'Mo-Su 08:40-13:00', 'phone': '+98 51 3531 0898'}"
+1,node,4690336101,36.3712424,59.4810103,"{'amenity': 'atm', 'operator': 'ATM Sepah Bank'}"
+2,node,4690336496,36.3750226,59.4793101,"{'amenity': 'atm', 'opening_hours': '24/7', 'operator': 'ATM Tejarat Bank'}"
+3,node,4712886789,36.3740365,59.4771141,"{'amenity': 'townhall', 'name': 'شهرداری منطقه ۱۲', 'name:en': 'Municipality District 12', 'office': 'government'}"
+4,node,4782443223,36.3761628,59.4723113,"{'amenity': 'atm', 'opening_hours': 'Mo-Su 09:00-22:00', 'operator': 'Hekmat Bank ATM'}"
+5,node,4782453221,36.3761867,59.4723388,"{'addr:street': 'الهیه ۲۵', 'amenity': 'dentist', 'email': 'hafezdentalclinic@gmail.com', 'internet_access': 'wlan', 'name': 'درمانگاه دندانپزشکی حافظ شرق', 'name:en': 'Hafez E Sharq dental clinic', 'opening_hours': 'Sa-Th 09:00-13:00', 'phone': '+98 51 3531 0898'}"
+6,node,5183135722,36.3800879,59.4862245,"{'amenity': 'restaurant', 'delivery': 'yes', 'name': 'رستوران مادرجون', 'name:en': 'Madar Joon Restaurant', 'outdoor_seating': 'no', 'smoking': 'no', 'takeaway': 'yes'}"
+7,node,5183135744,36.377891,59.4898466,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد در حال ساخت', 'religion': 'muslim'}"
+8,node,5218109623,36.3727493,59.4875617,"{'amenity': 'toilets', 'operator': 'روبروی دانشگاه سما ، مسجد'}"
+9,node,5311743248,36.3745158,59.4758951,{'amenity': 'pharmacy'}
+10,node,6209798885,36.3720056,59.4599477,{'amenity': 'atm'}
+11,node,6484973697,36.3656691,59.460297,"{'amenity': 'toilets', 'opening_hours': 'Su, Fr 00:00-24:00', 'operator': 'toilet (WashStand)'}"
+12,node,6497397970,36.3802449,59.470208,"{'amenity': 'place_of_worship', 'name': 'نمازخانه صادقیه', 'religion': 'muslim'}"
+13,node,6498313938,36.3794039,59.4691545,{'amenity': 'fast_food'}
+14,node,6777083286,36.3740981,59.4765643,"{'addr:street': 'میدان ولیعصر', 'amenity': 'clinic', 'name': 'درمانگاه الهیه', 'name:en': 'Clinic'}"
+15,node,7112511035,36.369386,59.4647053,"{'amenity': 'cafe', 'name': 'هفت تیر کافی شاپ', 'name:en': 'Haft Teer Coffee Shop'}"
+16,node,8140050489,36.3818788,59.4965381,"{'amenity': 'place_of_worship', 'name': 'مسجد فاطمه الزهرا', 'religion': 'muslim'}"
+17,node,8140088337,36.3703441,59.4937324,"{'amenity': 'place_of_worship', 'name': 'مسجد جواد ائمه', 'religion': 'muslim'}"
+18,node,9443839501,36.3807036,59.4711991,"{'amenity': 'atm', 'cash_in': 'yes', 'currency:rial': 'yes', 'operator': 'خودپرداز بانک شهر'}"
+19,node,9443839502,36.3806913,59.4711812,"{'amenity': 'atm', 'cash_in': 'yes', 'currency:rial': 'yes', 'operator': 'خودپرداز بانک پاسارگاد'}"
+20,node,10006745092,36.3773784,59.4714406,"{'amenity': 'restaurant', 'name': 'کترینگ شاهان'}"

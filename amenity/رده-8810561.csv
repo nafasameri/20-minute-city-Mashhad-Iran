@@ -1,0 +1,9 @@
+,type,id,lat,lon,tags
+0,node,667333100,36.3150476,59.6578295,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۸', 'name:en': 'Firestation Number 8'}"
+1,node,5013740622,36.3091464,59.67242,"{'addr:street': 'بولوار پنج تن', 'amenity': 'nursing_home', 'email': 'jesus.heidari@gmail.com', 'name': 'فارسی', 'phone': '+98 936 110 8119'}"
+2,node,8040662779,36.3200882,59.6676328,"{'addr:city': 'شهر مشهد', 'addr:street': 'خیابان طبرسی شمالی ۱۷', 'amenity': 'pharmacy', 'dispensing': 'yes', 'drive_through': 'no', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر طبق فروش', 'opening_hours': '24/7', 'opening_hours:covid19': 'open', 'payment:cards': 'yes', 'payment:cash': 'yes', 'phone': '00985132120006', 'start_date': '1377'}"
+3,node,8150672228,36.3135991,59.6540532,"{'amenity': 'place_of_worship', 'name': 'مسجد امام رضا', 'religion': 'muslim'}"
+4,node,8778839520,36.3178688,59.6606306,"{'amenity': 'clinic', 'name': 'مرکز سلامت شهری انصار'}"
+5,node,9123865737,36.3080342,59.6630353,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه شبانه روزی ثارالله'}"
+6,node,9509377714,36.3200375,59.6675741,"{'addr:city': 'شهر مشهد', 'addr:street': 'خیابان طبرسی شمالی ۱۷', 'air_conditioning': 'yes', 'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'general;دیالیز;آزمایشگاه;عمومی;دندانپزشکی', 'name': 'درمانگاه شبانه روزی طبرسی', 'opening_hours': '24/7', 'opening_hours:covid19': 'open', 'phone': '+98 51 3212 0006', 'start_date': '1377'}"
+7,node,10249313241,36.3136264,59.6571444,"{'addr:city': 'شهر مشهد', 'addr:housenumber': 'بین 1 و 3 پشت ایستگاه', 'addr:street': 'طبرسی شمالی 1', 'amenity': 'internet_cafe', 'internet_access': 'yes', 'name': 'کافی نت رضا', 'phone': '+98 933 488 1991'}"

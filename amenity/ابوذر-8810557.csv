@@ -1,0 +1,6 @@
+,type,id,lat,lon,tags
+0,node,667327174,36.3071903,59.6459031,"{'addr:street': 'خیابان طلوع', 'amenity': 'fuel', 'name': 'پمب بنزین', 'operator': 'Indipend. 128'}"
+1,node,731425393,36.3076168,59.646836,"{'amenity': 'bank', 'branch': 'بعثت', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah', 'operator': 'Sepah Bank'}"
+2,node,4244964889,36.308625,59.6474779,"{'addr:street': 'طبرسی', 'amenity': 'clinic', 'internet_access': 'wlan', 'name': 'درمانگاه و خیریه اصغریه', 'name:en': 'Asghari Hospital and Health Center'}"
+3,node,5072717721,36.3029949,59.6508901,"{'addr:street': 'وحید', 'amenity': 'bank', 'branch': 'دریا', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran'}"
+4,node,5072718021,36.3031847,59.6512222,"{'amenity': 'bank', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"

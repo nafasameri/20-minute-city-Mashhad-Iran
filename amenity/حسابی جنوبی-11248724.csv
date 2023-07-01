@@ -1,0 +1,4 @@
+,type,id,lat,lon,tags
+0,node,4381123893,36.3516814,59.4911796,"{'amenity': 'atm', 'name': 'خودپرداز اقتصاد نوین'}"
+1,node,5178186031,36.3519446,59.4972556,"{'amenity': 'taxi', 'name': 'آژانس'}"
+2,node,9022450803,36.3520333,59.4961141,"{'addr:city': 'شهر مشهد', 'amenity': 'pharmacy', 'dispensing': 'yes', 'drive_through': 'yes', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر حق خواه', 'opening_hours': 'su-we 09:00-22:00', 'opening_hours:covid19': 'open', 'phone': '+98 5135149176', 'website': 'https://drhaghkhah.ir'}"

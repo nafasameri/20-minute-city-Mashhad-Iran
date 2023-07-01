@@ -1,0 +1,7 @@
+,type,id,lat,lon,tags
+0,node,3073475924,36.3452943,59.5697522,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد امام حسن مجتبی علیه\u200cالسلام', 'religion': 'muslim'}"
+1,node,4409041889,36.3452907,59.5765475,"{'amenity': 'atm', 'name': 'عابر بانک', 'name:en': 'ATM', 'opening_hours': '24/7'}"
+2,node,4423569492,36.3483634,59.5743714,"{'amenity': 'atm', 'opening_hours': '24/7'}"
+3,node,4423580294,36.3418794,59.5751432,"{'amenity': 'atm', 'opening_hours': '24/7', 'operator': 'بانک مسکن'}"
+4,node,4423606089,36.3431751,59.5739453,"{'amenity': 'atm', 'opening_hours': '24/7', 'operator': 'بانک ملت'}"
+5,node,10301017036,36.3496744,59.5791631,"{'addr:city': 'مشهد', 'addr:street': 'کنار گذر چراغچی', 'amenity': 'fuel', 'fuel:بنزین_سوپر': 'yes', 'fuel:بنزین_معمولی': 'yes'}"

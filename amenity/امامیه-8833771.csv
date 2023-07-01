@@ -1,0 +1,32 @@
+,type,id,lat,lon,tags
+0,node,676994790,36.3679445,59.5089552,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر موسوی', 'name:en': 'Dr.Mousavi Drugstore'}"
+1,node,3261948890,36.3710164,59.5023306,"{'amenity': 'school', 'name': 'دبستان آیات', 'name:en': 'Ayat School'}"
+2,node,3261949238,36.3709246,59.5017625,"{'amenity': 'school', 'name': 'مرکز توانبخشی معلولان ذهنی مهرآوران', 'name:en': 'Zehn Avaran Helply center'}"
+3,node,3261949670,36.3647164,59.5115051,"{'amenity': 'school', 'name': 'دبیرستان عبدالحسین قفلی'}"
+4,node,3913989757,36.3595349,59.5079186,{'amenity': 'bicycle_rental'}
+5,node,4147825389,36.3705752,59.5137928,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر وحیدی منش'}"
+6,node,4383006991,36.3719738,59.5136648,"{'addr:street': 'میدان حجاب', 'amenity': 'bank', 'name': 'بانک سپه', 'name:en': 'Sepah Bank', 'opening_hours': 'Sa-Th 07:30-13:00'}"
+7,node,4392730499,36.3719529,59.5137018,"{'addr:street': 'میدان حجاب', 'amenity': 'bank', 'name': 'پست بانک', 'name:en': 'Post Bank', 'opening_hours': 'Sa-Th 07:30-13:00'}"
+8,node,4395003296,36.3720454,59.5136732,{'amenity': 'bank'}
+9,node,4395014391,36.3720486,59.5136351,{'amenity': 'bank'}
+10,node,4395074289,36.3720905,59.5135004,{'amenity': 'fast_food'}
+11,node,4395074290,36.3720583,59.51358,"{'amenity': 'bank', 'name': 'بانک سپه', 'name:en': 'Sepah Bank'}"
+12,node,4515160924,36.3732053,59.5035164,{'amenity': 'bicycle_rental'}
+13,node,4561854892,36.3628469,59.5142439,"{'amenity': 'atm', 'opening_hours': '24/7', 'operator': 'Pasargad ATM'}"
+14,node,4690094991,36.3597778,59.5147794,{'amenity': 'toilets'}
+15,node,4697671390,36.3684793,59.5033189,"{'addr:housenumber': '43', 'addr:street': 'فلاحی ۵۰/۱۴ (راستی۴۰)', 'amenity': 'car_rental', 'name': 'آژانس ایزین', 'name:en': 'Izin taxi', 'phone': '+98 51 3620 4060'}"
+16,node,4781456521,36.3681439,59.5088112,"{'amenity': 'atm', 'operator': 'Aiandeh Bank ATM'}"
+17,node,5302973319,36.3638599,59.5055973,"{'amenity': 'restaurant', 'name': 'رستوران مایسا'}"
+18,node,5302973432,36.364276,59.5092352,"{'amenity': 'atm', 'name': 'خودپرداز رسالت'}"
+19,node,5311800705,36.3670382,59.5134973,"{'amenity': 'fast_food', 'name': 'فستفود'}"
+20,node,5329132778,36.371872,59.5138739,"{'amenity': 'police', 'name': 'ایستگاه پلیس'}"
+21,node,5349094754,36.3715731,59.5128955,"{'amenity': 'cafe', 'name': 'آبمیوه فروشی'}"
+22,node,5349109155,36.3713892,59.5126004,"{'amenity': 'fast_food', 'name': 'فست فود'}"
+23,node,5349153976,36.372963,59.5101749,"{'amenity': 'fast_food', 'name': 'فست فود'}"
+24,node,5349164780,36.3726965,59.5099855,"{'amenity': 'fast_food', 'name': 'فست فود'}"
+25,node,5352149774,36.3620944,59.5030617,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name:en': 'Mosque', 'religion': 'muslim'}"
+26,node,5593722225,36.3593574,59.5042888,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر صفرنژاد'}"
+27,node,9378407996,36.3599452,59.5140509,"{'amenity': 'parking', 'operator': 'پارکینگ'}"
+28,node,10262418222,36.3719306,59.5128017,"{'addr:city': 'مشهد', 'addr:street': 'میدان شهید قاسمی دانا', 'amenity': 'cafe', 'cuisine': 'international', 'internet_access': 'yes', 'internet_access:fee': 'yes', 'name': 'خدمات آداک  (کافی نت،چاپ دیجیتال،خدمات کامپیوتری)', 'opening_hours': 'Mo-Su 10:00-22:00', 'phone': '+98 91 5006 200', 'source': 'خدمات آداک (کافی نت،چاپ دیجیتال،خدمات کامپیوتری)', 'start_date': '20210101'}"
+29,node,10770978251,36.3610244,59.5075253,"{'amenity': 'fast_food', 'cuisine': 'pizza', 'name': 'پیتزا ۶۴'}"
+30,node,10808213656,36.3600916,59.5128282,"{'amenity': 'bank', 'brand': 'بانک مسکن', 'brand:en': 'Bank Maskan', 'brand:wikidata': 'Q4855942', 'name': 'بانک مسکن', 'name:en': 'Bank Maskan'}"

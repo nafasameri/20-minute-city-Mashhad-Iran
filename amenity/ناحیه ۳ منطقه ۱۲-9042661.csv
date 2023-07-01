@@ -1,0 +1,7 @@
+,type,id,lat,lon,tags
+0,node,3792291111,36.4721292,59.4978702,{'amenity': 'fuel'}
+1,node,5149453421,36.4855486,59.5181769,"{'amenity': 'restaurant', 'name': 'رستوران هفت خوان'}"
+2,node,7992429864,36.4927535,59.5200058,"{'amenity': 'place_of_worship', 'religion': 'muslim'}"
+3,node,7992433174,36.4841997,59.5175536,"{'amenity': 'post_office', 'name': 'پست توس'}"
+4,node,7994135532,36.4267625,59.4545917,"{'amenity': 'atm', 'name': 'خودپرداز بانک رفاه'}"
+5,node,7994135533,36.4295139,59.4541747,"{'addr:city': 'مشهد', 'amenity': 'police', 'name': 'پلیس راه'}"

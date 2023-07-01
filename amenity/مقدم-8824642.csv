@@ -1,0 +1,9 @@
+,type,id,lat,lon,tags
+0,node,673251997,36.2654531,59.6123437,"{'amenity': 'nursing_home', 'name': 'مرکز توانبخشی شهید مطهری'}"
+1,node,3416903469,36.2619477,59.6051728,"{'amenity': 'bank', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran'}"
+2,node,3416903470,36.2624047,59.6048391,"{'amenity': 'bank', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+3,node,3416907373,36.2618516,59.6052985,"{'amenity': 'bank', 'brand': 'بانک ایران زمین', 'brand:wikidata': 'Q5934423', 'brand:wikipedia': 'en:Iran Zamin Bank', 'name': 'بانک ایران زمین'}"
+4,node,4418011642,36.2663771,59.6102791,"{'addr:street': 'بلوار فدائیان اسلام', 'amenity': 'bank', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+5,node,4757538922,36.262467,59.6129665,"{'addr:housenumber': '5133422165', 'addr:street': 'فداییان اسلام ۲۱،بین عرفانی ۱و۳', 'amenity': 'restaurant', 'name': 'کبابی امید', 'name:en': 'Omid Kebab', 'opening_hours': 'Mo-Su 11:00-12:00'}"
+6,node,5604200526,36.258728,59.6125227,{'amenity': 'atm'}
+7,node,8075704375,36.2618455,59.6052642,"{'amenity': 'bank', 'name': 'بانک قرض الحسنه رسالت', 'name:en': 'Gharzolhasaneh Resalat Bank', 'phone': '+98 2128390', 'website': 'https://www.rqbank.ir'}"

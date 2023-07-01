@@ -1,0 +1,17 @@
+,type,id,lat,lon,tags
+0,node,287263918,36.3611467,59.5320481,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد امام سجاد', 'name:en': 'Emam Sajjad Mosque', 'religion': 'muslim'}"
+1,node,1750032592,36.3639547,59.5283433,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه حجت', 'name:en': 'Hojat clinic', 'opening_hours': '24/7', 'phone': '+98 511 6571149'}"
+2,node,4263342736,36.362983,59.5287248,"{'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'داروخانه شبانه\u200cروزی دکتر صادقیان', 'opening_hours': '24/7'}"
+3,node,4364713989,36.3576937,59.5330962,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر محمد پناه'}"
+4,node,4364714089,36.356754,59.5265096,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر قصبه'}"
+5,node,4772763822,36.3516621,59.5465188,"{'amenity': 'atm', 'operator': 'sina bank'}"
+6,node,4853057922,36.3565009,59.5337334,"{'addr:housenumber': '208', 'addr:street': 'اندیشه ٦/١', 'amenity': 'courthouse', 'name': 'مجتمع شماره ۶ شوراهای حل اختلاف مشهد', 'phone': '+98 51 3663 5302'}"
+7,node,5036491421,36.3618796,59.529942,"{'addr:street': 'اندیشه ۲۷', 'amenity': 'school', 'name': 'دبستان شهید رجایی'}"
+8,node,6056571785,36.3605289,59.5410928,"{'addr:street': 'سعادت ۶', 'amenity': 'nursing_home'}"
+9,node,8781220088,36.3651562,59.5401446,"{'amenity': 'clinic', 'name': 'مرکز سلامت سینا'}"
+10,node,10041054768,36.3549932,59.5375742,"{'amenity': 'library', 'name': 'کتابخانه امام رضا'}"
+11,node,10113891710,36.3557871,59.5309424,"{'amenity': 'school', 'name': 'هنرستان فنی و حرفه ای دخترانه مهدی زاده نیا'}"
+12,node,10536287485,36.3655718,59.5373798,"{'amenity': 'police', 'name': 'پلیس راه امام هادی'}"
+13,node,10808947488,36.3515292,59.5463529,"{'amenity': 'conference_centre', 'name': 'سالن کنفرانس دماوند'}"
+14,node,10808947489,36.3498267,59.5453553,{'amenity': 'toilets'}
+15,node,10808947501,36.3586122,59.5413319,"{'amenity': 'bank', 'brand': 'بانک ملت', 'brand:en': 'Bank Mellat', 'brand:wikidata': 'Q4855944', 'name': 'بانک ملت', 'name:en': 'Bank Mellat'}"

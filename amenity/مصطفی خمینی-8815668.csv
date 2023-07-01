@@ -1,0 +1,5 @@
+,type,id,lat,lon,tags
+0,node,667345815,36.2593348,59.626362,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۲۰', 'name:en': 'FireStation No. 20'}"
+1,node,4804509421,36.2595561,59.6387379,"{'amenity': 'marketplace', 'name': 'بازار شهرک بهشتی', 'name:ar': 'سوبر ماركت بهشتي'}"
+2,node,8115560422,36.2586938,59.6434718,"{'amenity': 'place_of_worship', 'name': 'مسجد جواد ائمه', 'religion': 'muslim'}"
+3,node,8128808013,36.2540601,59.624603,"{'amenity': 'place_of_worship', 'religion': 'muslim'}"

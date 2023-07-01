@@ -1,0 +1,13 @@
+highway,count,length
+cycleway,3,5288.613
+footway,16,2657.732
+living_street,2,91.261
+pedestrian,4,1258.481
+primary,5,1300.043
+primary_link,3,176.947
+residential,166,18704.073
+secondary,38,12214.611
+secondary_link,4,148.994
+service,62,4670.434
+tertiary,35,9456.651
+unclassified,2,138.703

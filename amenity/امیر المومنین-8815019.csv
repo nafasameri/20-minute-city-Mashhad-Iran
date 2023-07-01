@@ -1,0 +1,10 @@
+,type,id,lat,lon,tags
+0,node,5013740622,36.3091464,59.67242,"{'addr:street': 'بولوار پنج تن', 'amenity': 'nursing_home', 'email': 'jesus.heidari@gmail.com', 'name': 'فارسی', 'phone': '+98 936 110 8119'}"
+1,node,5118329522,36.2936873,59.6763317,"{'addr:street': 'خیابان نامجو', 'amenity': 'clinic', 'name': 'درمانگاه شبانه روزی حضرت زینب', 'name:en': 'Hazrat Zeinab Clinic', 'opening_hours': '24/7'}"
+2,node,5118354921,36.2942855,59.6753207,"{'addr:street': 'شفیعی۳۱', 'amenity': 'bank', 'name': 'بانک صادرات', 'name:en': 'Saderat Bank'}"
+3,node,5177303224,36.3004068,59.673742,"{'amenity': 'hospital', 'name': 'بیمارستان امام سجاد', 'name:en': 'Imam sajjad Hospital'}"
+4,node,5231187622,36.2953815,59.674993,"{'amenity': 'fast_food', 'name': 'غذایه قابلی خمسه', 'name:en': 'Ghazaye ghabli khamse'}"
+5,node,5494330721,36.289928,59.6720144,"{'addr:street': 'بولوار کرامت', 'amenity': 'car_wash', 'name': 'کارواش کلاسیک', 'name:en': 'Classic Car Wash'}"
+6,node,8040643035,36.3066557,59.6765763,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۴۲'}"
+7,node,9420757513,36.2989242,59.6787946,"{'addr:city': 'شهر مشهد', 'addr:street': 'گلبوی ۳۷', 'amenity': 'internet_cafe', 'internet_access': 'yes', 'internet_access:ssid': 'goulshahr.ir', 'name': 'کافی نت و محصولات فرهنگی گلشهر', 'operator': 'عبدی', 'phone': '+98 930 571 3662'}"
+8,node,10906090827,36.2980312,59.6747,"{'addr:street': 'شهید آوینی ۳۳، گلبوی ۱۸', 'amenity': 'fast_food', 'name': 'فست فود بیروت', 'opening_hours': 'Sa-Fr 11:00-01:00', 'phone': '09383471672'}"

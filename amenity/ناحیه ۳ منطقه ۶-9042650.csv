@@ -1,0 +1,20 @@
+,type,id,lat,lon,tags
+0,node,264625292,36.2604619,59.6803664,"{'amenity': 'fuel', 'name': 'پمپ بنزین'}"
+1,node,4263353894,36.2624969,59.6769711,"{'amenity': 'pharmacy', 'name': 'داروخانه'}"
+2,node,4809045226,36.2648467,59.6680476,"{'amenity': 'atm', 'operator': 'پارسا نان گندم'}"
+3,node,4886591821,36.2705308,59.6751146,"{'amenity': 'atm', 'operator': 'pasargad'}"
+4,node,4886592121,36.2662816,59.66757,"{'addr:street': 'بولوار حر', 'amenity': 'police', 'name': 'کلانتری رجایی', 'name:en': 'Police officers rejaee'}"
+5,node,5322626574,36.2624425,59.6628906,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر تهرانی'}"
+6,node,5322626575,36.2626325,59.6626304,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد بقیع', 'religion': 'muslim'}"
+7,node,5324240578,36.2685392,59.6618955,"{'amenity': 'restaurant', 'name': 'رستوران سازگار'}"
+8,node,5695447968,36.2689853,59.6955019,"{'addr:city': 'مشهد', 'amenity': 'fuel', 'fuel:Benzin': 'yes', 'fuel:cng': 'yes', 'fuel:gasoil': 'yes', 'name': 'پمپ بنزین'}"
+9,node,6368109290,36.2643677,59.6715631,{'amenity': 'police'}
+10,node,6879765368,36.2618992,59.6891718,{'amenity': 'school'}
+11,node,8008542845,36.2582713,59.6805307,"{'amenity': 'library', 'name': 'کتابخانه دهخدا'}"
+12,node,8114071920,36.2612715,59.6807507,"{'amenity': 'place_of_worship', 'name': 'مسجد صاحب الزمان', 'religion': 'muslim'}"
+13,node,8786489716,36.266071,59.6729413,"{'amenity': 'clinic', 'name': 'مرکز بهداشت ساختمان'}"
+14,node,9123866481,36.2656914,59.6676698,"{'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'general;paediatrics;dentist;dermatology', 'name': 'درمانگاه شبانه روزی باب الحوائج'}"
+15,node,9284581800,36.2687639,59.6956615,"{'amenity': 'vending_machine', 'currency:IRR': 'yes', 'payment:cash': 'yes', 'payment:credit_cards': 'yes', 'vending': 'fuel'}"
+16,node,9284581801,36.2692293,59.6953078,"{'access': 'yes', 'amenity': 'toilets', 'unisex': 'yes'}"
+17,node,9284581811,36.2734883,59.6856594,"{'addr:city': 'مشهد', 'amenity': 'fuel'}"
+18,node,9284581812,36.2734683,59.6857302,"{'access': 'yes', 'amenity': 'toilets', 'unisex': 'yes'}"

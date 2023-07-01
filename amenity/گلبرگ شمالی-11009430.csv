@@ -1,0 +1,6 @@
+,type,id,lat,lon,tags
+0,node,4296416366,36.3301044,59.5950505,"{'addr:city': 'مشهد', 'addr:street': 'بولوار شفا', 'amenity': 'courthouse', 'name': 'مجتمع قضایی خانواده'}"
+1,node,4296416367,36.3301272,59.5942141,"{'amenity': 'doctors', 'name': 'ساختمان پزشکان'}"
+2,node,4868551622,36.3271077,59.5945876,{'amenity': 'fast_food'}
+3,node,5643927221,36.3268632,59.5955659,"{'amenity': 'doctors', 'name': 'دکتر کیافر', 'name:en': 'Dr Kiafar', 'phone': '+98 51 3724 7060'}"
+4,node,5679063722,36.3268223,59.5948674,"{'amenity': 'doctors', 'name': 'مهسا کیافر', 'name:en': 'Dr.Kiafar'}"

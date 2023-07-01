@@ -1,0 +1,13 @@
+,type,id,lat,lon,tags
+0,node,2265806599,36.2080328,59.6684944,"{'amenity': 'place_of_worship', 'religion': 'muslim'}"
+1,node,4986844846,36.2137154,59.6211236,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد امام خمینی', 'name:en': 'Imam Khomeini Mosque', 'religion': 'muslim'}"
+2,node,8078732784,36.2007027,59.6535539,"{'amenity': 'place_of_worship', 'name': 'مسجد امام حسن مجتبی', 'religion': 'muslim'}"
+3,node,8078732790,36.2043909,59.6620785,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه رستمی'}"
+4,node,8078777442,36.1944241,59.6211267,"{'amenity': 'place_of_worship', 'name': 'مسجد امام رضا', 'religion': 'muslim'}"
+5,node,8078807602,36.200854,59.635146,"{'amenity': 'bank', 'name': 'بانک صادرات'}"
+6,node,8114377038,36.2245683,59.643362,{'amenity': 'taxi'}
+7,node,10148047943,36.2135406,59.627652,"{'amenity': 'police', 'name': 'قرارگاه پلیس راهور خراسان رضوی'}"
+8,node,10148047962,36.2203493,59.6256316,{'amenity': 'police'}
+9,node,10287880287,36.1963846,59.6393155,"{'amenity': 'fuel', 'name': 'پمپ بنزین'}"
+10,node,10287880291,36.1964566,59.6389245,"{'amenity': 'fuel', 'name': 'جایگاه CNG'}"
+11,node,10287880295,36.1961892,59.6399576,"{'amenity': 'fuel', 'name': 'گازوییل'}"

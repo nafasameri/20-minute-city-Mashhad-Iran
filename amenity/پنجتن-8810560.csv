@@ -1,0 +1,14 @@
+,type,id,lat,lon,tags
+0,node,723151440,36.3016774,59.6645953,{'amenity': 'car_wash'}
+1,node,5013740622,36.3091464,59.67242,"{'addr:street': 'بولوار پنج تن', 'amenity': 'nursing_home', 'email': 'jesus.heidari@gmail.com', 'name': 'فارسی', 'phone': '+98 936 110 8119'}"
+2,node,5177303224,36.3004068,59.673742,"{'amenity': 'hospital', 'name': 'بیمارستان امام سجاد', 'name:en': 'Imam sajjad Hospital'}"
+3,node,6260407385,36.2993087,59.6676202,{'amenity': 'atm'}
+4,node,8040643035,36.3066557,59.6765763,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۴۲'}"
+5,node,8150579757,36.3012065,59.6665243,"{'amenity': 'school', 'name': 'دبیرستان ترابی'}"
+6,node,8150579765,36.3033766,59.6664418,"{'amenity': 'school', 'name': 'دبستان شاهد رحیمی'}"
+7,node,8150579769,36.3039041,59.6674777,"{'amenity': 'school', 'name': 'مدرسه حضرت خدیجه'}"
+8,node,8150579770,36.3037864,59.6667755,"{'amenity': 'school', 'name': 'هنرستان خیامی'}"
+9,node,8150579779,36.3031291,59.6679719,"{'amenity': 'school', 'name': 'هنرستان الزهرا'}"
+10,node,9123865737,36.3080342,59.6630353,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه شبانه روزی ثارالله'}"
+11,node,9420757513,36.2989242,59.6787946,"{'addr:city': 'شهر مشهد', 'addr:street': 'گلبوی ۳۷', 'amenity': 'internet_cafe', 'internet_access': 'yes', 'internet_access:ssid': 'goulshahr.ir', 'name': 'کافی نت و محصولات فرهنگی گلشهر', 'operator': 'عبدی', 'phone': '+98 930 571 3662'}"
+12,node,10906090827,36.2980312,59.6747,"{'addr:street': 'شهید آوینی ۳۳، گلبوی ۱۸', 'amenity': 'fast_food', 'name': 'فست فود بیروت', 'opening_hours': 'Sa-Fr 11:00-01:00', 'phone': '09383471672'}"

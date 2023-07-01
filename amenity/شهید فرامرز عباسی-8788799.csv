@@ -1,0 +1,22 @@
+,type,id,lat,lon,tags
+0,node,2559089243,36.3255727,59.5488795,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'فرامرز عباسی', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+1,node,2584915909,36.3272165,59.5495035,"{'access': 'yes', 'amenity': 'toilets', 'fee': 'no'}"
+2,node,2584916597,36.3261604,59.5489305,"{'amenity': 'cafe', 'cuisine': 'coffee_shop', 'name': 'دهکده', 'name:en': 'Dehkadeh'}"
+3,node,2989282079,36.3343576,59.5505488,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد امام علی', 'name:en': 'Imam Ali Mosque', 'religion': 'muslim'}"
+4,node,3015853338,36.3349953,59.5502217,"{'amenity': 'bureau_de_change', 'name': 'صرافی سنجری', 'office': 'yes', 'phone': '+98 513 607 4008'}"
+5,node,4013333299,36.3352817,59.553351,"{'amenity': 'toilets', 'name': 'سرویس بهداشتی'}"
+6,node,4417954363,36.3254605,59.5496585,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر مدرس\u200cزاده'}"
+7,node,4417954377,36.325499,59.5494973,"{'amenity': 'school', 'name': 'دبیرستان غیر دولتی دخترانه علم آموز'}"
+8,node,4797190927,36.3340947,59.55051,"{'addr:street': 'فرامرز عباسی ۲۱', 'amenity': 'restaurant', 'cuisine': 'kebab', 'name': 'ضیافت نور', 'name:en': 'Ziafat Noor', 'phone': '+98 51 3611 0600'}"
+9,node,5156591973,36.3259457,59.5467983,"{'addr:city': 'مشهد', 'addr:housenumber': '351', 'addr:street': 'بولوار فردوسی', 'amenity': 'clinic', 'description': 'Retina clinic, Dr Nasser Shoeibi, Dr Mehdi Ghasemi', 'healthcare': 'clinic', 'name': 'کلینیک چشم پزشکی،شبکیه دکتر ناصر شعیبی، دکتر مهدی قاسمی', 'name:en': 'Dr Nasser Shoeibi, Dr Mehdi Ghasemi', 'phone': '+98 51 3608 5700'}"
+10,node,6385108085,36.3383003,59.5509986,"{'amenity': 'doctors', 'name': 'مطب دکتر'}"
+11,node,8112536624,36.3365976,59.5480572,{'amenity': 'school'}
+12,node,8112536625,36.3361442,59.5478249,{'amenity': 'school'}
+13,node,8112536626,36.3347578,59.5482765,"{'amenity': 'fire_station', 'name': 'ایستگاه۴۳ آتش نشانی'}"
+14,node,8746772672,36.3273339,59.5526043,"{'amenity': 'school', 'contact:instagram': 'https://www.instagram.com/meftah_ghaem/', 'email': 'info@meftah-ed.ir', 'name': 'دبستان دخترانه مفتاح شماره یک', 'phone': '+98 376 531 61; +98 376 166 63', 'website': 'http://meftah-ed.ir'}"
+15,node,8780166858,36.3297003,59.5471081,{'amenity': 'clinic'}
+16,node,9577062645,36.3395078,59.55279,"{'addr:city': 'شهر مشهد', 'addr:street': 'بولوار جانباز', 'amenity': 'food_court', 'internet_access': 'no', 'name': 'فودکورت 21', 'opening_hours': 'Everyday 09:00 - 24:00', 'opening_hours:covid19': 'same', 'outdoor_seating': 'yes', 'smoking': 'isolated'}"
+17,node,9577079063,36.339618,59.5528355,"{'addr:city': 'شهر مشهد', 'addr:street': 'بولوار جانباز', 'air_conditioning': 'yes', 'amenity': 'cafe', 'cuisine': 'coffee_shop;sandwich;italian;pizza;ice_cream', 'internet_access': 'no', 'name': 'کافی شاپ بام ایرانی', 'opening_hours': 'همه روزه - 09:00 الی 24:00', 'opening_hours:covid19': 'same', 'outdoor_seating': 'yes', 'phone': '+98 9918789664', 'smoking': 'outside', 'start_date': '2022-Jan-20', 'website': 'https://instagram.com/bame.irani?utm_medium=copy_link'}"
+18,node,9968171515,36.3256137,59.5501986,"{'amenity': 'hospital', 'healthcare': 'hospital', 'name': 'درمانگاه پوست و مو رزسفید'}"
+19,node,10657311506,36.3280051,59.548865,"{'amenity': 'bank', 'name': 'بانک تجارت شعبه فرامرز عباسی'}"
+20,node,10676785500,36.3254779,59.5514278,"{'amenity': 'clinic', 'name': 'کلینیک دندانپزشکی ارتا'}"

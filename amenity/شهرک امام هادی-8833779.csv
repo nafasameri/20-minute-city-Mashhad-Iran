@@ -1,0 +1,16 @@
+,type,id,lat,lon,tags
+0,node,667355731,36.3605538,59.5518006,"{'addr:city': 'مشهد', 'addr:street': 'بولوار توس', 'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۱۴', 'name:en': 'FireStation No. 14'}"
+1,node,779046580,36.3474368,59.5497958,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'religion': 'muslim'}"
+2,node,4772763822,36.3516621,59.5465188,"{'amenity': 'atm', 'operator': 'sina bank'}"
+3,node,4861699121,36.3555382,59.5495629,{'amenity': 'atm'}
+4,node,6056571785,36.3605289,59.5410928,"{'addr:street': 'سعادت ۶', 'amenity': 'nursing_home'}"
+5,node,8490182804,36.34667,59.5519415,{'amenity': 'parking'}
+6,node,8490182805,36.3470286,59.550654,{'amenity': 'parking'}
+7,node,8530764117,36.3666147,59.5370609,"{'amenity': 'atm', 'operator': 'پلیس راه مشهد قوچان'}"
+8,node,8781220088,36.3651562,59.5401446,"{'amenity': 'clinic', 'name': 'مرکز سلامت سینا'}"
+9,node,9988236616,36.3659643,59.5393225,"{'amenity': 'shower', 'opening_hours': 'تک مارکت'}"
+10,node,10041054768,36.3549932,59.5375742,"{'amenity': 'library', 'name': 'کتابخانه امام رضا'}"
+11,node,10536287485,36.3655718,59.5373798,"{'amenity': 'police', 'name': 'پلیس راه امام هادی'}"
+12,node,10808947488,36.3515292,59.5463529,"{'amenity': 'conference_centre', 'name': 'سالن کنفرانس دماوند'}"
+13,node,10808947489,36.3498267,59.5453553,{'amenity': 'toilets'}
+14,node,10808947501,36.3586122,59.5413319,"{'amenity': 'bank', 'brand': 'بانک ملت', 'brand:en': 'Bank Mellat', 'brand:wikidata': 'Q4855944', 'name': 'بانک ملت', 'name:en': 'Bank Mellat'}"

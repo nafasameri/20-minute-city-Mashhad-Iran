@@ -1,0 +1,13 @@
+,type,id,lat,lon,tags
+0,node,4555365697,36.3125104,59.6371668,"{'addr:street': 'رسالت ۴۰', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه شبانه روزی روح الله', 'name:en': 'Rooh-O-Allah clinic', 'opening_hours': '24/7', 'phone': '+98 51 3271 0008'}"
+1,node,4555434189,36.3123288,59.6371633,"{'addr:street': 'رسالت ۴۰', 'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر اکبریان', 'name:en': 'Dr. َAkbarian drugstore'}"
+2,node,5323444358,36.3125324,59.6386195,"{'amenity': 'internet_cafe', 'name': 'کافی نت مقداد'}"
+3,node,5323444367,36.3116326,59.6369806,"{'amenity': 'bank', 'atm': 'yes', 'name': 'موسسه اعتباری ملل'}"
+4,node,5323444368,36.3102387,59.6366452,"{'amenity': 'bank', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran'}"
+5,node,5582899422,36.3039201,59.6346036,"{'addr:street': 'شیخ صدوق ۱۲', 'amenity': 'restaurant', 'name': 'غذای آماده ممتاز', 'name:en': 'momtaz'}"
+6,node,5582899621,36.305141,59.6345221,"{'addr:street': 'شیخ صدوق ۱۵', 'amenity': 'restaurant', 'name': 'رستوران غفوریان', 'name:en': 'ghafourian restaurant'}"
+7,node,6206286186,36.3060486,59.6343133,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر انصاریان', 'name:en': 'Ansarian'}"
+8,node,6887586685,36.305544,59.6423889,"{'addr:street': '۱ شیخ صدوق', 'amenity': 'school', 'name': 'حوزه علمیه', 'name:en': 'seminary'}"
+9,node,9296559686,36.3033486,59.640545,"{'addr:city': 'شهر مشهد', 'addr:housenumber': '51', 'addr:street': 'خیابان طبرسی جنوبی', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر جلالیان حسینی'}"
+10,node,10100508917,36.3095041,59.6361642,{'amenity': 'atm'}
+11,node,10798685565,36.3114401,59.6398482,"{'amenity': 'cafe', 'name': 'قهوه مرتضی'}"

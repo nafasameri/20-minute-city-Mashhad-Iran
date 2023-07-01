@@ -1,0 +1,10 @@
+,type,id,lat,lon,tags
+0,node,4809045226,36.2648467,59.6680476,"{'amenity': 'atm', 'operator': 'پارسا نان گندم'}"
+1,node,5311797300,36.2648244,59.656545,"{'amenity': 'restaurant', 'name': 'رستوران'}"
+2,node,5311797307,36.2654016,59.6584564,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد امام حسن مجتبی', 'religion': 'muslim'}"
+3,node,5322626574,36.2624425,59.6628906,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر تهرانی'}"
+4,node,5322626575,36.2626325,59.6626304,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد بقیع', 'religion': 'muslim'}"
+5,node,5324240539,36.2657071,59.6555178,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد ابالفضل', 'name:en': 'Abolfazl Mosque', 'religion': 'muslim'}"
+6,node,6368109290,36.2643677,59.6715631,{'amenity': 'police'}
+7,node,8786489716,36.266071,59.6729413,"{'amenity': 'clinic', 'name': 'مرکز بهداشت ساختمان'}"
+8,node,9123866481,36.2656914,59.6676698,"{'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'general;paediatrics;dentist;dermatology', 'name': 'درمانگاه شبانه روزی باب الحوائج'}"

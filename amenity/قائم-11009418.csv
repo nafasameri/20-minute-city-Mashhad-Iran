@@ -1,0 +1,9 @@
+,type,id,lat,lon,tags
+0,node,3607664144,36.3239759,59.6338906,{'amenity': 'fast_food'}
+1,node,3612319953,36.3234684,59.6354219,{'amenity': 'fast_food'}
+2,node,3733174956,36.3231326,59.6416019,"{'addr:street': 'رسالت ۵۵/۳', 'amenity': 'office', 'name': 'پلیس +۱۰', 'office': 'government'}"
+3,node,3824186358,36.3212176,59.640833,"{'access': 'yes', 'amenity': 'shower', 'name': 'عدالتیان'}"
+4,node,3824186457,36.324966,59.6417561,"{'amenity': 'internet_cafe', 'internet_access': 'کافینت ریحان', 'internet_access:fee': '2400'}"
+5,node,3824186557,36.3212386,59.6413267,"{'amenity': 'internet_cafe', 'internet_access': 'wired', 'internet_access:fee': '2400', 'name': 'کافی نت قائم'}"
+6,node,3844166060,36.3248766,59.6320397,"{'access': 'yes', 'amenity': 'toilets', 'drinking_water': 'yes', 'fee': 'no', 'operator': 'شهرداری مشهد', 'wheelchair': 'no'}"
+7,node,4851628971,36.3258573,59.6421345,{'amenity': 'police'}

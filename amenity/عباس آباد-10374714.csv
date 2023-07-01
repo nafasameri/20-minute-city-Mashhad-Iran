@@ -1,0 +1,6 @@
+,type,id,lat,lon,tags
+0,node,667333100,36.3150476,59.6578295,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۸', 'name:en': 'Firestation Number 8'}"
+1,node,6503236579,36.3259716,59.6493285,{'amenity': 'marketplace'}
+2,node,8150672228,36.3135991,59.6540532,"{'amenity': 'place_of_worship', 'name': 'مسجد امام رضا', 'religion': 'muslim'}"
+3,node,8778839520,36.3178688,59.6606306,"{'amenity': 'clinic', 'name': 'مرکز سلامت شهری انصار'}"
+4,node,10249313241,36.3136264,59.6571444,"{'addr:city': 'شهر مشهد', 'addr:housenumber': 'بین 1 و 3 پشت ایستگاه', 'addr:street': 'طبرسی شمالی 1', 'amenity': 'internet_cafe', 'internet_access': 'yes', 'name': 'کافی نت رضا', 'phone': '+98 933 488 1991'}"

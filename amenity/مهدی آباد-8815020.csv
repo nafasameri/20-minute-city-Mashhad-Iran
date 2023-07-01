@@ -1,0 +1,3 @@
+,type,id,lat,lon,tags
+0,node,9284581811,36.2734883,59.6856594,"{'addr:city': 'مشهد', 'amenity': 'fuel'}"
+1,node,9284581812,36.2734683,59.6857302,"{'access': 'yes', 'amenity': 'toilets', 'unisex': 'yes'}"

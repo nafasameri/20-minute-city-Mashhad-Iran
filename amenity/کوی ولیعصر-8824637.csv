@@ -1,0 +1,5 @@
+,type,id,lat,lon,tags
+0,node,516164910,36.2398803,59.5922867,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۱۳', 'name:en': 'FireStation No. 13'}"
+1,node,8993889557,36.2315882,59.5958117,"{'amenity': 'fuel', 'name': 'جایگاه CNG'}"
+2,node,10282969739,36.2318687,59.596376,"{'amenity': 'fuel', 'name': 'پمپ بنزین'}"
+3,node,10282969760,36.2367303,59.5893656,"{'amenity': 'place_of_worship', 'name': 'مسجد شهید خسروی', 'religion': 'muslim'}"

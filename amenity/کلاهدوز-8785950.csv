@@ -1,0 +1,25 @@
+,type,id,lat,lon,tags
+0,node,344464839,36.3012227,59.5840234,"{'amenity': 'bank', 'bic': '8507', 'branch': 'سناباد', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran', 'operator': 'Melli Bank'}"
+1,node,2318577405,36.309592,59.5829612,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد چهارده معصوم', 'religion': 'muslim'}"
+2,node,2446884535,36.3053655,59.5787522,"{'amenity': 'restaurant', 'cuisine': 'regional', 'name': 'رستوران رضایی', 'name:en': 'Rezaee Resaurant'}"
+3,node,4047527995,36.311572,59.58921,"{'amenity': 'arts_centre', 'name': 'فرهنگسرا انتظار'}"
+4,node,4317959696,36.3056285,59.5899526,{'amenity': 'bench'}
+5,node,4357520421,36.3108816,59.5779138,{'amenity': 'bank'}
+6,node,4397472600,36.3011513,59.5833956,"{'amenity': 'place_of_worship', 'name': 'مسجد الزهراء سناباد', 'religion': 'muslim'}"
+7,node,4616669989,36.3059799,59.5787111,"{'amenity': 'restaurant', 'name': 'رستوران رضا'}"
+8,node,4898200523,36.3020203,59.5848693,"{'amenity': 'bank', 'name': 'بانک مسکن، چهارراه سناباد', 'name:en': 'Bank Maskan, Sanabad Intersection'}"
+9,node,5017491871,36.3163218,59.5857055,{'amenity': 'taxi'}
+10,node,5017545178,36.3158323,59.5864135,"{'amenity': 'toilets', 'designation': 'توالت و سرویس بهداشتی ابوطالب', 'source': 'WC'}"
+11,node,5235302082,36.3025667,59.5806354,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه سناباد'}"
+12,node,5235302083,36.3024978,59.5805054,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه شبانه روزی دکتر عابدزاده'}"
+13,node,5258218046,36.3042961,59.5775597,"{'amenity': 'school', 'name': 'دبیرستان ستارگان هما'}"
+14,node,5258218049,36.3022648,59.5866785,"{'amenity': 'school', 'name': 'دبیرستان نوربخش'}"
+15,node,5306944004,36.3028079,59.5862714,"{'amenity': 'school', 'name': 'دبستان دیانت'}"
+16,node,5306944199,36.3034867,59.5877127,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد امام حسن عسگری', 'name:ar': 'مسجد الإمام الحسن العسكري', 'name:en': 'Imam Hasan Mosque', 'religion': 'muslim'}"
+17,node,5306944283,36.301869,59.5902314,"{'amenity': 'fast_food', 'name': 'فست فود آویشن'}"
+18,node,5481980323,36.3069828,59.5791815,"{'addr:street': 'کلاهدوز ۱۷', 'amenity': 'nursing_home', 'name:ar': 'مركز طوس لطب العيون'}"
+19,node,6067999886,36.3150885,59.5833933,"{'amenity': 'cafe', 'name': 'کافی شاپ', 'name:en': 'Coffee shop', 'name:fr': 'Café'}"
+20,node,6067999887,36.309145,59.5805278,"{'amenity': 'cafe', 'name': 'کافی شاپ', 'name:en': 'Coffee shop', 'name:fr': 'Café'}"
+21,node,6364452815,36.3156138,59.5853524,"{'addr:city': 'مشهد', 'addr:postcode': '9184845943', 'addr:street': 'بولوار شهید کلاهدوز روبروی کلاهدوز 52', 'amenity': 'fast_food', 'cuisine': 'burger;sandwich', 'drive_through': 'no', 'level': '0', 'name': 'ساندویچ فردوسی'}"
+22,node,6373713236,36.3155349,59.5852601,"{'addr:city': 'مشهد', 'addr:street': 'بولوار شهید کلاهدوز روبروی کلاهدوز 52', 'amenity': 'bank', 'atm': 'yes', 'brand': 'بانک ملی ایران', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'drive_through': 'no', 'name': 'بانک ملی ایران', 'name:en': 'Bank Melli Iran'}"
+23,node,9998909649,36.3016006,59.58905,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مهدیه امام خامنه ای', 'religion': 'muslim'}"

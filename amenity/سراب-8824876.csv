@@ -1,0 +1,49 @@
+,type,id,lat,lon,tags
+0,node,626935230,36.2928107,59.6077904,{'amenity': 'university'}
+1,node,649623863,36.2921988,59.601685,"{'amenity': 'bank', 'atm': 'yes', 'bic': '9302', 'branch': 'مدرس', 'brand': 'بانک سامان', 'brand:en': 'Saman Bank', 'brand:wikidata': 'Q4117676', 'brand:wikipedia': 'en:Saman Bank', 'fax': '+98-511-2241044', 'name': 'بانک سامان', 'name:en': 'Saman Bank', 'phone': '+98-511-2241046-9'}"
+2,node,652430369,36.2913041,59.6018148,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'مدرس', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran'}"
+3,node,652430370,36.2919723,59.6019534,"{'amenity': 'bank', 'atm': 'no', 'branch': 'مدرس', 'brand': 'بانک ملت', 'brand:en': 'Bank Mellat', 'brand:wikidata': 'Q4855944', 'brand:wikipedia': 'en:Bank Mellat', 'name': 'بانک ملت', 'name:en': 'Bank Mellat'}"
+4,node,652430371,36.2918538,59.60197,{'amenity': 'police'}
+5,node,667296563,36.2953359,59.597807,"{'amenity': 'bank', 'atm': 'no', 'branch': 'دانشگاه', 'brand': 'بانک سینا', 'brand:en': 'Sina Bank', 'brand:wikidata': 'Q10860246', 'brand:wikipedia': 'en:Sina Bank', 'name': 'بانک سینا', 'name:en': 'Sina Bank', 'operator': 'Sina Bank'}"
+6,node,667296565,36.2964896,59.5991145,"{'amenity': 'bank', 'atm': 'no', 'branch': 'میدان سعدی', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran', 'operator': 'Saderat Bank'}"
+7,node,667327777,36.2913038,59.6050468,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'خسروی', 'brand': 'بانک پاسارگاد', 'brand:en': 'Bank Pasargad', 'brand:wikidata': 'Q4855962', 'brand:wikipedia': 'en:Bank Pasargad', 'name': 'بانک پاسارگاد', 'name:en': 'Bank Pasargad', 'operator': 'Pasargad Bank'}"
+8,node,834485585,36.2910774,59.6037207,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'مرکزی', 'brand': 'بانک ملت', 'brand:en': 'Bank Mellat', 'brand:wikidata': 'Q4855944', 'brand:wikipedia': 'en:Bank Mellat', 'name': 'بانک ملت', 'name:en': 'Bank Mellat', 'operator': 'ءثممشف إشدن'}"
+9,node,991253211,36.292778,59.6089688,{'amenity': 'atm'}
+10,node,1088697628,36.2910857,59.6021015,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'مدرس', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran', 'operator': 'Saderat Bank'}"
+11,node,1750032588,36.2953575,59.6042603,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه شماره یک فرهنگیان مشهد', 'name:en': 'Farhangian clinic', 'opening_hours': '24/7', 'phone': '+98 511 2233733'}"
+12,node,1750032604,36.2947426,59.6038604,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'امام خمینی', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran'}"
+13,node,2493167499,36.2910545,59.6040024,"{'amenity': 'bank', 'name': 'پاسارگاد', 'operator': 'Pasargad Bank'}"
+14,node,3059450811,36.2911546,59.6062606,"{'amenity': 'bank', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:ar': 'مطبعة كارتات واعلانات', 'name:en': 'Bank Saderat Iran'}"
+15,node,3071566098,36.2934268,59.5972465,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'مرکزی کد ۱۱۱۲', 'brand': 'بانک مسکن', 'brand:en': 'Bank Maskan', 'brand:wikidata': 'Q4855942', 'brand:wikipedia': 'en:Bank Maskan', 'name': 'بانک مسکن', 'name:en': 'Bank Maskan', 'operator': 'Maskan Bank'}"
+16,node,3071566453,36.2917118,59.5991978,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد و مجتمع فرهنگی خاتم\u200cالانبیاء', 'religion': 'muslim'}"
+17,node,3077926985,36.2950714,59.6092184,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد مقبره', 'religion': 'muslim'}"
+18,node,3077927633,36.2941931,59.6096833,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه'}"
+19,node,3079737503,36.291073,59.6038939,"{'amenity': 'place_of_worship', 'name': 'مسجد', 'religion': 'muslim'}"
+20,node,3079738060,36.2914117,59.6040019,"{'amenity': 'bank', 'brand': 'بانک پاسارگاد', 'brand:en': 'Bank Pasargad', 'brand:wikidata': 'Q4855962', 'brand:wikipedia': 'en:Bank Pasargad', 'name': 'بانک پاسارگاد', 'name:en': 'Bank Pasargad'}"
+21,node,3079738061,36.2911972,59.6017318,"{'amenity': 'bank', 'brand': 'بانک تجارت', 'brand:wikidata': 'Q7695198', 'brand:wikipedia': 'en:Tejarat Bank', 'name': 'بانک تجارت'}"
+22,node,3424491832,36.2928194,59.6089507,"{'amenity': 'bank', 'name': 'مؤسسه اعتباری رضوی'}"
+23,node,3729341692,36.2919808,59.5989398,"{'amenity': 'restaurant', 'name': 'هزار دستان', 'name:en': 'Hezardastan traditional teahouse'}"
+24,node,3809558282,36.294251,59.6036583,{'amenity': 'drinking_water'}
+25,node,3809566838,36.2942711,59.6049449,{'amenity': 'drinking_water'}
+26,node,3854040116,36.2957991,59.5980927,"{'amenity': 'restaurant', 'name': 'رستوران سراب'}"
+27,node,3906902186,36.2944334,59.604794,"{'access': 'private', 'amenity': 'parking'}"
+28,node,3906978363,36.2951806,59.6047532,"{'amenity': 'bank', 'atm': 'yes', 'brand': 'بانک ملت', 'brand:en': 'Bank Mellat', 'brand:wikidata': 'Q4855944', 'brand:wikipedia': 'en:Bank Mellat', 'name': 'بانک ملت', 'name:en': 'Bank Mellat'}"
+29,node,3906979157,36.293966,59.6049276,"{'access': 'private', 'amenity': 'parking'}"
+30,node,3947194062,36.2978214,59.6053797,{'amenity': 'fountain'}
+31,node,4303022199,36.2934313,59.6000413,"{'addr:street': 'بولوار مدرس', 'amenity': 'bank', 'branch': 'مدرس', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+32,node,4357873803,36.2919826,59.6070269,"{'amenity': 'place_of_worship', 'name': 'مسجد امیرالمومنین', 'religion': 'muslim'}"
+33,node,4620193889,36.2919881,59.5989675,{'amenity': 'recycling'}
+34,node,4712758194,36.2959712,59.599926,{'amenity': 'parking'}
+35,node,4712964371,36.2959514,59.5998835,"{'access': 'yes', 'amenity': 'toilets', 'fee': 'no', 'level': '0'}"
+36,node,5000957822,36.2944345,59.599026,"{'addr:street': 'بولوار مدرس', 'amenity': 'bank', 'branch': 'مدرس مشهد', 'brand': 'بانک سامان', 'brand:en': 'Saman Bank', 'brand:wikidata': 'Q4117676', 'brand:wikipedia': 'en:Saman Bank', 'name': 'بانک سامان', 'name:en': 'Saman Bank'}"
+37,node,5002506223,36.2930918,59.6081216,"{'amenity': 'school', 'name:ar': 'مدرسة آية آلله العظمى السيد الخوئي (قدس سره)'}"
+38,node,5481980521,36.291761,59.607023,{'amenity': 'library'}
+39,node,5486795614,36.2956157,59.5989829,{'amenity': 'fountain'}
+40,node,6345496686,36.2926989,59.6084948,{'amenity': 'drinking_water'}
+41,node,6352601485,36.2916092,59.5995786,{'amenity': 'drinking_water'}
+42,node,6352601585,36.2924631,59.5985227,{'amenity': 'drinking_water'}
+43,node,6352601586,36.2919905,59.5989951,{'amenity': 'drinking_water'}
+44,node,6352601587,36.2911315,59.5998385,{'amenity': 'telephone'}
+45,node,6898039985,36.2931268,59.6056404,"{'addr:street': 'بازارچه سراب', 'amenity': 'clinic', 'name': 'مرکز درمانی ایثار', 'name:en': 'Isar Clinic'}"
+46,node,8827804765,36.291467,59.601591,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک ملی شعبه مدرس'}"
+47,node,10038849046,36.2913002,59.605123,"{'amenity': 'bank', 'name': 'موسسه اعتباری ملل'}"

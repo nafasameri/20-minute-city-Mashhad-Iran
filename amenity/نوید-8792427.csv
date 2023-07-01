@@ -1,0 +1,14 @@
+,type,id,lat,lon,tags
+0,node,584116803,36.3480738,59.5621279,"{'amenity': 'parking', 'parking': 'surface', 'surface': 'asphalt'}"
+1,node,667355731,36.3605538,59.5518006,"{'addr:city': 'مشهد', 'addr:street': 'بولوار توس', 'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۱۴', 'name:en': 'FireStation No. 14'}"
+2,node,779046580,36.3474368,59.5497958,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'religion': 'muslim'}"
+3,node,2563730918,36.3582324,59.5548067,"{'addr:city': 'مشهد', 'amenity': 'fuel', 'fuel:cng': 'yes', 'fuel:diesel': 'no', 'name': 'جایگاه گاز طبیعی'}"
+4,node,4423569492,36.3483634,59.5743714,"{'amenity': 'atm', 'opening_hours': '24/7'}"
+5,node,4861699121,36.3555382,59.5495629,{'amenity': 'atm'}
+6,node,5836445487,36.3649095,59.5793237,"{'amenity': 'casino', 'name': 'باغ تالار ترنج', 'name:en': 'Bagh Talar Toranj'}"
+7,node,6602303037,36.3521348,59.5774079,"{'addr:street': 'کشاورز 1', 'amenity': 'restaurant', 'name': 'آشپزخانه دلپذیر', 'phone': '+98 51 3690 9335'}"
+8,node,8490182804,36.34667,59.5519415,{'amenity': 'parking'}
+9,node,8490182805,36.3470286,59.550654,{'amenity': 'parking'}
+10,node,9296610648,36.353251,59.5826571,"{'addr:city': 'مشهد', 'addr:street': 'طرح چی', 'amenity': 'marketplace', 'building': 'commercial', 'description': 'آهن آلات علمی', 'name': 'فولادگستر علمی پاسارگاد', 'opening_hours': 'Sa-Th08:00-18:00', 'opening_hours:covid19': 'open', 'operator': 'وحید علمی', 'phone': '+989151153028'}"
+11,node,10276649954,36.3490594,59.5984399,"{'amenity': 'police', 'name': 'کلانتری ۳۰ سپاد'}"
+12,node,10301017036,36.3496744,59.5791631,"{'addr:city': 'مشهد', 'addr:street': 'کنار گذر چراغچی', 'amenity': 'fuel', 'fuel:بنزین_سوپر': 'yes', 'fuel:بنزین_معمولی': 'yes'}"

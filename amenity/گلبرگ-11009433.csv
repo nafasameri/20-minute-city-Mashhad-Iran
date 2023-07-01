@@ -1,0 +1,8 @@
+,type,id,lat,lon,tags
+0,node,3179634068,36.3250097,59.5946696,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'بولوار ابوطالب', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+1,node,4296416366,36.3301044,59.5950505,"{'addr:city': 'مشهد', 'addr:street': 'بولوار شفا', 'amenity': 'courthouse', 'name': 'مجتمع قضایی خانواده'}"
+2,node,4296416367,36.3301272,59.5942141,"{'amenity': 'doctors', 'name': 'ساختمان پزشکان'}"
+3,node,4868551622,36.3271077,59.5945876,{'amenity': 'fast_food'}
+4,node,5643927221,36.3268632,59.5955659,"{'amenity': 'doctors', 'name': 'دکتر کیافر', 'name:en': 'Dr Kiafar', 'phone': '+98 51 3724 7060'}"
+5,node,5679063722,36.3268223,59.5948674,"{'amenity': 'doctors', 'name': 'مهسا کیافر', 'name:en': 'Dr.Kiafar'}"
+6,node,7164783885,36.3237642,59.5935572,"{'amenity': 'bank', 'name': 'بانک اقتصاد نوین'}"

@@ -1,0 +1,3 @@
+,type,id,lat,lon,tags
+0,node,5322626575,36.2626325,59.6626304,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد بقیع', 'religion': 'muslim'}"
+1,node,5324237220,36.262928,59.6526058,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد موسی ابن جعفر', 'religion': 'muslim'}"

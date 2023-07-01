@@ -1,0 +1,15 @@
+highway,count,length
+construction,2,1220.181
+footway,18,1431.666
+pedestrian,1,255.123
+residential,398,67982.217
+secondary,24,12664.318
+secondary_link,9,1688.675
+service,17,1498.006
+steps,3,28.011
+tertiary,40,17345.722
+tertiary_link,3,120.453
+track,3,2018.66
+trunk,6,6971.427
+trunk_link,2,447.167
+unclassified,7,2722.305

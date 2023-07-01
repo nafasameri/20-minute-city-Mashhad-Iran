@@ -1,0 +1,39 @@
+,type,id,lat,lon,tags
+0,node,676994790,36.3679445,59.5089552,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر موسوی', 'name:en': 'Dr.Mousavi Drugstore'}"
+1,node,3046351812,36.3673197,59.5363288,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'طوس', 'brand': 'بانک کشاورزی', 'brand:en': 'Bank Keshavarzi Iran', 'brand:wikidata': 'Q6395007', 'brand:wikipedia': 'en:Bank Keshavarzi Iran', 'name': 'بانک کشاورزی', 'name:en': 'Bank Keshavarzi Iran'}"
+2,node,3046351813,36.3667431,59.5352419,"{'amenity': 'police', 'name': 'پاسگاه راهنمایی رانندگی امام هادی'}"
+3,node,3261948890,36.3710164,59.5023306,"{'amenity': 'school', 'name': 'دبستان آیات', 'name:en': 'Ayat School'}"
+4,node,3261949238,36.3709246,59.5017625,"{'amenity': 'school', 'name': 'مرکز توانبخشی معلولان ذهنی مهرآوران', 'name:en': 'Zehn Avaran Helply center'}"
+5,node,3737110700,36.3965001,59.5011317,"{'addr:city': 'مشهد', 'amenity': 'fuel', 'fuel:cng': 'yes', 'name': 'جایگاه سی ان جی', 'opening_hours': '24/7'}"
+6,node,3749571934,36.3940491,59.4994944,"{'amenity': 'toilets', 'name': 'توالت عمومی', 'unisex': 'yes'}"
+7,node,3913989857,36.3659279,59.5353183,{'amenity': 'bicycle_rental'}
+8,node,4147825389,36.3705752,59.5137928,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر وحیدی منش'}"
+9,node,4383006991,36.3719738,59.5136648,"{'addr:street': 'میدان حجاب', 'amenity': 'bank', 'name': 'بانک سپه', 'name:en': 'Sepah Bank', 'opening_hours': 'Sa-Th 07:30-13:00'}"
+10,node,4392730498,36.3755366,59.5188614,"{'amenity': 'atm', 'name': 'عابر بانک', 'opening_hours': '24/7'}"
+11,node,4392730499,36.3719529,59.5137018,"{'addr:street': 'میدان حجاب', 'amenity': 'bank', 'name': 'پست بانک', 'name:en': 'Post Bank', 'opening_hours': 'Sa-Th 07:30-13:00'}"
+12,node,4395003296,36.3720454,59.5136732,{'amenity': 'bank'}
+13,node,4395014391,36.3720486,59.5136351,{'amenity': 'bank'}
+14,node,4395074289,36.3720905,59.5135004,{'amenity': 'fast_food'}
+15,node,4395074290,36.3720583,59.51358,"{'amenity': 'bank', 'name': 'بانک سپه', 'name:en': 'Sepah Bank'}"
+16,node,4515160924,36.3732053,59.5035164,{'amenity': 'bicycle_rental'}
+17,node,4697671390,36.3684793,59.5033189,"{'addr:housenumber': '43', 'addr:street': 'فلاحی ۵۰/۱۴ (راستی۴۰)', 'amenity': 'car_rental', 'name': 'آژانس ایزین', 'name:en': 'Izin taxi', 'phone': '+98 51 3620 4060'}"
+18,node,4781456521,36.3681439,59.5088112,"{'amenity': 'atm', 'operator': 'Aiandeh Bank ATM'}"
+19,node,4872974221,36.3756136,59.5426223,"{'addr:street': 'طوس ۶۴', 'amenity': 'fast_food', 'cuisine': 'pizza;ice_cream;diner;chicken;cake', 'name': 'فست فود و ابمیوه درخشان', 'name:en': 'Fast food DERAKHSHAN', 'opening_hours': 'Mo-Su 09:00-12:00', 'phone': '+98 51 3658 7533'}"
+20,node,5311800705,36.3670382,59.5134973,"{'amenity': 'fast_food', 'name': 'فستفود'}"
+21,node,5329132778,36.371872,59.5138739,"{'amenity': 'police', 'name': 'ایستگاه پلیس'}"
+22,node,5349094754,36.3715731,59.5128955,"{'amenity': 'cafe', 'name': 'آبمیوه فروشی'}"
+23,node,5349109155,36.3713892,59.5126004,"{'amenity': 'fast_food', 'name': 'فست فود'}"
+24,node,5349153976,36.372963,59.5101749,"{'amenity': 'fast_food', 'name': 'فست فود'}"
+25,node,5349164780,36.3726965,59.5099855,"{'amenity': 'fast_food', 'name': 'فست فود'}"
+26,node,5352135529,36.3754456,59.5091676,"{'amenity': 'telephone', 'name': 'کیوسک تلفن'}"
+27,node,5502049962,36.3787079,59.5168909,"{'amenity': 'parking', 'parking': 'surface', 'surface': 'asphalt'}"
+28,node,6188295967,36.3989245,59.5114995,{'amenity': 'atm'}
+29,node,6484973449,36.3796823,59.5191751,"{'amenity': 'toilets', 'operator': 'سرویس بهداشتی'}"
+30,node,8112505628,36.3783706,59.5118927,"{'amenity': 'fire_station', 'name': 'ایستگاه ۳۵ آتش نشانی'}"
+31,node,8530764117,36.3666147,59.5370609,"{'amenity': 'atm', 'operator': 'پلیس راه مشهد قوچان'}"
+32,node,9776656381,36.3988872,59.4982264,"{'amenity': 'ice_cream', 'name': 'تولیدی بستنی محلی علیزاده', 'opening_hours': '12_12', 'outdoor_seating': 'no'}"
+33,node,9988236616,36.3659643,59.5393225,"{'amenity': 'shower', 'opening_hours': 'تک مارکت'}"
+34,node,10019543717,36.3776499,59.5044883,"{'addr:street': 'عصمتیه ۱', 'amenity': 'fuel', 'name:fa': 'تاسیسات گاز مایع امین غلامی'}"
+35,node,10137641488,36.3851647,59.5192019,"{'amenity': 'bus_station', 'name': 'پایانه میثاق'}"
+36,node,10261817613,36.368723,59.5351964,"{'amenity': 'bank', 'name': 'بانک صادرات'}"
+37,node,10262418222,36.3719306,59.5128017,"{'addr:city': 'مشهد', 'addr:street': 'میدان شهید قاسمی دانا', 'amenity': 'cafe', 'cuisine': 'international', 'internet_access': 'yes', 'internet_access:fee': 'yes', 'name': 'خدمات آداک  (کافی نت،چاپ دیجیتال،خدمات کامپیوتری)', 'opening_hours': 'Mo-Su 10:00-22:00', 'phone': '+98 91 5006 200', 'source': 'خدمات آداک (کافی نت،چاپ دیجیتال،خدمات کامپیوتری)', 'start_date': '20210101'}"

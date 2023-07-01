@@ -1,0 +1,5 @@
+,type,id,lat,lon,tags
+0,node,3844166060,36.3248766,59.6320397,"{'access': 'yes', 'amenity': 'toilets', 'drinking_water': 'yes', 'fee': 'no', 'operator': 'شهرداری مشهد', 'wheelchair': 'no'}"
+1,node,4105434796,36.3297238,59.6242877,"{'addr:street': 'میدان امام حسین', 'amenity': 'veterinary', 'email': 'beheshtifar.pharmacy@gmail.com', 'name': 'داروخانه دامپزشکی دکتر بهشتی فر - کلینیک دکتر شاکری', 'phone': '+98 51 3739 2626 ; +98 915 204 2272'}"
+2,node,5352172990,36.3295778,59.624192,"{'amenity': 'internet_cafe', 'name': 'کافی نت'}"
+3,node,5352173021,36.3299449,59.6248861,"{'amenity': 'police', 'name': 'کلانتری خواجه ربیع'}"

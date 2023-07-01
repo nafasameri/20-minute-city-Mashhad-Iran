@@ -1,0 +1,21 @@
+,type,id,lat,lon,tags
+0,node,3339389677,36.2841593,59.6192128,"{'amenity': 'charging_station', 'name': 'پارکینگ'}"
+1,node,3874510909,36.2844529,59.6208549,"{'amenity': 'bank', 'atm': 'yes', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran'}"
+2,node,3874510910,36.2837924,59.6207385,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک سپه', 'name:en': 'Sepah Bank'}"
+3,node,3874510916,36.2852155,59.6200403,"{'addr:street': 'شهید نواب صفوی', 'amenity': 'place_of_worship', 'name': 'حسینیه پیروان دین نبوی', 'religion': 'muslim'}"
+4,node,3874510917,36.285794,59.619366,"{'amenity': 'place_of_worship', 'name': 'مسجد قبله', 'religion': 'muslim'}"
+5,node,3903490952,36.2865629,59.618578,"{'amenity': 'parking_entrance', 'parking': 'underground'}"
+6,node,3903707359,36.2840393,59.6212052,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy'}"
+7,node,3903707362,36.2847541,59.6206891,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'حسینیه', 'religion': 'muslim'}"
+8,node,3903707363,36.2850607,59.6200282,{'amenity': 'fast_food'}
+9,node,3903707364,36.2852662,59.619327,"{'addr:street': 'شهید نواب صفوی', 'amenity': 'restaurant', 'name': 'رستوران شهرما'}"
+10,node,3903707365,36.2853639,59.6192483,"{'amenity': 'restaurant', 'name': 'کبابی حاج محمود'}"
+11,node,3903707367,36.2847512,59.6195879,"{'amenity': 'restaurant', 'name': 'رستوران سعادت'}"
+12,node,3903707413,36.284629,59.6200005,"{'amenity': 'fast_food', 'name': 'اغذیه کاکتوس'}"
+13,node,3945066711,36.2845265,59.6201366,"{'addr:street': 'شهید نواب صفوی', 'amenity': 'pharmacy', 'healthcare': 'pharmacy'}"
+14,node,4348224442,36.285029,59.6231401,"{'amenity': 'parking', 'name': 'پارکینگ مجتمع آرمان'}"
+15,node,5811407655,36.2841489,59.6192423,"{'amenity': 'motorcycle_parking', 'operator': 'پارکینگ'}"
+16,node,6357939887,36.2836496,59.6198548,"{'amenity': 'motorcycle_parking', 'operator': 'پارکینگ بازارضامن'}"
+17,node,6836638385,36.2896815,59.6226811,{'amenity': 'motorcycle_parking'}
+18,node,8998636922,36.2861997,59.6180542,"{'amenity': 'parking_entrance', 'parking': 'underground'}"
+19,node,9684043847,36.2857665,59.618648,"{'amenity': 'bus_station', 'name': 'ایستگاه زائربر', 'public_transport': 'station'}"

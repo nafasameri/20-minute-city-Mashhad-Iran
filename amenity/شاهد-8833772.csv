@@ -1,0 +1,28 @@
+,type,id,lat,lon,tags
+0,node,985613713,36.3458905,59.5091915,"{'amenity': 'fuel', 'fuel:cng': 'yes'}"
+1,node,2756422535,36.3590104,59.5120073,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک سپه'}"
+2,node,2756437123,36.3576647,59.5096041,"{'amenity': 'school', 'name': 'دبستان شهدای راه آهن'}"
+3,node,2758279363,36.3588741,59.5124896,"{'amenity': 'atm', 'operator': 'تجارت'}"
+4,node,4147825289,36.3575203,59.5029087,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر میرخزیمه'}"
+5,node,4385155292,36.358884,59.5139455,"{'addr:city': 'مشهد', 'addr:street': 'میدان مادر', 'amenity': 'post_office', 'name': 'مرکز پست شماره ۵', 'name:en': 'Post Office', 'opening_hours': 'Sa-Th 07:30-13:00'}"
+6,node,4500589831,36.3557697,59.5016457,"{'addr:housenumber': '1', 'addr:street': 'شاهد ۳۲', 'amenity': 'dentist', 'email': 'reza.sheykhi25@gmail.com', 'name': 'تعطیل', 'name:en': 'closed', 'opening_hours': 'Mo-Su 22:00-09:00', 'phone': '+98 12 3947 88958'}"
+7,node,4536091493,36.3518665,59.5034571,"{'addr:street': 'بولوار شریعتی', 'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه شبانه روزی عطا', 'name:en': 'Ata clinic', 'opening_hours': '24/7', 'phone': '+98 51 36630407'}"
+8,node,4536143591,36.3518686,59.5033646,"{'addr:street': 'بولوار شریعتی', 'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر آیت اللهی', 'name:en': 'Dr. Ayatollahi pharmacy', 'opening_hours': 'Sa-Th 08:00-13:00, 16:00-22:30'}"
+9,node,4536451690,36.3522124,59.5030135,{'amenity': 'telephone'}
+10,node,4536476989,36.3521759,59.5023753,{'amenity': 'drinking_water'}
+11,node,4616054589,36.3590408,59.5108652,"{'amenity': 'restaurant', 'name': 'رستوران عبدالهی'}"
+12,node,5157339671,36.3529717,59.5018597,"{'amenity': 'fast_food', 'building': 'yes', 'cuisine': 'pizza;burger', 'name': 'فست فود دهکده'}"
+13,node,5170830652,36.3551659,59.5015685,{'amenity': 'ice_cream'}
+14,node,5302973272,36.3562349,59.5095209,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد علی ابن ابی طالب', 'name:en': 'Imam Ali Mosque', 'religion': 'muslim'}"
+15,node,5302973273,36.3563568,59.5116359,"{'amenity': 'community_centre', 'name': 'فرهنگسرای خانواده'}"
+16,node,5302973307,36.358738,59.5055432,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد حضرت ابوالفضل', 'religion': 'muslim'}"
+17,node,5302973315,36.3589429,59.50421,"{'amenity': 'cafe', 'name': 'آبمیوه هندونه'}"
+18,node,5302973431,36.3561851,59.5097942,"{'amenity': 'restaurant', 'name': 'رستوران و کترینگ خاتم'}"
+19,node,5311825063,36.3533789,59.5097821,"{'amenity': 'place_of_worship', 'name': 'نمازخانه دبیرستان صفورا', 'religion': 'muslim'}"
+20,node,5311828412,36.3532434,59.5086887,"{'amenity': 'taxi', 'name': 'آژانس همزه'}"
+21,node,6161996286,36.3528745,59.5018656,"{'addr:housenumber': '175 برج ایلماه', 'addr:street': '31', 'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'مطب دکتر بهزاد مهرابی', 'name:en': 'Dr. Behzad Mehrabi', 'name:fa': 'مطب دندانپزشکی دکتر بهزاد مهرابی'}"
+22,node,6186304585,36.3526349,59.5019013,"{'addr:housenumber': '175برج ایلما', 'addr:street': '33', 'amenity': 'dentist', 'healthcare': 'dentist', 'name': 'مطب دندانپزشکی دکتر بهزاد مهرابی', 'name:en': 'Dr. Behzad Mehrabi', 'opening_hours': 'Sa-We 10:00-20:30'}"
+23,node,6346931685,36.3572684,59.5019181,"{'amenity': 'restaurant', 'name': 'کباب سنگی'}"
+24,node,6590459085,36.3511127,59.5138275,"{'addr:street': 'ادیب ۱۹', 'amenity': 'car_wash', 'name': 'کارواش', 'name:en': 'carwash'}"
+25,node,9377171259,36.35906,59.511754,{'amenity': 'atm'}
+26,node,10657157797,36.3560657,59.5094097,"{'amenity': 'arts_centre', 'name': 'هئیت فرهنگی مذهبی جامعه الشهدا'}"

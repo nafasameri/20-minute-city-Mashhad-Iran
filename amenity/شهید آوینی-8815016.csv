@@ -1,0 +1,9 @@
+,type,id,lat,lon,tags
+0,node,667345817,36.2969601,59.6654833,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۱۸', 'name:en': 'FireStation No. 18'}"
+1,node,723151440,36.3016774,59.6645953,{'amenity': 'car_wash'}
+2,node,5118354921,36.2942855,59.6753207,"{'addr:street': 'شفیعی۳۱', 'amenity': 'bank', 'name': 'بانک صادرات', 'name:en': 'Saderat Bank'}"
+3,node,5177303224,36.3004068,59.673742,"{'amenity': 'hospital', 'name': 'بیمارستان امام سجاد', 'name:en': 'Imam sajjad Hospital'}"
+4,node,5231187622,36.2953815,59.674993,"{'amenity': 'fast_food', 'name': 'غذایه قابلی خمسه', 'name:en': 'Ghazaye ghabli khamse'}"
+5,node,6260407385,36.2993087,59.6676202,{'amenity': 'atm'}
+6,node,8150579757,36.3012065,59.6665243,"{'amenity': 'school', 'name': 'دبیرستان ترابی'}"
+7,node,10906090827,36.2980312,59.6747,"{'addr:street': 'شهید آوینی ۳۳، گلبوی ۱۸', 'amenity': 'fast_food', 'name': 'فست فود بیروت', 'opening_hours': 'Sa-Fr 11:00-01:00', 'phone': '09383471672'}"

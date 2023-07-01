@@ -1,0 +1,11 @@
+,type,id,lat,lon,tags
+0,node,1750032579,36.2452189,59.6049758,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجدالزهرا', 'name:en': 'Al-Zahra Mosque', 'religion': 'muslim'}"
+1,node,1750032593,36.2420679,59.6048938,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه امام هادی', 'name:en': 'Imam Hadi clinic', 'opening_hours': '24/7', 'phone': '+98 511 3850489'}"
+2,node,1750032601,36.2472694,59.6014481,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'المهدی', 'brand': 'بانک ملت', 'brand:en': 'Bank Mellat', 'brand:wikidata': 'Q4855944', 'brand:wikipedia': 'en:Bank Mellat', 'name': 'بانک ملت', 'name:en': 'Bank Mellat'}"
+3,node,1750032611,36.2461315,59.6034371,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'سیدی', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran'}"
+4,node,1750032615,36.2480314,59.6009216,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'المهدی', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+5,node,5570258227,36.2517472,59.5944804,"{'amenity': 'cinema', 'name': 'سینما اطلس مشهد', 'name:en': 'Atlas Cineplex'}"
+6,node,5850982381,36.2524108,59.5950901,"{'amenity': 'food_court', 'name': 'فود کورت اطلس', 'name:en': 'Atlas Food Court'}"
+7,node,5850982382,36.2523211,59.5955649,"{'amenity': 'taxi', 'name': 'ایستگاه ۱ تاکسی ۱۳۳ ( بازار بزرگ اطلس )'}"
+8,node,6357958885,36.2555688,59.6003141,"{'addr:street': 'میدان حافظ', 'amenity': 'car_wash', 'name': 'کارواش', 'name:en': 'Karwash', 'name:fa': 'کارواش نانوبخارسعید', 'opening_hours': 'Mo-Su 09:00-20:00'}"
+9,node,6417917186,36.2485719,59.600505,"{'amenity': 'atm', 'operator': 'خانه'}"

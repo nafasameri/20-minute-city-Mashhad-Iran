@@ -1,0 +1,11 @@
+,type,id,lat,lon,tags
+0,node,1750032592,36.3639547,59.5283433,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه حجت', 'name:en': 'Hojat clinic', 'opening_hours': '24/7', 'phone': '+98 511 6571149'}"
+1,node,3046351812,36.3673197,59.5363288,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'طوس', 'brand': 'بانک کشاورزی', 'brand:en': 'Bank Keshavarzi Iran', 'brand:wikidata': 'Q6395007', 'brand:wikipedia': 'en:Bank Keshavarzi Iran', 'name': 'بانک کشاورزی', 'name:en': 'Bank Keshavarzi Iran'}"
+2,node,3046351813,36.3667431,59.5352419,"{'amenity': 'police', 'name': 'پاسگاه راهنمایی رانندگی امام هادی'}"
+3,node,3913989857,36.3659279,59.5353183,{'amenity': 'bicycle_rental'}
+4,node,4392730498,36.3755366,59.5188614,"{'amenity': 'atm', 'name': 'عابر بانک', 'opening_hours': '24/7'}"
+5,node,4611395171,36.3651364,59.5190539,"{'addr:city': 'مشهد', 'addr:street': 'نبش حجاب ۳۸', 'amenity': 'bank', 'atm': 'yes', 'drive_through': 'no', 'name': 'خودپرداز بانک سپه'}"
+6,node,5502049962,36.3787079,59.5168909,"{'amenity': 'parking', 'parking': 'surface', 'surface': 'asphalt'}"
+7,node,6112950596,36.3641765,59.5216969,{'amenity': 'car_wash'}
+8,node,6484973449,36.3796823,59.5191751,"{'amenity': 'toilets', 'operator': 'سرویس بهداشتی'}"
+9,node,10261817613,36.368723,59.5351964,"{'amenity': 'bank', 'name': 'بانک صادرات'}"

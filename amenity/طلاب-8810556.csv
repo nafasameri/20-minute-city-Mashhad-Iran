@@ -1,0 +1,31 @@
+,type,id,lat,lon,tags
+0,node,776533575,36.300416,59.6450895,{'amenity': 'parking'}
+1,node,3420876593,36.2987675,59.6402121,"{'amenity': 'bank', 'name': 'موسسه عسگریه'}"
+2,node,3420876693,36.2983768,59.6402684,"{'amenity': 'place_of_worship', 'name': 'مسجد جامع رضوی', 'religion': 'muslim'}"
+3,node,3422065093,36.3006447,59.6436183,"{'amenity': 'bank', 'name': 'بانک رفاه کارگران'}"
+4,node,4282128191,36.2999156,59.6439481,{'amenity': 'atm'}
+5,node,5081333208,36.3009027,59.6390912,"{'amenity': 'pharmacy', 'name': 'داروخانه شبانه\u200cروزی'}"
+6,node,5081351870,36.3010209,59.6389543,"{'amenity': 'place_of_worship', 'name': 'مسجد فقیه آیت الله سبزواری', 'religion': 'muslim'}"
+7,node,5323255051,36.2996613,59.6482401,{'amenity': 'fast_food'}
+8,node,5323255053,36.2995336,59.6479832,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'religion': 'muslim'}"
+9,node,5323255060,36.2977176,59.641557,"{'amenity': 'bank', 'name': 'تجارت', 'name:en': 'Tejarat Bank'}"
+10,node,5323255061,36.2976981,59.6415917,"{'amenity': 'bank', 'name': 'بانک مهر اقتصاد'}"
+11,node,5323255062,36.2975129,59.6417421,"{'amenity': 'bank', 'name': 'سپه', 'name:en': 'Sepah Bank'}"
+12,node,5323255075,36.2988435,59.6403027,"{'amenity': 'fast_food', 'name': 'پیتزا بزرگی'}"
+13,node,5323255078,36.2977397,59.6385118,"{'amenity': 'restaurant', 'name': 'رستوران درویشی'}"
+14,node,5323255085,36.3003394,59.6467925,"{'amenity': 'bank', 'name': 'بانک سپه'}"
+15,node,5323255086,36.3002961,59.646712,"{'amenity': 'clinic', 'name': 'درمانگاه تخصصی اطفال نشاط کودک', 'name:en': 'Neshat-e koodak clinic'}"
+16,node,5323255087,36.300227,59.6465886,"{'amenity': 'pharmacy', 'name': 'داروخانه'}"
+17,node,5323269092,36.2992089,59.6408241,"{'amenity': 'restaurant', 'name': 'رستوران رضوی'}"
+18,node,5323293953,36.3004045,59.63893,"{'amenity': 'bank', 'name': 'بانک رسالت', 'shop': 'supermarket'}"
+19,node,5323313098,36.2983329,59.6401468,"{'amenity': 'restaurant', 'name': 'رستوران رضوی'}"
+20,node,6883981685,36.2994487,59.6457774,"{'amenity': 'hospital', 'name': 'بیمارستان امام حسین(ع)', 'name:en': 'emam hoseyn hospital'}"
+21,node,6883981785,36.2993786,59.6457036,"{'amenity': 'hospital', 'name': 'بیمارستان امام حسین (ع)'}"
+22,node,6883981885,36.2993826,59.6457135,"{'amenity': 'hospital', 'name': 'بیمارستان امام حسین (ع)'}"
+23,node,6887586685,36.305544,59.6423889,"{'addr:street': '۱ شیخ صدوق', 'amenity': 'school', 'name': 'حوزه علمیه', 'name:en': 'seminary'}"
+24,node,8880370575,36.2995486,59.6401289,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک ایران زمین شعبه مفتح', 'name:en': 'Iran Zamin bank - Mofateh branch'}"
+25,node,8880410037,36.300275,59.639581,"{'amenity': 'bank', 'atm': 'yes', 'bic': '8527', 'name': 'بانک ملی شعبه مفتح', 'name:en': 'Melli Bank - Mofateh branch'}"
+26,node,8880411297,36.3002465,59.6392403,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک صادرات شعبه سیمتری طلاب', 'name:en': 'Sadearat Bank - Simetri Tolab branch', 'operator': 'Sadearat Bank'}"
+27,node,8880415684,36.2992663,59.6404374,"{'amenity': 'bank', 'atm': 'yes', 'bic': '1080', 'name': 'بانک رفاه کارگران شعبه شهید مفتح', 'name:en': 'Refah Kargaran Bank - Mofateh branch', 'operator': 'Refah Kargaran Bank'}"
+28,node,9189642717,36.300157,59.6443993,{'amenity': 'doctors'}
+29,node,9296559686,36.3033486,59.640545,"{'addr:city': 'شهر مشهد', 'addr:housenumber': '51', 'addr:street': 'خیابان طبرسی جنوبی', 'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر جلالیان حسینی'}"

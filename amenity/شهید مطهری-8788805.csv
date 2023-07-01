@@ -1,0 +1,12 @@
+,type,id,lat,lon,tags
+0,node,4461872090,36.3173641,59.6081119,"{'addr:housenumber': '05137331732', 'addr:street': 'عبدالمطلب', 'amenity': 'clinic', 'description': 'کلینیک کامیابی - درمان اعتیاد', 'name': 'کلینیک درمان اعتیاد کامیابی (دکتر اکرمی نژاد)', 'name:en': 'کلینیک درمان اعتیاد کامیابی', 'opening_hours': 'Mo-Th, Sa, Su 15:30-20:30', 'phone': '+98 51 3733 1732'}"
+1,node,5738671131,36.3112725,59.5989669,{'amenity': 'waste_disposal'}
+2,node,6073655988,36.311052,59.599315,"{'amenity': 'clinic', 'name:en': 'khale'}"
+3,node,6073700085,36.3110517,59.5993296,"{'amenity': 'atm', 'operator': 'sader'}"
+4,node,6677691885,36.3110307,59.6012107,"{'addr:street': 'بین مطهری شمالی ۱۱ و ۱۳', 'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد امام علی ع', 'religion': 'muslim'}"
+5,node,8121067797,36.3111058,59.6013536,"{'addr:city': 'مشهد', 'addr:housenumber': '287', 'addr:postcode': '9193715687', 'addr:street': 'بین مطهری شمالی ۱۱ و ۱۳', 'amenity': 'doctors', 'description': 'حجامت تخصصی بانوانمشاوره و درمان بیماری های زنان با طب سنتیآزمایش پاپ اسمیرمعاینه پرده بکارت و صدور گواهی سلامتگذاشتن و برداشتن آی یو دی iudتعیین جنسیت جنیندرمان ناباروریبا بهترین قیمت ها و بالاترین کیفیت', 'email': 'safadelavar@gmail.com', 'fax': '+98 51 3724 9327', 'healthcare': 'doctor', 'healthcare:speciality': 'traditional_chinese_medicine;general;clinic', 'image': 'https://doctor-yab.ir/img/dr_slide/mahdavikhah_3.jpg', 'name': 'مطب مامایی صفا دلاور', 'operator': 'صفا دلاور', 'operator:type': 'public', 'phone': '+98 51 3724 9327', 'website': 'https://www.aparat.com/search/%D8%B5%D9%81%D8%A7%20%D8%AF%D9%84%D8%A7%D9%88%D8%B1'}"
+6,node,8646374917,36.3193871,59.6056174,"{'addr:city': 'مشهد', 'addr:housenumber': '09153234923', 'addr:street': 'عبدالمطلب ۵', 'amenity': 'studio', 'name': 'آتلیه بادکنک سفید', 'name:en': 'white studio', 'studio': 'video', 'website': 'https://www.instagram.com/whitestudiooo/'}"
+7,node,8851020403,36.3161208,59.6077261,"{'amenity': 'bank', 'name': 'بانک ملی شعبه مطهری شمالی', 'name:en': 'Melli Bank - North Motahari branch'}"
+8,node,8851028445,36.3108883,59.6005862,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک صادرات شعبه مطهری شمالی', 'name:en': 'Sadearat Bank - is a North Motahari branch'}"
+9,node,9085885117,36.3201088,59.604239,"{'amenity': 'nursing_home', 'name': 'پرستاری سفید  بالان', 'name:en': 'Sefid Balaan'}"
+10,node,10682574359,36.3132526,59.596298,"{'amenity': 'school', 'name': 'دبستان شهید ناصر صفری'}"

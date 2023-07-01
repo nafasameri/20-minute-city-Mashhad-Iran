@@ -1,0 +1,4 @@
+,type,id,lat,lon,tags
+0,node,5118329522,36.2936873,59.6763317,"{'addr:street': 'خیابان نامجو', 'amenity': 'clinic', 'name': 'درمانگاه شبانه روزی حضرت زینب', 'name:en': 'Hazrat Zeinab Clinic', 'opening_hours': '24/7'}"
+1,node,5118354921,36.2942855,59.6753207,"{'addr:street': 'شفیعی۳۱', 'amenity': 'bank', 'name': 'بانک صادرات', 'name:en': 'Saderat Bank'}"
+2,node,5494330721,36.289928,59.6720144,"{'addr:street': 'بولوار کرامت', 'amenity': 'car_wash', 'name': 'کارواش کلاسیک', 'name:en': 'Classic Car Wash'}"

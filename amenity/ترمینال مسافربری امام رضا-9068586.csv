@@ -1,0 +1,6 @@
+,type,id,lat,lon,tags
+0,node,667345807,36.2614403,59.5877427,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۱۱', 'name:en': 'FireStation No. 11'}"
+1,node,2990880317,36.2627722,59.5936928,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد جواد الائمه', 'religion': 'muslim'}"
+2,node,3073211536,36.2636316,59.5910466,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد ولیعصر', 'religion': 'muslim'}"
+3,node,3965631868,36.2605657,59.5922484,{'amenity': 'fountain'}
+4,node,6964197485,36.2619714,59.5931355,"{'amenity': 'restaurant', 'cuisine': 'local'}"

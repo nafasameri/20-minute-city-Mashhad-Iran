@@ -1,0 +1,14 @@
+highway,count,length
+busway,1,478.518
+cycleway,1,705.374
+footway,54,6885.868
+pedestrian,2,939.129
+primary,30,6012.3
+primary_link,9,1100.924
+residential,115,11232.18
+secondary,23,7002.524
+secondary_link,2,80.967
+service,63,3833.362
+steps,6,121.959
+tertiary,9,2785.246
+unclassified,2,138.703

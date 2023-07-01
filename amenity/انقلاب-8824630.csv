@@ -1,0 +1,7 @@
+,type,id,lat,lon,tags
+0,node,652482831,36.2327411,59.6118764,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه صبا(امامیه)', 'name:en': 'Saba Clinic', 'opening_hours': '24/7', 'phone': '+98 511 3859646'}"
+1,node,652482835,36.2379566,59.6087908,"{'amenity': 'clinic', 'name': 'درمانگاه آرین فردوس', 'name:en': 'Arian Ferdows Clinic', 'opening_hours': '24/7', 'phone': '+98 511 3870376'}"
+2,node,663800804,36.2326354,59.61189,"{'amenity': 'telephone', 'payment:coins': 'yes', 'payment:telephone_cards': 'yes'}"
+3,node,667339024,36.2374185,59.6239748,"{'addr:city': 'مشهد', 'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۹', 'name:en': 'FireStation No. 9'}"
+4,node,6166453009,36.2307774,59.6109816,"{'addr:street': 'بولوار ثامن', 'amenity': 'restaurant', 'name': 'رستوران رضایی', 'name:en': 'Rezaee Restaurant'}"
+5,node,10148047962,36.2203493,59.6256316,{'amenity': 'police'}

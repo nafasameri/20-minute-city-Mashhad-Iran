@@ -1,0 +1,23 @@
+,type,id,lat,lon,tags
+0,node,667330140,36.306391,59.6025039,"{'amenity': 'fire_station', 'name': 'ایستگاه آتش نشانی شماره ۱', 'name:en': 'FireStation No. 1'}"
+1,node,2559089242,36.3121725,59.6135672,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'سمرقند', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran'}"
+2,node,2559090263,36.3141747,59.6120633,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد غدیر باباعلی', 'religion': 'muslim'}"
+3,node,3179634067,36.3050137,59.6117699,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'حسینیه حضرت رضا', 'religion': 'muslim'}"
+4,node,3914908607,36.3042558,59.6102106,"{'alt_name': 'مسجد حاجی سرکه', 'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد امام حسین', 'religion': 'muslim'}"
+5,node,3956330430,36.3034719,59.599247,"{'amenity': 'bank', 'brand': 'بانک تجارت', 'brand:wikidata': 'Q7695198', 'brand:wikipedia': 'en:Tejarat Bank', 'name': 'بانک تجارت'}"
+6,node,4210890089,36.3111201,59.6142611,"{'addr:street': 'چهارراه راه آهن عبادی ۵۵', 'amenity': 'pharmacy', 'name': 'داروخانه دامپزشکی دکتر اخلاقی', 'name:en': 'Pharmacy'}"
+7,node,4772368921,36.3140777,59.6114738,{'amenity': 'atm'}
+8,node,5323444324,36.3102323,59.6138068,"{'amenity': 'veterinary', 'name': 'کلینیک حیوانات خانگی'}"
+9,node,5323444325,36.309988,59.6136486,"{'amenity': 'restaurant', 'cuisine': 'kebab', 'name': 'کباب سرا'}"
+10,node,5323444326,36.3099351,59.6136155,"{'amenity': 'ice_cream', 'name': 'بستنی چاوشی'}"
+11,node,5323444329,36.309274,59.6133429,"{'amenity': 'school', 'name': 'دبیرستان دخترانه نشاط'}"
+12,node,5323444381,36.3102771,59.6131542,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد حضرت زهرا', 'religion': 'muslim'}"
+13,node,5738671131,36.3112725,59.5989669,{'amenity': 'waste_disposal'}
+14,node,6073655988,36.311052,59.599315,"{'amenity': 'clinic', 'name:en': 'khale'}"
+15,node,6073700085,36.3110517,59.5993296,"{'amenity': 'atm', 'operator': 'sader'}"
+16,node,6120149985,36.3143613,59.6136232,"{'addr:street': 'کامیاب ۹', 'amenity': 'pharmacy', 'name': 'داروخانه دکتر غیوری فر'}"
+17,node,6677691885,36.3110307,59.6012107,"{'addr:street': 'بین مطهری شمالی ۱۱ و ۱۳', 'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد امام علی ع', 'religion': 'muslim'}"
+18,node,8121067797,36.3111058,59.6013536,"{'addr:city': 'مشهد', 'addr:housenumber': '287', 'addr:postcode': '9193715687', 'addr:street': 'بین مطهری شمالی ۱۱ و ۱۳', 'amenity': 'doctors', 'description': 'حجامت تخصصی بانوانمشاوره و درمان بیماری های زنان با طب سنتیآزمایش پاپ اسمیرمعاینه پرده بکارت و صدور گواهی سلامتگذاشتن و برداشتن آی یو دی iudتعیین جنسیت جنیندرمان ناباروریبا بهترین قیمت ها و بالاترین کیفیت', 'email': 'safadelavar@gmail.com', 'fax': '+98 51 3724 9327', 'healthcare': 'doctor', 'healthcare:speciality': 'traditional_chinese_medicine;general;clinic', 'image': 'https://doctor-yab.ir/img/dr_slide/mahdavikhah_3.jpg', 'name': 'مطب مامایی صفا دلاور', 'operator': 'صفا دلاور', 'operator:type': 'public', 'phone': '+98 51 3724 9327', 'website': 'https://www.aparat.com/search/%D8%B5%D9%81%D8%A7%20%D8%AF%D9%84%D8%A7%D9%88%D8%B1'}"
+19,node,8851020403,36.3161208,59.6077261,"{'amenity': 'bank', 'name': 'بانک ملی شعبه مطهری شمالی', 'name:en': 'Melli Bank - North Motahari branch'}"
+20,node,8851028445,36.3108883,59.6005862,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک صادرات شعبه مطهری شمالی', 'name:en': 'Sadearat Bank - is a North Motahari branch'}"
+21,node,9679547463,36.3074631,59.611339,"{'amenity': 'library', 'name': 'کتابخانه شهید آراسته'}"

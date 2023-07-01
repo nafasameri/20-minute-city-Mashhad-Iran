@@ -1,0 +1,8 @@
+,type,id,lat,lon,tags
+0,node,2202218923,36.3001154,59.6600749,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'religion': 'muslim'}"
+1,node,5072717721,36.3029949,59.6508901,"{'addr:street': 'وحید', 'amenity': 'bank', 'branch': 'دریا', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran'}"
+2,node,5072718021,36.3031847,59.6512222,"{'amenity': 'bank', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+3,node,5323226072,36.2992488,59.6516742,{'amenity': 'fast_food'}
+4,node,5323226073,36.2994044,59.6512183,"{'amenity': 'fast_food', 'name': 'سعید'}"
+5,node,5323255056,36.2991704,59.6503382,{'amenity': 'pharmacy'}
+6,node,6799464187,36.299438,59.6604775,"{'amenity': 'hospital', 'name': 'بيمارستان ٢٢بهمن', 'name:en': '22th bahman hospital'}"

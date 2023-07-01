@@ -1,0 +1,6 @@
+,type,id,lat,lon,tags
+0,node,652482831,36.2327411,59.6118764,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه صبا(امامیه)', 'name:en': 'Saba Clinic', 'opening_hours': '24/7', 'phone': '+98 511 3859646'}"
+1,node,663800804,36.2326354,59.61189,"{'amenity': 'telephone', 'payment:coins': 'yes', 'payment:telephone_cards': 'yes'}"
+2,node,6166453009,36.2307774,59.6109816,"{'addr:street': 'بولوار ثامن', 'amenity': 'restaurant', 'name': 'رستوران رضایی', 'name:en': 'Rezaee Restaurant'}"
+3,node,8993889557,36.2315882,59.5958117,"{'amenity': 'fuel', 'name': 'جایگاه CNG'}"
+4,node,10282969739,36.2318687,59.596376,"{'amenity': 'fuel', 'name': 'پمپ بنزین'}"

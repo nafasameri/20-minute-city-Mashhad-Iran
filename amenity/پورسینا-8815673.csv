@@ -1,0 +1,4 @@
+,type,id,lat,lon,tags
+0,node,4886591821,36.2705308,59.6751146,"{'amenity': 'atm', 'operator': 'pasargad'}"
+1,node,4886592121,36.2662816,59.66757,"{'addr:street': 'بولوار حر', 'amenity': 'police', 'name': 'کلانتری رجایی', 'name:en': 'Police officers rejaee'}"
+2,node,5324240578,36.2685392,59.6618955,"{'amenity': 'restaurant', 'name': 'رستوران سازگار'}"

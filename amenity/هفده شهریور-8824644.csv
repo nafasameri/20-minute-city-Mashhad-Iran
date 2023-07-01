@@ -1,0 +1,25 @@
+,type,id,lat,lon,tags
+0,node,673251997,36.2654531,59.6123437,"{'amenity': 'nursing_home', 'name': 'مرکز توانبخشی شهید مطهری'}"
+1,node,2462189540,36.2742872,59.6182311,"{'amenity': 'parking', 'name': 'پارکینگ طبقاتی آسمان', 'name:en': 'Aseman Parking', 'parking': 'multi-storey'}"
+2,node,3076106507,36.275503,59.6159919,"{'amenity': 'place_of_worship', 'name': 'مسجد الحمید', 'religion': 'muslim'}"
+3,node,3076107089,36.2757053,59.6147915,"{'addr:city': 'Mashhad', 'addr:housenumber': '19', 'addr:street': 'خیابان شهید محمد علی حنایی', 'amenity': 'hospital', 'description': '24-hour Ale Muhammad Medical polyclinic and Emergency services Our polyclinic offers vast range of medical services to our respected and valued patients.', 'emergency': 'yes', 'healthcare': 'hospital', 'healthcare:speciality': 'general;internal;dentist;radiology;urology;surgery;cardiology;blood_check', 'level': '-2,_-1,_0', 'name': 'درمانگاه شبانه روزی آل محمد ص', 'name:ar': 'مستشفي آل محمد ص', 'name:en': 'Ale Muhammad Clinic', 'name:fa': 'درمانگاه شبانه روزی آل محمد ص', 'opening_hours': '24/7', 'phone': '+985131999', 'website': 'http://almohamad.com', 'wheelchair': 'yes'}"
+4,node,3386109102,36.2730168,59.6224801,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'هییت جاننثاران حسینی روستای نرم', 'religion': 'muslim'}"
+5,node,4347364067,36.2659542,59.6207957,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه', 'name:en': 'Pharmacy'}"
+6,node,4347461098,36.2736425,59.6144727,"{'amenity': 'bank', 'atm': 'yes', 'brand': 'بانک صادرات', 'brand:en': 'Bank Saderat Iran', 'brand:wikidata': 'Q2882608', 'brand:wikipedia': 'en:Bank Saderat Iran', 'name': 'بانک صادرات', 'name:en': 'Bank Saderat Iran'}"
+7,node,4347461099,36.2736953,59.6143467,"{'amenity': 'atm', 'name': 'خودپرداز بانک صادرات', 'name:en': 'Saderat Bank ATM'}"
+8,node,4347461110,36.2729648,59.6206666,"{'amenity': 'restaurant', 'cuisine': 'regional', 'name': 'رستوران'}"
+9,node,4347461115,36.273543,59.6197411,"{'amenity': 'restaurant', 'cuisine': 'regional', 'name': 'رستوران'}"
+10,node,4349495564,36.2730434,59.6207001,"{'amenity': 'post_office', 'name': 'دفتر پیشخوان دولت دهقان', 'name:en': 'Dehghan Government Service Office'}"
+11,node,4349495574,36.2711153,59.6250741,"{'amenity': 'atm', 'name': 'خودپرداز بانک صادرات', 'name:en': 'Saderat Bank ATM'}"
+12,node,4360051050,36.2739704,59.619603,{'amenity': 'taxi'}
+13,node,4360051051,36.2714478,59.6193228,{'amenity': 'taxi'}
+14,node,4360051052,36.268062,59.6095242,{'amenity': 'taxi'}
+15,node,4418011642,36.2663771,59.6102791,"{'addr:street': 'بلوار فدائیان اسلام', 'amenity': 'bank', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+16,node,4757538922,36.262467,59.6129665,"{'addr:housenumber': '5133422165', 'addr:street': 'فداییان اسلام ۲۱،بین عرفانی ۱و۳', 'amenity': 'restaurant', 'name': 'کبابی امید', 'name:en': 'Omid Kebab', 'opening_hours': 'Mo-Su 11:00-12:00'}"
+17,node,5896074285,36.2645493,59.6199339,{'amenity': 'fountain'}
+18,node,6030362485,36.2649011,59.6159644,"{'addr:street': 'فدائیان اسلام ۱۸', 'amenity': 'restaurant', 'name': 'سفارشی', 'name:en': 'Sefareshi', 'opening_hours': '24/7', 'phone': '+98 51 3349 3060'}"
+19,node,6404787085,36.2733706,59.6192378,"{'amenity': 'restaurant', 'name': 'ابوالفضل ترکه', 'name:en': 'abolfazl torkeh restaurant'}"
+20,node,6638919285,36.2704069,59.6189135,"{'amenity': 'fast_food', 'name': 'فست فود عربی تاجی', 'name:en': 'Taji Arabic Food'}"
+21,node,6703284988,36.2708791,59.6115956,"{'amenity': 'post_office', 'name': 'كالاران توس', 'name:ar': 'نقليات للعراق كالاران توس'}"
+22,node,8772957731,36.2653963,59.620944,"{'amenity': 'clinic', 'name': 'مرکز بهداشت کارگران'}"
+23,node,9905584073,36.2717725,59.6118057,"{'amenity': 'school', 'name': 'دبستان پسرانه غیردولتی نام آوران فردوسی'}"

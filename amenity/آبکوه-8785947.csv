@@ -1,0 +1,17 @@
+,type,id,lat,lon,tags
+0,node,649201566,36.3062437,59.5724595,"{'amenity': 'university', 'name': 'دانشگاه آزاد علوم پایه', 'name:en': 'Azad University'}"
+1,node,841752280,36.3059599,59.5659102,"{'amenity': 'fast_food', 'cuisine': 'chicken', 'name': 'مرغ بریان افشین', 'name:en': 'Afshin Grilled Chicken'}"
+2,node,3203898576,36.3065467,59.5684206,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'فلسطین', 'brand': 'بانک رفاه', 'brand:en': 'Refah Bank', 'brand:wikidata': 'Q7307083', 'brand:wikipedia': 'en:Refah Bank', 'name': 'بانک رفاه', 'name:en': 'Refah Bank', 'operator': 'Refah'}"
+3,node,3203898614,36.3086591,59.5692319,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'دستغیب', 'brand': 'بانک رفاه', 'brand:en': 'Refah Bank', 'brand:wikidata': 'Q7307083', 'brand:wikipedia': 'en:Refah Bank', 'name': 'بانک رفاه', 'name:en': 'Refah Bank', 'opening_hours': 'Sa-Th 06:30-13:30', 'operator': 'Refah', 'wheelchair': 'yes'}"
+4,node,4417954261,36.3069955,59.5672129,"{'amenity': 'bank', 'brand': 'بانک سپه', 'name': 'بانک سپه'}"
+5,node,4634560098,36.3082409,59.5736025,"{'amenity': 'restaurant', 'name': 'رستوران ارغوان', 'name:en': 'Arghavan'}"
+6,node,5254203429,36.310521,59.5668358,"{'addr:street': 'خیابان دستغیب ۱۹', 'amenity': 'pharmacy', 'name': 'داروخانه دکتر قشمشم', 'name:en': 'Dr. Ghashamsham Pharmacy', 'opening_hours': '24/7'}"
+7,node,5254253621,36.3126863,59.5637459,"{'addr:street': 'بولوار شهید آیت الله دستغیب', 'amenity': 'bank', 'name': 'بانک ملت', 'name:en': 'Mellat'}"
+8,node,5352149091,36.3057559,59.5658719,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه آرش'}"
+9,node,5352209438,36.3076657,59.5640805,"{'amenity': 'fast_food', 'name': 'فست فود وسپا'}"
+10,node,6066370585,36.3089938,59.5735316,"{'amenity': 'cafe', 'name': 'سیب', 'name:en': 'Seeb coffee shop', 'source:name': 'map.ir'}"
+11,node,6854029466,36.3058017,59.5724445,"{'amenity': 'fast_food', 'name': 'کنتاکی فراید چیکن'}"
+12,node,7023358013,36.3079007,59.5739896,"{'addr:city': 'مشهد', 'addr:housenumber': '2', 'addr:street': 'شهید صادقی 1، عطار غربی 1', 'amenity': 'school', 'description': 'آموزشگاه سنجش پارسیان برگزارکننده دوره های تخصصی و کاربردی فنی و مهندسی، ایمنی و بهداشت و مدیریتی زیر نظر سازمان فنی و حرفه ای کشور', 'name': 'آموزشگاه سنجش پارسیان', 'name:en': 'SanjeshParsian Institute', 'opening_hours': 'شنبه تا پنجشنبه ساعت 8:00 الی 20:00', 'phone': '+985137271112', 'website': 'https://sanjeshparsian.ir'}"
+13,node,7426831440,36.3090161,59.5687602,{'amenity': 'bicycle_rental'}
+14,node,7426831441,36.3078652,59.5730062,{'amenity': 'bicycle_rental'}
+15,node,10182550732,36.3112218,59.571999,"{'amenity': 'cafe', 'name': 'کافه آزادی'}"

@@ -1,0 +1,8 @@
+,type,id,lat,lon,tags
+0,node,584116803,36.3480738,59.5621279,"{'amenity': 'parking', 'parking': 'surface', 'surface': 'asphalt'}"
+1,node,779046580,36.3474368,59.5497958,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'religion': 'muslim'}"
+2,node,1842625965,36.3428267,59.5548291,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد جوادالائمه', 'religion': 'muslim'}"
+3,node,8490182804,36.34667,59.5519415,{'amenity': 'parking'}
+4,node,8490182805,36.3470286,59.550654,{'amenity': 'parking'}
+5,node,9577062645,36.3395078,59.55279,"{'addr:city': 'شهر مشهد', 'addr:street': 'بولوار جانباز', 'amenity': 'food_court', 'internet_access': 'no', 'name': 'فودکورت 21', 'opening_hours': 'Everyday 09:00 - 24:00', 'opening_hours:covid19': 'same', 'outdoor_seating': 'yes', 'smoking': 'isolated'}"
+6,node,9577079063,36.339618,59.5528355,"{'addr:city': 'شهر مشهد', 'addr:street': 'بولوار جانباز', 'air_conditioning': 'yes', 'amenity': 'cafe', 'cuisine': 'coffee_shop;sandwich;italian;pizza;ice_cream', 'internet_access': 'no', 'name': 'کافی شاپ بام ایرانی', 'opening_hours': 'همه روزه - 09:00 الی 24:00', 'opening_hours:covid19': 'same', 'outdoor_seating': 'yes', 'phone': '+98 9918789664', 'smoking': 'outside', 'start_date': '2022-Jan-20', 'website': 'https://instagram.com/bame.irani?utm_medium=copy_link'}"

@@ -1,0 +1,6 @@
+,type,id,lat,lon,tags
+0,node,8040620732,36.3180724,59.681825,"{'amenity': 'place_of_worship', 'name': 'مسجد امام حسن مجتبی', 'religion': 'muslim'}"
+1,node,8040662779,36.3200882,59.6676328,"{'addr:city': 'شهر مشهد', 'addr:street': 'خیابان طبرسی شمالی ۱۷', 'amenity': 'pharmacy', 'dispensing': 'yes', 'drive_through': 'no', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر طبق فروش', 'opening_hours': '24/7', 'opening_hours:covid19': 'open', 'payment:cards': 'yes', 'payment:cash': 'yes', 'phone': '00985132120006', 'start_date': '1377'}"
+2,node,8773032701,36.3188597,59.6824068,"{'amenity': 'clinic', 'name': 'مرکز بهداشت برادران رحیمی'}"
+3,node,9420704620,36.3213417,59.69223,"{'amenity': 'internet_cafe', 'internet_access': 'yes', 'name': 'کافی نت آسنا', 'phone': '+989392111554', 'website': 'https://asenacn.ir'}"
+4,node,9509377714,36.3200375,59.6675741,"{'addr:city': 'شهر مشهد', 'addr:street': 'خیابان طبرسی شمالی ۱۷', 'air_conditioning': 'yes', 'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'general;دیالیز;آزمایشگاه;عمومی;دندانپزشکی', 'name': 'درمانگاه شبانه روزی طبرسی', 'opening_hours': '24/7', 'opening_hours:covid19': 'open', 'phone': '+98 51 3212 0006', 'start_date': '1377'}"

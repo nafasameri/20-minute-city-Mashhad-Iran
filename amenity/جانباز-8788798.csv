@@ -1,0 +1,16 @@
+,type,id,lat,lon,tags
+0,node,1842625965,36.3428267,59.5548291,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد جوادالائمه', 'religion': 'muslim'}"
+1,node,2458533347,36.3249053,59.5623696,"{'amenity': 'bank', 'brand': 'بانک سپه', 'brand:en': 'Sepah Bank', 'brand:wikipedia': 'en:Sepah Bank', 'name': 'بانک سپه', 'name:en': 'Sepah Bank'}"
+2,node,2458533606,36.3251159,59.5623936,"{'amenity': 'bank', 'name': 'عسکریه'}"
+3,node,2559089838,36.3251208,59.5573096,"{'amenity': 'pharmacy', 'dispensing': 'no', 'opening_hours': '24/7'}"
+4,node,4111120489,36.3261525,59.5640259,"{'addr:street': 'بولوار جانباز', 'amenity': 'fast_food', 'name': 'پیترا کندز', 'name:en': 'kondoz pizza', 'opening_hours': '24/7'}"
+5,node,4337975489,36.328622,59.559137,"{'addr:street': 'ثمانه', 'amenity': 'fast_food', 'cuisine': 'italian', 'name': 'پیتزا برگ', 'name:en': 'Barg'}"
+6,node,4417954358,36.3247743,59.5542869,"{'amenity': 'school', 'name': 'مجتمع آموزشی علامه طباطبایی'}"
+7,node,4423580294,36.3418794,59.5751432,"{'amenity': 'atm', 'opening_hours': '24/7', 'operator': 'بانک مسکن'}"
+8,node,4423606089,36.3431751,59.5739453,"{'amenity': 'atm', 'opening_hours': '24/7', 'operator': 'بانک ملت'}"
+9,node,5179821922,36.3287532,59.5632852,"{'addr:city': 'مشهد', 'amenity': 'fast_food', 'name': 'پیتزا پونک', 'name:en': 'pitza poonak'}"
+10,node,5199686138,36.3254066,59.5640919,{'amenity': 'parking'}
+11,node,7775015185,36.3285252,59.570544,"{'amenity': 'atm', 'operator': 'me'}"
+12,node,8372269820,36.3248868,59.5543155,"{'addr:housenumber': '414', 'addr:street': 'بولوار فردوسی', 'amenity': 'pharmacy', 'email': 'drkazemi.bahram@gmail.com', 'name': 'داروخانه دكتر بهرام كاظمي', 'name:en': 'Pharmacy', 'opening_hours': 'Sa 09:30-11:00, 12:00-14:00; Su-Th 16:30-22:00', 'phone': '37677700'}"
+13,node,9750844632,36.32521,59.5560292,"{'amenity': 'dentist', 'name': 'کلینیک دندانپزشکی درین'}"
+14,node,10808970379,36.3357234,59.5587404,"{'amenity': 'school', 'name': 'دبیرستان شهید حسن رکنی'}"

@@ -1,0 +1,5 @@
+,type,id,lat,lon,tags
+0,node,1806003643,36.269571,59.6584139,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'میدان بار رضوی', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran', 'operator': 'Melli Bank'}"
+1,node,5175366321,36.2759322,59.6593638,"{'amenity': 'atm', 'operator': 'حاجی جما'}"
+2,node,5325990033,36.2700001,59.6583935,"{'amenity': 'bank', 'brand': 'بانک کشاورزی', 'brand:en': 'Bank Keshavarzi Iran', 'brand:wikidata': 'Q6395007', 'brand:wikipedia': 'en:Bank Keshavarzi Iran', 'name': 'بانک کشاورزی', 'name:en': 'Bank Keshavarzi Iran'}"
+3,node,8121695657,36.2709557,59.6583025,"{'amenity': 'police', 'name': 'پلیس راهور'}"

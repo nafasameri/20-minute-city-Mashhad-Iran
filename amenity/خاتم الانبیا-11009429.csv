@@ -1,0 +1,14 @@
+,type,id,lat,lon,tags
+0,node,5017495156,36.3167238,59.5864297,{'amenity': 'taxi'}
+1,node,6066370685,36.3195541,59.5894034,"{'amenity': 'cafe', 'name': 'کافه دارک', 'name:en': 'Dark coffee', 'source:name': 'map.ir'}"
+2,node,6073777290,36.3184312,59.5876721,"{'amenity': 'cafe', 'cuisine': 'coffee_shop', 'name': 'کافی شاپ', 'name:en': 'Coffee shop', 'name:fr': 'Café McKambo'}"
+3,node,6364515374,36.3180517,59.5846239,"{'amenity': 'restaurant', 'name': 'تالار آرزو'}"
+4,node,6364515375,36.3179823,59.5847696,"{'amenity': 'bank', 'atm': 'yes', 'brand': 'بانک تجارت', 'brand:wikidata': 'Q7695198', 'brand:wikipedia': 'en:Tejarat Bank', 'drive_through': 'no', 'name': 'بانک تجارت'}"
+5,node,7164784085,36.3173734,59.5870402,"{'amenity': 'bank', 'name': 'بانک مسکن'}"
+6,node,8104181871,36.3197665,59.5857452,"{'amenity': 'school', 'name': 'دبستان دخترانه دولتی یاس نبی'}"
+7,node,8104181897,36.319557,59.5860937,"{'amenity': 'school', 'name': 'دبیرستان دخترانه فرهنگ'}"
+8,node,10943985014,36.3239276,59.5838501,"{'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'psychiatry', 'name': 'بخش 20'}"
+9,node,10943985015,36.3239588,59.5833435,"{'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'psychiatry', 'name': 'بخش 22'}"
+10,node,10943985016,36.3237589,59.5837002,"{'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'psychiatry', 'name': 'بخش 21'}"
+11,node,10943985051,36.3231865,59.5831617,"{'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'psychiatry', 'name': 'الکتروشوک مردان'}"
+12,node,10943985052,36.3230834,59.5833547,"{'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'psychiatry', 'name': 'کاردرمانی مردان'}"

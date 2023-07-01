@@ -1,0 +1,15 @@
+,type,id,lat,lon,tags
+0,node,2559089242,36.3121725,59.6135672,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'سمرقند', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran'}"
+1,node,2559089245,36.3198888,59.6192781,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'سمزقند', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+2,node,2559090263,36.3141747,59.6120633,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد غدیر باباعلی', 'religion': 'muslim'}"
+3,node,4234435089,36.3168443,59.6089261,{'amenity': 'atm'}
+4,node,4772368921,36.3140777,59.6114738,{'amenity': 'atm'}
+5,node,4811377621,36.3206451,59.6146177,"{'addr:street': 'مطهری ۵۱', 'amenity': 'fast_food', 'cuisine': 'sandwich;hotdog;burger'}"
+6,node,4813657108,36.3125467,59.6148339,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد حضرت امام علی النقی', 'religion': 'muslim'}"
+7,node,5218103422,36.3204375,59.6157016,"{'amenity': 'toilets', 'operator': 'پارک مطهری'}"
+8,node,5349696337,36.3195521,59.6196424,"{'amenity': 'cafe', 'name': 'Abmive Babakhan'}"
+9,node,5349701273,36.3178757,59.6187276,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد', 'name:ar': 'مسجد', 'name:en': 'Masjid', 'religion': 'muslim'}"
+10,node,5349701680,36.3177376,59.6180622,"{'amenity': 'bank', 'name': 'Bank Mehr'}"
+11,node,6120149985,36.3143613,59.6136232,"{'addr:street': 'کامیاب ۹', 'amenity': 'pharmacy', 'name': 'داروخانه دکتر غیوری فر'}"
+12,node,6714498189,36.3139629,59.6145887,"{'amenity': 'atm', 'operator': 'ااا'}"
+13,node,6719794685,36.3140381,59.614491,"{'amenity': 'bank', 'name': 'شوكت'}"

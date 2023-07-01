@@ -1,0 +1,8 @@
+,type,id,lat,lon,tags
+0,node,4809045226,36.2648467,59.6680476,"{'amenity': 'atm', 'operator': 'پارسا نان گندم'}"
+1,node,4886591821,36.2705308,59.6751146,"{'amenity': 'atm', 'operator': 'pasargad'}"
+2,node,6368109290,36.2643677,59.6715631,{'amenity': 'police'}
+3,node,8786489716,36.266071,59.6729413,"{'amenity': 'clinic', 'name': 'مرکز بهداشت ساختمان'}"
+4,node,9123866481,36.2656914,59.6676698,"{'amenity': 'clinic', 'healthcare': 'clinic', 'healthcare:speciality': 'general;paediatrics;dentist;dermatology', 'name': 'درمانگاه شبانه روزی باب الحوائج'}"
+5,node,9284581811,36.2734883,59.6856594,"{'addr:city': 'مشهد', 'amenity': 'fuel'}"
+6,node,9284581812,36.2734683,59.6857302,"{'access': 'yes', 'amenity': 'toilets', 'unisex': 'yes'}"

@@ -1,0 +1,19 @@
+,type,id,lat,lon,tags
+0,node,1750032583,36.3046433,59.5132901,"{'amenity': 'pharmacy', 'dispensing': 'no', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر نافعی', 'name:en': ""Dr. Nafe'ee drugstore"", 'opening_hours': '24/7', 'phone': '+98 511 8828261'}"
+1,node,1750032598,36.3036683,59.5152102,"{'amenity': 'bank', 'atm': 'no', 'branch': 'حر', 'brand': 'بانک مسکن', 'brand:en': 'Bank Maskan', 'brand:wikidata': 'Q4855942', 'brand:wikipedia': 'en:Bank Maskan', 'name': 'بانک مسکن', 'name:en': 'Bank Maskan', 'operator': 'Maskan Bank'}"
+2,node,1750032605,36.3046124,59.5133516,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'درمانگاه پیروزی', 'name:en': 'Piroozi clinic', 'opening_hours': '24/7', 'phone': '+98 511 8825772'}"
+3,node,4271044591,36.3007398,59.4964287,"{'amenity': 'cafe', 'name': 'کافی شاپ', 'name:en': 'coffee Shop'}"
+4,node,4687830297,36.3041883,59.513381,"{'amenity': 'school', 'name': 'دبیرستان نور حیات طیبه', 'name:en': 'Light of good deed life highschool', 'opening_hours': 'Mo-Su 07:20-01:20', 'phone': '+98 51 3882 3407'}"
+5,node,5018738821,36.2864175,59.5057499,"{'amenity': 'clinic', 'healthcare': 'clinic', 'name': 'کلینیک و هاسپیس دکتر خطیب', 'name:en': 'Dr.Khatib Hospice', 'phone': '+98 51 3822 9002'}"
+6,node,5054195421,36.2794899,59.5059639,"{'amenity': 'bank', 'name': 'غزال ۹', 'name:en': 'Ghazal 9'}"
+7,node,5894247593,36.2953819,59.5089031,"{'addr:street': 'پایداری ۲', 'amenity': 'place_of_worship', 'name': 'مسجد موسی ابن جعفر (ع)', 'religion': 'muslim'}"
+8,node,6817892920,36.3023636,59.5266717,"{'amenity': 'shelter', 'shelter_type': 'lean_to'}"
+9,node,6817892921,36.30233,59.5270237,"{'amenity': 'shelter', 'shelter_type': 'lean_to'}"
+10,node,6817892922,36.3024889,59.5266529,"{'amenity': 'shelter', 'shelter_type': 'lean_to'}"
+11,node,6867166209,36.3030173,59.5280772,"{'amenity': 'restaurant', 'delivery': 'no', 'name': 'تریا وزنی خوابگاه فجر', 'smoking': 'no', 'takeaway': 'yes', 'wheelchair': 'yes'}"
+12,node,7369785621,36.3045321,59.5038763,"{'amenity': 'waste_basket', 'waste': 'trash'}"
+13,node,7561432885,36.3005244,59.5120951,{'amenity': 'atm'}
+14,node,8073445352,36.2996515,59.5096962,{'amenity': 'atm'}
+15,node,8230629517,36.2880214,59.5107665,"{'addr:street': 'بولوار دلاوران', 'amenity': 'pharmacy', 'name': 'داروخانه دکتر حائری', 'name:en': ""Haeri's drugstore"", 'opening_hours': '24/7', 'phone': '+98 51 3823 0838'}"
+16,node,9330368115,36.2877619,59.5104198,"{'addr:city': 'مشهد', 'addr:street': 'بولوار دلاوران بین 45 و 47', 'amenity': 'cafe', 'cuisine': 'coffee_shop', 'name': 'کافه کولاک', 'name:en': 'KOOLAK COFFEE', 'opening_hours': 'Mo-Su 07:00-22:00', 'opening_hours:covid19': 'open', 'phone': '+985138216743'}"
+17,node,10919364755,36.3021306,59.511483,"{'amenity': 'cafe', 'name': 'کافی شاپ آرامش'}"

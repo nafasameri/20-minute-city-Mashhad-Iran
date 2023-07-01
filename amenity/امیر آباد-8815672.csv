@@ -1,0 +1,11 @@
+,type,id,lat,lon,tags
+0,node,1806003643,36.269571,59.6584139,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'میدان بار رضوی', 'brand': 'بانک ملی', 'brand:en': 'Bank Melli Iran', 'brand:wikidata': 'Q806640', 'brand:wikipedia': 'en:Bank Melli Iran', 'name': 'بانک ملی', 'name:en': 'Bank Melli Iran', 'operator': 'Melli Bank'}"
+1,node,4886592121,36.2662816,59.66757,"{'addr:street': 'بولوار حر', 'amenity': 'police', 'name': 'کلانتری رجایی', 'name:en': 'Police officers rejaee'}"
+2,node,5311797300,36.2648244,59.656545,"{'amenity': 'restaurant', 'name': 'رستوران'}"
+3,node,5311797307,36.2654016,59.6584564,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد امام حسن مجتبی', 'religion': 'muslim'}"
+4,node,5322626574,36.2624425,59.6628906,"{'amenity': 'pharmacy', 'healthcare': 'pharmacy', 'name': 'داروخانه دکتر تهرانی'}"
+5,node,5322626575,36.2626325,59.6626304,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد بقیع', 'religion': 'muslim'}"
+6,node,5324237220,36.262928,59.6526058,"{'amenity': 'place_of_worship', 'building': 'mosque', 'denomination': 'shia', 'name': 'مسجد موسی ابن جعفر', 'religion': 'muslim'}"
+7,node,5324240539,36.2657071,59.6555178,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'name': 'مسجد ابالفضل', 'name:en': 'Abolfazl Mosque', 'religion': 'muslim'}"
+8,node,5324240578,36.2685392,59.6618955,"{'amenity': 'restaurant', 'name': 'رستوران سازگار'}"
+9,node,5325990033,36.2700001,59.6583935,"{'amenity': 'bank', 'brand': 'بانک کشاورزی', 'brand:en': 'Bank Keshavarzi Iran', 'brand:wikidata': 'Q6395007', 'brand:wikipedia': 'en:Bank Keshavarzi Iran', 'name': 'بانک کشاورزی', 'name:en': 'Bank Keshavarzi Iran'}"

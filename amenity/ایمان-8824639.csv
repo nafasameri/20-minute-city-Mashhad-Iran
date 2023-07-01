@@ -1,0 +1,8 @@
+,type,id,lat,lon,tags
+0,node,1750032601,36.2472694,59.6014481,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'المهدی', 'brand': 'بانک ملت', 'brand:en': 'Bank Mellat', 'brand:wikidata': 'Q4855944', 'brand:wikipedia': 'en:Bank Mellat', 'name': 'بانک ملت', 'name:en': 'Bank Mellat'}"
+1,node,1750032615,36.2480314,59.6009216,"{'amenity': 'bank', 'atm': 'yes', 'branch': 'المهدی', 'brand': 'بانک سپه', 'brand:en': 'Bank Sepah', 'brand:wikidata': 'Q2882624', 'brand:wikipedia': 'en:Bank Sepah', 'name': 'بانک سپه', 'name:en': 'Bank Sepah'}"
+2,node,5570258227,36.2517472,59.5944804,"{'amenity': 'cinema', 'name': 'سینما اطلس مشهد', 'name:en': 'Atlas Cineplex'}"
+3,node,5850982381,36.2524108,59.5950901,"{'amenity': 'food_court', 'name': 'فود کورت اطلس', 'name:en': 'Atlas Food Court'}"
+4,node,5850982382,36.2523211,59.5955649,"{'amenity': 'taxi', 'name': 'ایستگاه ۱ تاکسی ۱۳۳ ( بازار بزرگ اطلس )'}"
+5,node,6357958885,36.2555688,59.6003141,"{'addr:street': 'میدان حافظ', 'amenity': 'car_wash', 'name': 'کارواش', 'name:en': 'Karwash', 'name:fa': 'کارواش نانوبخارسعید', 'opening_hours': 'Mo-Su 09:00-20:00'}"
+6,node,6417917186,36.2485719,59.600505,"{'amenity': 'atm', 'operator': 'خانه'}"

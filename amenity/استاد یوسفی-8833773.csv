@@ -1,0 +1,26 @@
+,type,id,lat,lon,tags
+0,node,2196461675,36.3568136,59.5225994,"{'amenity': 'place_of_worship', 'denomination': 'shia', 'religion': 'muslim'}"
+1,node,2260295141,36.3523199,59.5169332,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک مسکن', 'name:en': 'Bank Maskan'}"
+2,node,2631648216,36.3588527,59.5190008,"{'amenity': 'clinic', 'name': 'درمانگاه فاطمه الزهرا'}"
+3,node,2631664551,36.353771,59.5201469,"{'amenity': 'bank', 'name': 'بانک سپه'}"
+4,node,2756438719,36.3582782,59.5177848,"{'amenity': 'bank', 'atm': 'yes', 'name': 'بانک ملی'}"
+5,node,2756448380,36.356939,59.5144401,"{'amenity': 'parking', 'capacity': '190'}"
+6,node,3871284573,36.3564634,59.5159693,"{'amenity': 'fast_food', 'name': 'اغذیه افریقا'}"
+7,node,3871293764,36.3564418,59.5146067,{'amenity': 'library'}
+8,node,3901146357,36.3593379,59.517744,{'amenity': 'bicycle_rental'}
+9,node,4147824989,36.3590485,59.5185307,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر زهره جعفری'}"
+10,node,4263342736,36.362983,59.5287248,"{'amenity': 'pharmacy', 'dispensing': 'yes', 'healthcare': 'pharmacy', 'name': 'داروخانه شبانه\u200cروزی دکتر صادقیان', 'opening_hours': '24/7'}"
+11,node,4364714089,36.356754,59.5265096,"{'amenity': 'pharmacy', 'name': 'داروخانه دکتر قصبه'}"
+12,node,4385155292,36.358884,59.5139455,"{'addr:city': 'مشهد', 'addr:street': 'میدان مادر', 'amenity': 'post_office', 'name': 'مرکز پست شماره ۵', 'name:en': 'Post Office', 'opening_hours': 'Sa-Th 07:30-13:00'}"
+13,node,4561854892,36.3628469,59.5142439,"{'amenity': 'atm', 'opening_hours': '24/7', 'operator': 'Pasargad ATM'}"
+14,node,4648062293,36.3585106,59.5173742,"{'amenity': 'restaurant', 'name': 'رستوران پردیس', 'name:en': 'Paradise Restaurant'}"
+15,node,4661016289,36.3536454,59.5196106,"{'amenity': 'atm', 'opening_hours': '24/7', 'operator': 'Bank shahr'}"
+16,node,4687022713,36.3561111,59.5191169,"{'addr:housenumber': '237', 'addr:street': 'بولوار امامیه', 'amenity': 'fast_food', 'cuisine': 'burger;sandwich;breakfast;steak_house;pasta;diner;chicken;kebab;barbecue', 'email': 'lavij@gmail.com', 'internet_access': 'wlan', 'name': 'ساندویچ لاویج', 'name:en': 'Lavij sandwich', 'opening_hours': 'Mo-Su 07:30-23:59', 'phone': '+98 51 3662 0951'}"
+17,node,4690094991,36.3597778,59.5147794,{'amenity': 'toilets'}
+18,node,5036491421,36.3618796,59.529942,"{'addr:street': 'اندیشه ۲۷', 'amenity': 'school', 'name': 'دبستان شهید رجایی'}"
+19,node,5321726441,36.3540698,59.5187049,"{'amenity': 'driving_school', 'name': 'آموزشگاه رانندگی جمهوری'}"
+20,node,5843732296,36.3592743,59.5198091,"{'addr:housenumber': 'شاهد 65 و67', 'addr:street': 'بولوار شاهد', 'amenity': 'clinic', 'name': 'کلینیک سونوگرافی و تصویر برداری دکتر طاهریان', 'phone': '+98 51 3661 0741'}"
+21,node,8751339252,36.3523204,59.5186787,"{'amenity': 'cafe', 'contact:instagram': 'https://www.instagram.com/wood_coffee_/', 'name': 'Wood Coffee', 'phone': '+98 915 307 0397; +98 933 915 7743; +98 513 663 9932'}"
+22,node,9378407996,36.3599452,59.5140509,"{'amenity': 'parking', 'operator': 'پارکینگ'}"
+23,node,10113891710,36.3557871,59.5309424,"{'amenity': 'school', 'name': 'هنرستان فنی و حرفه ای دخترانه مهدی زاده نیا'}"
+24,node,10160827185,36.36051,59.5225029,"{'amenity': 'clinic', 'name': 'درمانگاه امیر کبیر'}"

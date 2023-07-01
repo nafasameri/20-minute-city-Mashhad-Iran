@@ -1,0 +1,11 @@
+,type,id,lat,lon,tags
+0,node,3901146357,36.3593379,59.517744,{'amenity': 'bicycle_rental'}
+1,node,4561854892,36.3628469,59.5142439,"{'amenity': 'atm', 'opening_hours': '24/7', 'operator': 'Pasargad ATM'}"
+2,node,4611395171,36.3651364,59.5190539,"{'addr:city': 'مشهد', 'addr:street': 'نبش حجاب ۳۸', 'amenity': 'bank', 'atm': 'yes', 'drive_through': 'no', 'name': 'خودپرداز بانک سپه'}"
+3,node,4690094991,36.3597778,59.5147794,{'amenity': 'toilets'}
+4,node,5311800705,36.3670382,59.5134973,"{'amenity': 'fast_food', 'name': 'فستفود'}"
+5,node,5843732296,36.3592743,59.5198091,"{'addr:housenumber': 'شاهد 65 و67', 'addr:street': 'بولوار شاهد', 'amenity': 'clinic', 'name': 'کلینیک سونوگرافی و تصویر برداری دکتر طاهریان', 'phone': '+98 51 3661 0741'}"
+6,node,6112950596,36.3641765,59.5216969,{'amenity': 'car_wash'}
+7,node,9378407996,36.3599452,59.5140509,"{'amenity': 'parking', 'operator': 'پارکینگ'}"
+8,node,10160827185,36.36051,59.5225029,"{'amenity': 'clinic', 'name': 'درمانگاه امیر کبیر'}"
+9,node,10808213656,36.3600916,59.5128282,"{'amenity': 'bank', 'brand': 'بانک مسکن', 'brand:en': 'Bank Maskan', 'brand:wikidata': 'Q4855942', 'name': 'بانک مسکن', 'name:en': 'Bank Maskan'}"
