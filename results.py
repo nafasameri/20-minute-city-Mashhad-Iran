@@ -1,4 +1,6 @@
 import os
+
+import numpy as np
 import pandas as pd
 
 # amenities = pd.read_csv('amenity/all-AmentiesCount.csv')
@@ -26,13 +28,13 @@ category = [{'public transport': ['bureau_de_change', 'bus_station', 'car_sharin
             {'sidewalks': ['footway', 'pedestrian']},
             {'residential': ['residential']},
             {'public safety': ['fire_station', 'police']},
-            {'commercial': ['atm', 'bank', 'register_office', 'post_box', 'post_office']},
+            {'commercial': ['atm', 'bank', 'register_office', 'post_box', 'post_office', 'marketplace',
+                            'vending_machine']},
             {'educational': ['college', 'university', 'driving_school', 'school', 'kindergarten', 'music_school']},
             {'recreational': ['cafe', 'cinema', 'fast_food', 'restaurant', 'ice_cream', 'food_court', 'rest_area',
                               'drinking_water', 'internet_cafe', 'library', 'place_of_worship', 'social_centre',
                               'service', 'social_facility', 'theatre', 'toilets', 'townhall', 'waste_basket',
                               'waste_disposal']},
-            {'stores': ['marketplace', 'vending_machine']},
             {'healthcare': ['dentist', 'doctors', 'clinic', 'pharmacy', 'hospital', 'veterinary']}]
 
 keywords = ['atm', 'bureau_de_change', 'bus_station', 'car_sharing', 'busway', 'road', 'track',
@@ -58,14 +60,13 @@ for path, subdirs, files in os.walk('amenity/'):
             a = pd.read_csv('amenity/' + files[i])
 
             if name == 'AmentiesCount.csv':
-                common_amenities = [{keywords[i]: a['count'].iloc[a['amenity'].to_list().index(keywords[i])]}
-                                    for i in range(len(keywords))
-                                    if keywords[i] in a['amenity'].to_list()]
+                name = 'amenity'
             elif name == 'RoadLength.csv':
-                common_amenities = [{keywords[i]: a['count'].iloc[a['highway'].to_list().index(keywords[i])]}
-                                    for i in range(len(keywords))
-                                    if keywords[i] in a['highway'].to_list()]
+                name = 'highway'
 
+            common_amenities = [{keywords[i]: a['count'].iloc[a[name].to_list().index(keywords[i])]}
+                                for i in range(len(keywords))
+                                if keywords[i] in a[name].to_list()]
             # print(common_amenities)
 
             count = []
@@ -112,7 +113,20 @@ for path, subdirs, files in os.walk('amenity/'):
             pass
 
 categories = [list(dic.keys())[0] for dic in category]
-categories.append('acc')
+categories.append('percentage')
+
+df = pd.DataFrame(results, index=categories)
+df = df.transpose()
+
+total_results = len(results)
+percentages = []
+for key in categories:
+    percentages.append((sum(1 for res in df[key] if res >= 1) / total_results) * 100)
+
+percentages.pop()
+percentages.append(np.mean(df['percentage']))
+results.__setitem__('percentage', percentages)
+
 df = pd.DataFrame(results, index=categories)
 df = df.transpose()
 df.to_html('results.html')
