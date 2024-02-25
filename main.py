@@ -3,7 +3,7 @@ import pandas as pd
 
 
 # Define the relation ID
-relation_id = 5725071
+relation_id = 6663864
 
 # Define the Overpass API query to retrieve the relation data
 overpass_url = "https://overpass-api.de/api/interpreter"
@@ -22,7 +22,7 @@ if "elements" in data:
     relation = data["elements"][0]  # Assuming the relation is the first element in the response
 
     df = pd.DataFrame([relation])
-    df.to_csv('5725071.csv')
+    df.to_csv('tehran.csv')
 
     # df = pd.DataFrame(relation['members'])
     # df.to_csv('members.csv')
@@ -33,15 +33,17 @@ if "elements" in data:
     # relation_geometry = relation["geometry"]
 
     # Print the extracted information
-    print("Relation Tags:", relation_tags)
-    print("Relation Members:", relation_members)
+    # print("Relation Tags:", relation_tags)
+    # print("Relation Members:", relation_members)
     # print("Relation Geometry:", relation_geometry)
+
+    # for x in relation_members:
+    #     if x['type'] == "relation":
+    #         print(x['ref'])
 else:
     print("Relation not found.")
 
-#
-#
-#
+
 # import osmnx as ox
 #
 # # Define the relation ID
@@ -54,12 +56,11 @@ else:
 # print(relation)
 # df = pd.DataFrame(relation)
 # df.to_csv('relation2.csv')
-#
-#
-#
-#
-#
-#
+
+
+
+
+
 # import osmnx as ox
 #
 # # Define the relation ID
@@ -81,15 +82,12 @@ else:
 #         print("No parks found within the relation.")
 # else:
 #     print("The 'leisure' column does not exist in the relation.")
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
+
+
+
+
+
 # import osmnx as ox
 #
 # # Define the coordinates of the point
@@ -106,13 +104,11 @@ else:
 # print(parks)
 # df = pd.DataFrame(parks)
 # df.to_csv('parks.csv')
-#
-#
-#
-#
-#
-#
-#
+
+
+
+
+
 # import osmnx as ox
 # from shapely.geometry import Polygon
 #
