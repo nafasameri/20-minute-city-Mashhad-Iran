@@ -111,7 +111,7 @@ import matplotlib.pyplot as plt
 import folium
 
 # دیتاست را بارگیری کنید (من فرض می‌کنم دیتاست در یک فایل CSV به نام 'data.csv' ذخیره شده است)
-data = pd.read_csv('mashhad/results-mashhad.csv')
+data = pd.read_csv('results-mashhad.csv')
 
 # تبدیل رشته‌های مختصات به لیست
 data['coordinates'] = data['coordinates'].apply(lambda x: ast.literal_eval(x))
@@ -121,10 +121,14 @@ m = folium.Map(location=[36.3, 59.5], zoom_start=11)
 
 # تعیین رنگ بر اساس درصد و ایجاد چند ضلعی‌ها بر روی نقشه
 for index, row in data.iterrows():
+    # print(index, row)
     try:
         percentage = row['percentage']
         coordinates = [(coord['lat'], coord['lon']) for coord in row['coordinates']]
+        print(percentage, coordinates)
         color = 'green' if percentage >= 80 else 'blue' if percentage >= 60 else 'yellow' if percentage >= 40 else 'red'
+        print(color, coordinates)
+
         folium.Polygon(locations=coordinates, color=color, fill=True, fill_opacity=0.5).add_to(m)
     except:
         pass
